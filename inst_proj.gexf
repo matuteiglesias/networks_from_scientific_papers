@@ -1,0 +1,1548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lat" type="double" />
+      <attribute id="1" title="lng" type="double" />
+      <attribute id="2" title="cou" type="string" />
+      <attribute id="3" title="al1" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="44.0" />
+          <attvalue for="1" value="-123.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="OR" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="49.0" />
+          <attvalue for="1" value="-123.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="BC" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+          <attvalue for="1" value="-122.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CA" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="38.0" />
+          <attvalue for="1" value="-122.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CA" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="-120.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CA" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+          <attvalue for="1" value="-120.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CA" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="-118.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CA" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="33.0" />
+          <attvalue for="1" value="-117.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CA" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="-114.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="AB" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="54.0" />
+          <attvalue for="1" value="-114.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="AB" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="33.0" />
+          <attvalue for="1" value="-112.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="AZ" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="32.0" />
+          <attvalue for="1" value="-111.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="AZ" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="35.0" />
+          <attvalue for="1" value="-107.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NM" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="-106.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NM" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+          <attvalue for="1" value="-105.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CO" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="31.0" />
+          <attvalue for="1" value="-104.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="TX" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="0" value="19.0" />
+          <attvalue for="1" value="-99.0" />
+          <attvalue for="2" value="MX" />
+          <attvalue for="3" value="CDMX" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="-99.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="TX" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="-98.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="TX" />
+        </attvalues>
+      </node>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="0" value="31.0" />
+          <attvalue for="1" value="-96.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="TX" />
+        </attvalues>
+      </node>
+      <node id="36" label="36">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="-95.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="TX" />
+        </attvalues>
+      </node>
+      <node id="37" label="37">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+          <attvalue for="1" value="-93.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MN" />
+        </attvalues>
+      </node>
+      <node id="38" label="38">
+        <attvalues>
+          <attvalue for="0" value="32.0" />
+          <attvalue for="1" value="-92.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="LA" />
+        </attvalues>
+      </node>
+      <node id="40" label="40">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="-91.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="LA" />
+        </attvalues>
+      </node>
+      <node id="41" label="41">
+        <attvalues>
+          <attvalue for="0" value="38.0" />
+          <attvalue for="1" value="-90.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MO" />
+        </attvalues>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+          <attvalue for="1" value="-90.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MO" />
+        </attvalues>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+          <attvalue for="1" value="-88.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="IL" />
+        </attvalues>
+      </node>
+      <node id="45" label="45">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="-88.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="IL" />
+        </attvalues>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+          <attvalue for="1" value="-87.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="IN" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="-86.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="TN" />
+        </attvalues>
+      </node>
+      <node id="53" label="53">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="-84.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MI" />
+        </attvalues>
+      </node>
+      <node id="55" label="55">
+        <attvalues>
+          <attvalue for="0" value="35.0" />
+          <attvalue for="1" value="-81.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NC" />
+        </attvalues>
+      </node>
+      <node id="57" label="57">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+          <attvalue for="1" value="-80.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="PA" />
+        </attvalues>
+      </node>
+      <node id="59" label="59">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="-79.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NC" />
+        </attvalues>
+      </node>
+      <node id="60" label="60">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+          <attvalue for="1" value="-78.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NY" />
+        </attvalues>
+      </node>
+      <node id="61" label="61">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+          <attvalue for="1" value="-77.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MD" />
+        </attvalues>
+      </node>
+      <node id="62" label="62">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="-77.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NY" />
+        </attvalues>
+      </node>
+      <node id="64" label="64">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="-76.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NY" />
+        </attvalues>
+      </node>
+      <node id="66" label="66">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+          <attvalue for="1" value="-76.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="ON" />
+        </attvalues>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+          <attvalue for="1" value="-75.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NJ" />
+        </attvalues>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="0" value="41.0" />
+          <attvalue for="1" value="-74.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="NY" />
+        </attvalues>
+      </node>
+      <node id="69" label="69">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="-74.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="QC" />
+        </attvalues>
+      </node>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="0" value="41.0" />
+          <attvalue for="1" value="-73.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="CT" />
+        </attvalues>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="-72.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MA" />
+        </attvalues>
+      </node>
+      <node id="73" label="73">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+          <attvalue for="1" value="-72.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="QC" />
+        </attvalues>
+      </node>
+      <node id="75" label="75">
+        <attvalues>
+          <attvalue for="0" value="-33.0" />
+          <attvalue for="1" value="-71.0" />
+          <attvalue for="2" value="CL" />
+          <attvalue for="3" value="RegiÃ³n Metropolitana" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="-71.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MA" />
+        </attvalues>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+          <attvalue for="1" value="-71.0" />
+          <attvalue for="2" value="US" />
+          <attvalue for="3" value="MA" />
+        </attvalues>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="0" value="47.0" />
+          <attvalue for="1" value="-71.0" />
+          <attvalue for="2" value="CA" />
+          <attvalue for="3" value="QC" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="-25.0" />
+          <attvalue for="1" value="-70.0" />
+          <attvalue for="2" value="CL" />
+          <attvalue for="3" value="RegiÃ³n de Antofagasta" />
+        </attvalues>
+      </node>
+      <node id="80" label="80">
+        <attvalues>
+          <attvalue for="0" value="-23.0" />
+          <attvalue for="1" value="-47.0" />
+          <attvalue for="2" value="BR" />
+          <attvalue for="3" value="SP" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="28.0" />
+          <attvalue for="1" value="-16.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="CN" />
+        </attvalues>
+      </node>
+      <node id="84" label="84">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="-6.0" />
+          <attvalue for="2" value="MA" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="86" label="86">
+        <attvalues>
+          <attvalue for="0" value="55.0" />
+          <attvalue for="1" value="-6.0" />
+          <attvalue for="2" value="GB" />
+          <attvalue for="3" value="Northern Ireland" />
+        </attvalues>
+      </node>
+      <node id="87" label="87">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+          <attvalue for="1" value="-4.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="AL" />
+        </attvalues>
+      </node>
+      <node id="89" label="89">
+        <attvalues>
+          <attvalue for="0" value="41.0" />
+          <attvalue for="1" value="-4.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="Comunidad de Madrid" />
+        </attvalues>
+      </node>
+      <node id="91" label="91">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="-4.0" />
+          <attvalue for="2" value="GB" />
+          <attvalue for="3" value="England" />
+        </attvalues>
+      </node>
+      <node id="96" label="96">
+        <attvalues>
+          <attvalue for="0" value="56.0" />
+          <attvalue for="1" value="-3.0" />
+          <attvalue for="2" value="GB" />
+          <attvalue for="3" value="Scotland" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+          <attvalue for="1" value="-2.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="PV" />
+        </attvalues>
+      </node>
+      <node id="105" label="105">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="-1.0" />
+          <attvalue for="2" value="GB" />
+          <attvalue for="3" value="England" />
+        </attvalues>
+      </node>
+      <node id="107" label="107">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+          <attvalue for="1" value="-0.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="111" label="111">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="GB" />
+          <attvalue for="3" value="England" />
+        </attvalues>
+      </node>
+      <node id="113" label="113">
+        <attvalues>
+          <attvalue for="0" value="41.0" />
+          <attvalue for="1" value="2.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="114" label="114">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="2.0" />
+          <attvalue for="2" value="ES" />
+          <attvalue for="3" value="CT" />
+        </attvalues>
+      </node>
+      <node id="116" label="116">
+        <attvalues>
+          <attvalue for="0" value="49.0" />
+          <attvalue for="1" value="2.0" />
+          <attvalue for="2" value="FR" />
+          <attvalue for="3" value="Ãle-de-France" />
+        </attvalues>
+      </node>
+      <node id="118" label="118">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="3.0" />
+          <attvalue for="2" value="FR" />
+          <attvalue for="3" value="Hauts-de-France" />
+        </attvalues>
+      </node>
+      <node id="119" label="119">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="4.0" />
+          <attvalue for="2" value="BE" />
+          <attvalue for="3" value="Bruxelles" />
+        </attvalues>
+      </node>
+      <node id="120" label="120">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="4.0" />
+          <attvalue for="2" value="NL" />
+          <attvalue for="3" value="ZH" />
+        </attvalues>
+      </node>
+      <node id="121" label="121">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+          <attvalue for="1" value="5.0" />
+          <attvalue for="2" value="FR" />
+          <attvalue for="3" value="Provence-Alpes-CÃ´te d'Azur" />
+        </attvalues>
+      </node>
+      <node id="122" label="122">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="5.0" />
+          <attvalue for="2" value="FR" />
+          <attvalue for="3" value="Auvergne-RhÃ´ne-Alpes" />
+        </attvalues>
+      </node>
+      <node id="123" label="123">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="5.0" />
+          <attvalue for="2" value="NL" />
+          <attvalue for="3" value="NB" />
+        </attvalues>
+      </node>
+      <node id="124" label="124">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="5.0" />
+          <attvalue for="2" value="NL" />
+          <attvalue for="3" value="NH" />
+        </attvalues>
+      </node>
+      <node id="125" label="125">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+          <attvalue for="1" value="6.0" />
+          <attvalue for="2" value="FR" />
+          <attvalue for="3" value="Auvergne-RhÃ´ne-Alpes" />
+        </attvalues>
+      </node>
+      <node id="126" label="126">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="6.0" />
+          <attvalue for="2" value="CH" />
+          <attvalue for="3" value="GE" />
+        </attvalues>
+      </node>
+      <node id="132" label="132">
+        <attvalues>
+          <attvalue for="0" value="47.0" />
+          <attvalue for="1" value="7.0" />
+          <attvalue for="2" value="CH" />
+          <attvalue for="3" value="VD" />
+        </attvalues>
+      </node>
+      <node id="137" label="137">
+        <attvalues>
+          <attvalue for="0" value="47.0" />
+          <attvalue for="1" value="8.0" />
+          <attvalue for="2" value="CH" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="138" label="138">
+        <attvalues>
+          <attvalue for="0" value="48.0" />
+          <attvalue for="1" value="8.0" />
+          <attvalue for="2" value="CH" />
+          <attvalue for="3" value="BS" />
+        </attvalues>
+      </node>
+      <node id="139" label="139">
+        <attvalues>
+          <attvalue for="0" value="49.0" />
+          <attvalue for="1" value="8.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="BW" />
+        </attvalues>
+      </node>
+      <node id="141" label="141">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="8.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="NRW" />
+        </attvalues>
+      </node>
+      <node id="142" label="142">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="8.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="NRW" />
+        </attvalues>
+      </node>
+      <node id="145" label="145">
+        <attvalues>
+          <attvalue for="0" value="47.0" />
+          <attvalue for="1" value="9.0" />
+          <attvalue for="2" value="CH" />
+          <attvalue for="3" value="ZH" />
+        </attvalues>
+      </node>
+      <node id="146" label="146">
+        <attvalues>
+          <attvalue for="0" value="48.0" />
+          <attvalue for="1" value="9.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="BW" />
+        </attvalues>
+      </node>
+      <node id="149" label="149">
+        <attvalues>
+          <attvalue for="0" value="44.0" />
+          <attvalue for="1" value="10.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Toscana" />
+        </attvalues>
+      </node>
+      <node id="153" label="153">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="10.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="NDS" />
+        </attvalues>
+      </node>
+      <node id="154" label="154">
+        <attvalues>
+          <attvalue for="0" value="54.0" />
+          <attvalue for="1" value="10.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="HH" />
+        </attvalues>
+      </node>
+      <node id="155" label="155">
+        <attvalues>
+          <attvalue for="0" value="56.0" />
+          <attvalue for="1" value="10.0" />
+          <attvalue for="2" value="DK" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="156" label="156">
+        <attvalues>
+          <attvalue for="0" value="44.0" />
+          <attvalue for="1" value="11.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Toscana" />
+        </attvalues>
+      </node>
+      <node id="157" label="157">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+          <attvalue for="1" value="11.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Emilia-Romagna" />
+        </attvalues>
+      </node>
+      <node id="158" label="158">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="11.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Trentino-Alto Adige" />
+        </attvalues>
+      </node>
+      <node id="159" label="159">
+        <attvalues>
+          <attvalue for="0" value="47.0" />
+          <attvalue for="1" value="11.0" />
+          <attvalue for="2" value="AT" />
+          <attvalue for="3" value="Tyrol" />
+        </attvalues>
+      </node>
+      <node id="161" label="161">
+        <attvalues>
+          <attvalue for="0" value="50.0" />
+          <attvalue for="1" value="11.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="BY" />
+        </attvalues>
+      </node>
+      <node id="166" label="166">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+          <attvalue for="1" value="12.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Veneto" />
+        </attvalues>
+      </node>
+      <node id="167" label="167">
+        <attvalues>
+          <attvalue for="0" value="48.0" />
+          <attvalue for="1" value="12.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="BY" />
+        </attvalues>
+      </node>
+      <node id="168" label="168">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="12.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="Thuringia" />
+        </attvalues>
+      </node>
+      <node id="172" label="172">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+          <attvalue for="1" value="13.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Marche" />
+        </attvalues>
+      </node>
+      <node id="173" label="173">
+        <attvalues>
+          <attvalue for="0" value="52.0" />
+          <attvalue for="1" value="13.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="BB" />
+        </attvalues>
+      </node>
+      <node id="174" label="174">
+        <attvalues>
+          <attvalue for="0" value="53.0" />
+          <attvalue for="1" value="13.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="Berlin" />
+        </attvalues>
+      </node>
+      <node id="176" label="176">
+        <attvalues>
+          <attvalue for="0" value="56.0" />
+          <attvalue for="1" value="13.0" />
+          <attvalue for="2" value="DK" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="177" label="177">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="14.0" />
+          <attvalue for="2" value="MT" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="179" label="179">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="14.0" />
+          <attvalue for="2" value="IT" />
+          <attvalue for="3" value="Friuli-Venezia Giulia" />
+        </attvalues>
+      </node>
+      <node id="181" label="181">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+          <attvalue for="1" value="14.0" />
+          <attvalue for="2" value="DE" />
+          <attvalue for="3" value="SN" />
+        </attvalues>
+      </node>
+      <node id="187" label="187">
+        <attvalues>
+          <attvalue for="0" value="48.0" />
+          <attvalue for="1" value="16.0" />
+          <attvalue for="2" value="AT" />
+          <attvalue for="3" value="Wien" />
+        </attvalues>
+      </node>
+      <node id="189" label="189">
+        <attvalues>
+          <attvalue for="0" value="50.0" />
+          <attvalue for="1" value="17.0" />
+          <attvalue for="2" value="CZ" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="195" label="195">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="21.0" />
+          <attvalue for="2" value="RO" />
+          <attvalue for="3" value="AR" />
+        </attvalues>
+      </node>
+      <node id="201" label="201">
+        <attvalues>
+          <attvalue for="0" value="60.0" />
+          <attvalue for="1" value="25.0" />
+          <attvalue for="2" value="FI" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="203" label="203">
+        <attvalues>
+          <attvalue for="0" value="62.0" />
+          <attvalue for="1" value="26.0" />
+          <attvalue for="2" value="FI" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="208" label="208">
+        <attvalues>
+          <attvalue for="0" value="60.0" />
+          <attvalue for="1" value="30.0" />
+          <attvalue for="2" value="RU" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="213" label="213">
+        <attvalues>
+          <attvalue for="0" value="33.0" />
+          <attvalue for="1" value="35.0" />
+          <attvalue for="2" value="IL" />
+          <attvalue for="3" value="Haifa District" />
+        </attvalues>
+      </node>
+      <node id="221" label="221">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="51.0" />
+          <attvalue for="2" value="IR" />
+          <attvalue for="3" value="Tehran Province" />
+        </attvalues>
+      </node>
+      <node id="227" label="227">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="67.0" />
+          <attvalue for="2" value="PK" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="229" label="229">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="73.0" />
+          <attvalue for="2" value="PK" />
+          <attvalue for="3" value="Islamabad Capital Territory" />
+        </attvalues>
+      </node>
+      <node id="231" label="231">
+        <attvalues>
+          <attvalue for="0" value="29.0" />
+          <attvalue for="1" value="77.0" />
+          <attvalue for="2" value="IN" />
+          <attvalue for="3" value="DL" />
+        </attvalues>
+      </node>
+      <node id="237" label="237">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="104.0" />
+          <attvalue for="2" value="SG" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="240" label="240">
+        <attvalues>
+          <attvalue for="0" value="32.0" />
+          <attvalue for="1" value="105.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Sichuan" />
+        </attvalues>
+      </node>
+      <node id="241" label="241">
+        <attvalues>
+          <attvalue for="0" value="26.0" />
+          <attvalue for="1" value="107.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Guizhou Sheng" />
+        </attvalues>
+      </node>
+      <node id="243" label="243">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="109.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Shaanxi Sheng" />
+        </attvalues>
+      </node>
+      <node id="244" label="244">
+        <attvalues>
+          <attvalue for="0" value="28.0" />
+          <attvalue for="1" value="110.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Hunan Sheng" />
+        </attvalues>
+      </node>
+      <node id="245" label="245">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="112.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Hubei" />
+        </attvalues>
+      </node>
+      <node id="246" label="246">
+        <attvalues>
+          <attvalue for="0" value="23.0" />
+          <attvalue for="1" value="113.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Guangdong Sheng" />
+        </attvalues>
+      </node>
+      <node id="247" label="247">
+        <attvalues>
+          <attvalue for="0" value="28.0" />
+          <attvalue for="1" value="113.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Hunan Sheng" />
+        </attvalues>
+      </node>
+      <node id="248" label="248">
+        <attvalues>
+          <attvalue for="0" value="38.0" />
+          <attvalue for="1" value="113.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Shanxi Sheng" />
+        </attvalues>
+      </node>
+      <node id="249" label="249">
+        <attvalues>
+          <attvalue for="0" value="22.0" />
+          <attvalue for="1" value="114.0" />
+          <attvalue for="2" value="MO" />
+          <attvalue for="3" value="nan" />
+        </attvalues>
+      </node>
+      <node id="251" label="251">
+        <attvalues>
+          <attvalue for="0" value="31.0" />
+          <attvalue for="1" value="114.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Hubei Sheng" />
+        </attvalues>
+      </node>
+      <node id="253" label="253">
+        <attvalues>
+          <attvalue for="0" value="35.0" />
+          <attvalue for="1" value="114.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Henan Sheng" />
+        </attvalues>
+      </node>
+      <node id="257" label="257">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+          <attvalue for="1" value="116.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Beijing Shi" />
+        </attvalues>
+      </node>
+      <node id="258" label="258">
+        <attvalues>
+          <attvalue for="0" value="32.0" />
+          <attvalue for="1" value="117.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Anhui Sheng" />
+        </attvalues>
+      </node>
+      <node id="259" label="259">
+        <attvalues>
+          <attvalue for="0" value="33.0" />
+          <attvalue for="1" value="117.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Anhui Sheng" />
+        </attvalues>
+      </node>
+      <node id="260" label="260">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="117.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Jiangsu Sheng" />
+        </attvalues>
+      </node>
+      <node id="261" label="261">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+          <attvalue for="1" value="117.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Tianjin Shi" />
+        </attvalues>
+      </node>
+      <node id="262" label="262">
+        <attvalues>
+          <attvalue for="0" value="24.0" />
+          <attvalue for="1" value="118.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Fujian" />
+        </attvalues>
+      </node>
+      <node id="264" label="264">
+        <attvalues>
+          <attvalue for="0" value="32.0" />
+          <attvalue for="1" value="119.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Jiangsu Sheng" />
+        </attvalues>
+      </node>
+      <node id="265" label="265">
+        <attvalues>
+          <attvalue for="0" value="34.0" />
+          <attvalue for="1" value="119.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Jiangsu Sheng" />
+        </attvalues>
+      </node>
+      <node id="267" label="267">
+        <attvalues>
+          <attvalue for="0" value="30.0" />
+          <attvalue for="1" value="120.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Zhejiang Sheng" />
+        </attvalues>
+      </node>
+      <node id="272" label="272">
+        <attvalues>
+          <attvalue for="0" value="31.0" />
+          <attvalue for="1" value="121.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Shanghai" />
+        </attvalues>
+      </node>
+      <node id="274" label="274">
+        <attvalues>
+          <attvalue for="0" value="31.0" />
+          <attvalue for="1" value="122.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Shanghai Shi" />
+        </attvalues>
+      </node>
+      <node id="275" label="275">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+          <attvalue for="1" value="122.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Liaoning Sheng" />
+        </attvalues>
+      </node>
+      <node id="276" label="276">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="123.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Liaoning Sheng" />
+        </attvalues>
+      </node>
+      <node id="277" label="277">
+        <attvalues>
+          <attvalue for="0" value="44.0" />
+          <attvalue for="1" value="125.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Jilin Sheng" />
+        </attvalues>
+      </node>
+      <node id="278" label="278">
+        <attvalues>
+          <attvalue for="0" value="47.0" />
+          <attvalue for="1" value="125.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Heilongjiang Sheng" />
+        </attvalues>
+      </node>
+      <node id="279" label="279">
+        <attvalues>
+          <attvalue for="0" value="42.0" />
+          <attvalue for="1" value="126.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Jilin" />
+        </attvalues>
+      </node>
+      <node id="280" label="280">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="127.0" />
+          <attvalue for="2" value="KR" />
+          <attvalue for="3" value="Daejeon" />
+        </attvalues>
+      </node>
+      <node id="281" label="281">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+          <attvalue for="1" value="127.0" />
+          <attvalue for="2" value="KR" />
+          <attvalue for="3" value="Gyeonggi-do" />
+        </attvalues>
+      </node>
+      <node id="282" label="282">
+        <attvalues>
+          <attvalue for="0" value="38.0" />
+          <attvalue for="1" value="127.0" />
+          <attvalue for="2" value="KR" />
+          <attvalue for="3" value="Seoul" />
+        </attvalues>
+      </node>
+      <node id="283" label="283">
+        <attvalues>
+          <attvalue for="0" value="46.0" />
+          <attvalue for="1" value="127.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Heilongjiang Sheng" />
+        </attvalues>
+      </node>
+      <node id="284" label="284">
+        <attvalues>
+          <attvalue for="0" value="26.0" />
+          <attvalue for="1" value="128.0" />
+          <attvalue for="2" value="JP" />
+          <attvalue for="3" value="Okinawa Prefecture" />
+        </attvalues>
+      </node>
+      <node id="287" label="287">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+          <attvalue for="1" value="129.0" />
+          <attvalue for="2" value="CN" />
+          <attvalue for="3" value="Jilin Sheng" />
+        </attvalues>
+      </node>
+      <node id="289" label="289">
+        <attvalues>
+          <attvalue for="0" value="35.0" />
+          <attvalue for="1" value="139.0" />
+          <attvalue for="2" value="JP" />
+          <attvalue for="3" value="Kanagawa Prefecture" />
+        </attvalues>
+      </node>
+      <node id="290" label="290">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="139.0" />
+          <attvalue for="2" value="JP" />
+          <attvalue for="3" value="Kanagawa Prefecture" />
+        </attvalues>
+      </node>
+      <node id="291" label="291">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+          <attvalue for="1" value="140.0" />
+          <attvalue for="2" value="JP" />
+          <attvalue for="3" value="Tokyo" />
+        </attvalues>
+      </node>
+      <node id="292" label="292">
+        <attvalues>
+          <attvalue for="0" value="-38.0" />
+          <attvalue for="1" value="145.0" />
+          <attvalue for="2" value="AU" />
+          <attvalue for="3" value="VIC" />
+        </attvalues>
+      </node>
+      <node id="293" label="293">
+        <attvalues>
+          <attvalue for="0" value="-35.0" />
+          <attvalue for="1" value="149.0" />
+          <attvalue for="2" value="AU" />
+          <attvalue for="3" value="ACT" />
+        </attvalues>
+      </node>
+      <node id="294" label="294">
+        <attvalues>
+          <attvalue for="0" value="-34.0" />
+          <attvalue for="1" value="151.0" />
+          <attvalue for="2" value="AU" />
+          <attvalue for="3" value="NSW" />
+        </attvalues>
+      </node>
+      <node id="296" label="296">
+        <attvalues>
+          <attvalue for="0" value="-27.0" />
+          <attvalue for="1" value="153.0" />
+          <attvalue for="2" value="AU" />
+          <attvalue for="3" value="QLD" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="264" weight="0.0666666666667" />
+      <edge id="1" source="1" target="257" weight="0.018691588785" />
+      <edge id="2" source="1" target="258" weight="0.111111111111" />
+      <edge id="3" source="1" target="267" weight="0.111111111111" />
+      <edge id="4" source="3" target="78" weight="0.0666666666667" />
+      <edge id="5" source="4" target="11" weight="0.0106382978723" />
+      <edge id="6" source="4" target="119" weight="0.0588235294118" />
+      <edge id="7" source="5" target="240" weight="0.0263157894737" />
+      <edge id="8" source="5" target="251" weight="0.0232558139535" />
+      <edge id="9" source="5" target="48" weight="0.0263157894737" />
+      <edge id="10" source="5" target="20" weight="0.0434782608696" />
+      <edge id="11" source="5" target="24" weight="0.0208333333333" />
+      <edge id="12" source="5" target="155" weight="0.0263157894737" />
+      <edge id="13" source="7" target="11" weight="0.0106382978723" />
+      <edge id="14" source="7" target="187" weight="0.0294117647059" />
+      <edge id="15" source="7" target="70" weight="0.0181818181818" />
+      <edge id="16" source="8" target="249" weight="0.111111111111" />
+      <edge id="17" source="8" target="291" weight="0.0909090909091" />
+      <edge id="18" source="11" target="257" weight="0.0280373831776" />
+      <edge id="19" source="11" target="132" weight="0.0212765957447" />
+      <edge id="20" source="11" target="264" weight="0.0106382978723" />
+      <edge id="21" source="11" target="272" weight="0.0106382978723" />
+      <edge id="22" source="11" target="276" weight="0.0106382978723" />
+      <edge id="23" source="11" target="277" weight="0.0106382978723" />
+      <edge id="24" source="11" target="281" weight="0.0212765957447" />
+      <edge id="25" source="11" target="24" weight="0.0106382978723" />
+      <edge id="26" source="11" target="25" weight="0.0106382978723" />
+      <edge id="27" source="11" target="32" weight="0.0212765957447" />
+      <edge id="28" source="11" target="289" weight="0.0106382978723" />
+      <edge id="29" source="11" target="36" weight="0.0106382978723" />
+      <edge id="30" source="11" target="37" weight="0.0106382978723" />
+      <edge id="31" source="11" target="167" weight="0.0106382978723" />
+      <edge id="32" source="11" target="42" weight="0.0106382978723" />
+      <edge id="33" source="11" target="172" weight="0.0106382978723" />
+      <edge id="34" source="11" target="179" weight="0.0106382978723" />
+      <edge id="35" source="11" target="53" weight="0.0106382978723" />
+      <edge id="36" source="11" target="60" weight="0.0106382978723" />
+      <edge id="37" source="11" target="61" weight="0.0425531914894" />
+      <edge id="38" source="11" target="70" weight="0.0106382978723" />
+      <edge id="39" source="11" target="76" weight="0.0106382978723" />
+      <edge id="40" source="11" target="80" weight="0.0212765957447" />
+      <edge id="41" source="11" target="213" weight="0.0106382978723" />
+      <edge id="42" source="11" target="240" weight="0.0106382978723" />
+      <edge id="43" source="11" target="113" weight="0.0212765957447" />
+      <edge id="44" source="11" target="248" weight="0.0106382978723" />
+      <edge id="45" source="11" target="251" weight="0.0212765957447" />
+      <edge id="46" source="12" target="277" weight="0.047619047619" />
+      <edge id="47" source="15" target="16" weight="0.131578947368" />
+      <edge id="48" source="15" target="187" weight="0.0294117647059" />
+      <edge id="49" source="17" target="264" weight="0.0666666666667" />
+      <edge id="50" source="20" target="42" weight="0.0217391304348" />
+      <edge id="51" source="20" target="76" weight="0.0149253731343" />
+      <edge id="52" source="20" target="272" weight="0.0217391304348" />
+      <edge id="53" source="20" target="155" weight="0.0217391304348" />
+      <edge id="54" source="20" target="60" weight="0.0217391304348" />
+      <edge id="55" source="20" target="253" weight="0.0217391304348" />
+      <edge id="56" source="22" target="174" weight="0.0714285714286" />
+      <edge id="57" source="22" target="70" weight="0.0181818181818" />
+      <edge id="58" source="22" target="159" weight="0.0526315789474" />
+      <edge id="59" source="23" target="70" weight="0.0181818181818" />
+      <edge id="60" source="24" target="71" weight="0.0208333333333" />
+      <edge id="61" source="24" target="243" weight="0.0208333333333" />
+      <edge id="62" source="24" target="282" weight="0.0208333333333" />
+      <edge id="63" source="24" target="61" weight="0.0112359550562" />
+      <edge id="64" source="25" target="32" weight="0.05" />
+      <edge id="65" source="25" target="280" weight="0.0178571428571" />
+      <edge id="66" source="25" target="281" weight="0.0555555555556" />
+      <edge id="67" source="29" target="53" weight="0.0333333333333" />
+      <edge id="68" source="30" target="41" weight="0.333333333333" />
+      <edge id="69" source="30" target="42" weight="0.111111111111" />
+      <edge id="70" source="32" target="237" weight="0.0192307692308" />
+      <edge id="71" source="32" target="281" weight="0.1" />
+      <edge id="72" source="32" target="283" weight="0.05" />
+      <edge id="73" source="32" target="247" weight="0.05" />
+      <edge id="74" source="34" target="60" weight="0.0333333333333" />
+      <edge id="75" source="36" target="97" weight="0.0666666666667" />
+      <edge id="76" source="36" target="161" weight="0.0344827586207" />
+      <edge id="77" source="36" target="240" weight="0.0666666666667" />
+      <edge id="78" source="36" target="179" weight="0.0666666666667" />
+      <edge id="79" source="36" target="277" weight="0.047619047619" />
+      <edge id="80" source="36" target="61" weight="0.0112359550562" />
+      <edge id="81" source="36" target="159" weight="0.0526315789474" />
+      <edge id="82" source="37" target="264" weight="0.0666666666667" />
+      <edge id="83" source="37" target="257" weight="0.00934579439252" />
+      <edge id="84" source="37" target="70" weight="0.0181818181818" />
+      <edge id="85" source="38" target="272" weight="0.0384615384615" />
+      <edge id="86" source="40" target="76" weight="0.0149253731343" />
+      <edge id="87" source="41" target="161" weight="0.0344827586207" />
+      <edge id="88" source="41" target="42" weight="0.111111111111" />
+      <edge id="89" source="42" target="277" weight="0.047619047619" />
+      <edge id="90" source="44" target="281" weight="0.0555555555556" />
+      <edge id="91" source="44" target="59" weight="0.0666666666667" />
+      <edge id="92" source="44" target="45" weight="0.03125" />
+      <edge id="93" source="44" target="53" weight="0.0555555555556" />
+      <edge id="94" source="45" target="272" weight="0.03125" />
+      <edge id="95" source="45" target="167" weight="0.0147058823529" />
+      <edge id="96" source="48" target="240" weight="0.125" />
+      <edge id="97" source="49" target="66" weight="0.2" />
+      <edge id="98" source="53" target="257" weight="0.00934579439252" />
+      <edge id="99" source="53" target="68" weight="0.0454545454545" />
+      <edge id="100" source="53" target="70" weight="0.0181818181818" />
+      <edge id="101" source="53" target="141" weight="0.0555555555556" />
+      <edge id="102" source="53" target="237" weight="0.0192307692308" />
+      <edge id="103" source="53" target="176" weight="0.027027027027" />
+      <edge id="104" source="53" target="213" weight="0.0555555555556" />
+      <edge id="105" source="55" target="257" weight="0.00934579439252" />
+      <edge id="106" source="55" target="259" weight="0.2" />
+      <edge id="107" source="55" target="68" weight="0.0454545454545" />
+      <edge id="108" source="55" target="247" weight="0.0833333333333" />
+      <edge id="109" source="57" target="67" weight="0.05" />
+      <edge id="110" source="57" target="231" weight="0.111111111111" />
+      <edge id="111" source="60" target="257" weight="0.00934579439252" />
+      <edge id="112" source="60" target="195" weight="0.0333333333333" />
+      <edge id="113" source="60" target="293" weight="0.0333333333333" />
+      <edge id="114" source="60" target="145" weight="0.0263157894737" />
+      <edge id="115" source="60" target="149" weight="0.0333333333333" />
+      <edge id="116" source="60" target="248" weight="0.0333333333333" />
+      <edge id="117" source="60" target="283" weight="0.0333333333333" />
+      <edge id="118" source="61" target="64" weight="0.0112359550562" />
+      <edge id="119" source="61" target="289" weight="0.0112359550562" />
+      <edge id="120" source="61" target="290" weight="0.0112359550562" />
+      <edge id="121" source="61" target="70" weight="0.0112359550562" />
+      <edge id="122" source="61" target="71" weight="0.0112359550562" />
+      <edge id="123" source="61" target="138" weight="0.0112359550562" />
+      <edge id="124" source="61" target="76" weight="0.0112359550562" />
+      <edge id="125" source="61" target="240" weight="0.0112359550562" />
+      <edge id="126" source="61" target="248" weight="0.0112359550562" />
+      <edge id="127" source="61" target="179" weight="0.0112359550562" />
+      <edge id="128" source="61" target="243" weight="0.0112359550562" />
+      <edge id="129" source="61" target="251" weight="0.0112359550562" />
+      <edge id="130" source="62" target="64" weight="0.0294117647059" />
+      <edge id="131" source="64" target="67" weight="0.0588235294118" />
+      <edge id="132" source="64" target="77" weight="0.0294117647059" />
+      <edge id="133" source="67" target="96" weight="0.037037037037" />
+      <edge id="134" source="68" target="257" weight="0.00934579439252" />
+      <edge id="135" source="68" target="259" weight="0.0454545454545" />
+      <edge id="136" source="68" target="247" weight="0.0454545454545" />
+      <edge id="137" source="68" target="280" weight="0.0178571428571" />
+      <edge id="138" source="69" target="96" weight="0.0188679245283" />
+      <edge id="139" source="69" target="257" weight="0.00934579439252" />
+      <edge id="140" source="69" target="70" weight="0.0545454545455" />
+      <edge id="141" source="70" target="257" weight="0.00934579439252" />
+      <edge id="142" source="70" target="258" weight="0.0181818181818" />
+      <edge id="143" source="70" target="138" weight="0.0181818181818" />
+      <edge id="144" source="70" target="139" weight="0.0181818181818" />
+      <edge id="145" source="70" target="142" weight="0.0181818181818" />
+      <edge id="146" source="70" target="153" weight="0.0181818181818" />
+      <edge id="147" source="70" target="177" weight="0.0181818181818" />
+      <edge id="148" source="70" target="86" weight="0.0181818181818" />
+      <edge id="149" source="70" target="237" weight="0.0181818181818" />
+      <edge id="150" source="70" target="111" weight="0.0181818181818" />
+      <edge id="151" source="70" target="240" weight="0.0181818181818" />
+      <edge id="152" source="70" target="114" weight="0.0181818181818" />
+      <edge id="153" source="70" target="116" weight="0.037037037037" />
+      <edge id="154" source="70" target="248" weight="0.0181818181818" />
+      <edge id="155" source="70" target="251" weight="0.0181818181818" />
+      <edge id="156" source="71" target="257" weight="0.00934579439252" />
+      <edge id="157" source="71" target="76" weight="0.0149253731343" />
+      <edge id="158" source="71" target="243" weight="0.111111111111" />
+      <edge id="159" source="71" target="277" weight="0.047619047619" />
+      <edge id="160" source="73" target="157" weight="0.125" />
+      <edge id="161" source="73" target="293" weight="0.0555555555556" />
+      <edge id="162" source="75" target="79" weight="0.125" />
+      <edge id="163" source="76" target="89" weight="0.0149253731343" />
+      <edge id="164" source="76" target="187" weight="0.0149253731343" />
+      <edge id="165" source="78" target="257" weight="0.00934579439252" />
+      <edge id="166" source="78" target="251" weight="0.0232558139535" />
+      <edge id="167" source="82" target="167" weight="0.0147058823529" />
+      <edge id="168" source="82" target="87" weight="0.0243902439024" />
+      <edge id="169" source="84" target="107" weight="0.166666666667" />
+      <edge id="170" source="84" target="118" weight="0.2" />
+      <edge id="171" source="86" target="153" weight="0.142857142857" />
+      <edge id="172" source="86" target="177" weight="0.2" />
+      <edge id="173" source="89" target="116" weight="0.0123456790123" />
+      <edge id="174" source="91" target="96" weight="0.037037037037" />
+      <edge id="175" source="96" target="167" weight="0.0147058823529" />
+      <edge id="176" source="97" target="240" weight="0.166666666667" />
+      <edge id="177" source="97" target="277" weight="0.047619047619" />
+      <edge id="178" source="105" target="296" weight="0.030303030303" />
+      <edge id="179" source="105" target="187" weight="0.0294117647059" />
+      <edge id="180" source="111" target="138" weight="0.030303030303" />
+      <edge id="181" source="111" target="187" weight="0.0294117647059" />
+      <edge id="182" source="113" target="121" weight="0.04" />
+      <edge id="183" source="114" target="149" weight="0.0588235294118" />
+      <edge id="184" source="116" target="257" weight="0.00934579439252" />
+      <edge id="185" source="116" target="282" weight="0.0123456790123" />
+      <edge id="186" source="116" target="132" weight="0.0123456790123" />
+      <edge id="187" source="116" target="262" weight="0.0123456790123" />
+      <edge id="188" source="116" target="167" weight="0.0246913580247" />
+      <edge id="189" source="116" target="296" weight="0.0123456790123" />
+      <edge id="190" source="116" target="272" weight="0.0123456790123" />
+      <edge id="191" source="116" target="122" weight="0.0123456790123" />
+      <edge id="192" source="116" target="125" weight="0.0123456790123" />
+      <edge id="193" source="120" target="187" weight="0.0227272727273" />
+      <edge id="194" source="122" target="132" weight="0.0217391304348" />
+      <edge id="195" source="122" target="125" weight="0.0416666666667" />
+      <edge id="196" source="123" target="132" weight="0.0217391304348" />
+      <edge id="197" source="124" target="132" weight="0.0217391304348" />
+      <edge id="198" source="125" target="132" weight="0.0217391304348" />
+      <edge id="199" source="125" target="167" weight="0.0147058823529" />
+      <edge id="200" source="126" target="138" weight="0.05" />
+      <edge id="201" source="132" target="167" weight="0.0588235294118" />
+      <edge id="202" source="132" target="137" weight="0.0217391304348" />
+      <edge id="203" source="132" target="176" weight="0.0217391304348" />
+      <edge id="204" source="132" target="145" weight="0.0217391304348" />
+      <edge id="205" source="138" target="161" weight="0.0344827586207" />
+      <edge id="206" source="138" target="167" weight="0.0147058823529" />
+      <edge id="207" source="138" target="139" weight="0.05" />
+      <edge id="208" source="138" target="153" weight="0.05" />
+      <edge id="209" source="139" target="161" weight="0.0344827586207" />
+      <edge id="210" source="139" target="187" weight="0.0294117647059" />
+      <edge id="211" source="139" target="159" weight="0.0526315789474" />
+      <edge id="212" source="146" target="167" weight="0.0147058823529" />
+      <edge id="213" source="149" target="248" weight="0.0666666666667" />
+      <edge id="214" source="149" target="257" weight="0.00934579439252" />
+      <edge id="215" source="149" target="283" weight="0.0666666666667" />
+      <edge id="216" source="153" target="173" weight="0.142857142857" />
+      <edge id="217" source="153" target="176" weight="0.027027027027" />
+      <edge id="218" source="153" target="177" weight="0.142857142857" />
+      <edge id="219" source="153" target="187" weight="0.0294117647059" />
+      <edge id="220" source="153" target="159" weight="0.0526315789474" />
+      <edge id="221" source="154" target="267" weight="0.166666666667" />
+      <edge id="222" source="156" target="166" weight="0.166666666667" />
+      <edge id="223" source="156" target="158" weight="0.0833333333333" />
+      <edge id="224" source="159" target="161" weight="0.0689655172414" />
+      <edge id="225" source="159" target="167" weight="0.0147058823529" />
+      <edge id="226" source="159" target="173" weight="0.0526315789474" />
+      <edge id="227" source="159" target="174" weight="0.0526315789474" />
+      <edge id="228" source="159" target="187" weight="0.0588235294118" />
+      <edge id="229" source="161" target="257" weight="0.00934579439252" />
+      <edge id="230" source="161" target="251" weight="0.0232558139535" />
+      <edge id="231" source="161" target="167" weight="0.0441176470588" />
+      <edge id="232" source="161" target="272" weight="0.0344827586207" />
+      <edge id="233" source="161" target="187" weight="0.0294117647059" />
+      <edge id="234" source="167" target="172" weight="0.0147058823529" />
+      <edge id="235" source="167" target="272" weight="0.0147058823529" />
+      <edge id="236" source="167" target="221" weight="0.0147058823529" />
+      <edge id="237" source="167" target="176" weight="0.0147058823529" />
+      <edge id="238" source="167" target="187" weight="0.0147058823529" />
+      <edge id="239" source="168" target="296" weight="0.030303030303" />
+      <edge id="240" source="172" target="229" weight="0.0666666666667" />
+      <edge id="241" source="172" target="272" weight="0.0384615384615" />
+      <edge id="242" source="172" target="251" weight="0.0232558139535" />
+      <edge id="243" source="172" target="221" weight="0.0666666666667" />
+      <edge id="244" source="174" target="284" weight="0.125" />
+      <edge id="245" source="176" target="257" weight="0.00934579439252" />
+      <edge id="246" source="176" target="296" weight="0.027027027027" />
+      <edge id="247" source="181" target="231" weight="0.0769230769231" />
+      <edge id="248" source="187" target="296" weight="0.0294117647059" />
+      <edge id="249" source="189" target="280" weight="0.0178571428571" />
+      <edge id="250" source="201" target="280" weight="0.0178571428571" />
+      <edge id="251" source="201" target="203" weight="0.0714285714286" />
+      <edge id="252" source="208" target="293" weight="0.0555555555556" />
+      <edge id="253" source="227" target="275" weight="0.0384615384615" />
+      <edge id="254" source="229" target="257" weight="0.00934579439252" />
+      <edge id="255" source="237" target="257" weight="0.00934579439252" />
+      <edge id="256" source="237" target="293" weight="0.0192307692308" />
+      <edge id="257" source="237" target="289" weight="0.0192307692308" />
+      <edge id="258" source="237" target="272" weight="0.0192307692308" />
+      <edge id="259" source="237" target="275" weight="0.0192307692308" />
+      <edge id="260" source="237" target="247" weight="0.0192307692308" />
+      <edge id="261" source="237" target="283" weight="0.0192307692308" />
+      <edge id="262" source="240" target="277" weight="0.047619047619" />
+      <edge id="263" source="240" target="248" weight="0.0666666666667" />
+      <edge id="264" source="240" target="251" weight="0.0232558139535" />
+      <edge id="265" source="241" target="261" weight="0.166666666667" />
+      <edge id="266" source="243" target="246" weight="0.111111111111" />
+      <edge id="267" source="244" target="272" weight="0.0384615384615" />
+      <edge id="268" source="244" target="259" weight="0.2" />
+      <edge id="269" source="245" target="251" weight="0.046511627907" />
+      <edge id="270" source="247" target="257" weight="0.00934579439252" />
+      <edge id="271" source="247" target="251" weight="0.0232558139535" />
+      <edge id="272" source="247" target="259" weight="0.0833333333333" />
+      <edge id="273" source="247" target="272" weight="0.0384615384615" />
+      <edge id="274" source="247" target="275" weight="0.0384615384615" />
+      <edge id="275" source="247" target="283" weight="0.0833333333333" />
+      <edge id="276" source="248" target="257" weight="0.0280373831776" />
+      <edge id="277" source="248" target="283" weight="0.0666666666667" />
+      <edge id="278" source="248" target="260" weight="0.0666666666667" />
+      <edge id="279" source="248" target="272" weight="0.0384615384615" />
+      <edge id="280" source="248" target="251" weight="0.0232558139535" />
+      <edge id="281" source="249" target="291" weight="0.0909090909091" />
+      <edge id="282" source="251" target="272" weight="0.046511627907" />
+      <edge id="283" source="251" target="257" weight="0.00934579439252" />
+      <edge id="284" source="251" target="275" weight="0.0232558139535" />
+      <edge id="285" source="257" target="258" weight="0.00934579439252" />
+      <edge id="286" source="257" target="259" weight="0.00934579439252" />
+      <edge id="287" source="257" target="262" weight="0.00934579439252" />
+      <edge id="288" source="257" target="264" weight="0.00934579439252" />
+      <edge id="289" source="257" target="272" weight="0.0280373831776" />
+      <edge id="290" source="257" target="274" weight="0.00934579439252" />
+      <edge id="291" source="257" target="275" weight="0.00934579439252" />
+      <edge id="292" source="257" target="283" weight="0.00934579439252" />
+      <edge id="293" source="257" target="292" weight="0.00934579439252" />
+      <edge id="294" source="257" target="267" weight="0.00934579439252" />
+      <edge id="295" source="257" target="277" weight="0.00934579439252" />
+      <edge id="296" source="259" target="272" weight="0.0384615384615" />
+      <edge id="297" source="260" target="267" weight="0.166666666667" />
+      <edge id="298" source="261" target="283" weight="0.166666666667" />
+      <edge id="299" source="261" target="293" weight="0.0555555555556" />
+      <edge id="300" source="262" target="272" weight="0.0384615384615" />
+      <edge id="301" source="264" target="267" weight="0.0666666666667" />
+      <edge id="302" source="265" target="272" weight="0.0384615384615" />
+      <edge id="303" source="272" target="275" weight="0.0769230769231" />
+      <edge id="304" source="277" target="278" weight="0.047619047619" />
+      <edge id="305" source="277" target="279" weight="0.0952380952381" />
+      <edge id="306" source="277" target="287" weight="0.047619047619" />
+      <edge id="307" source="279" target="287" weight="0.333333333333" />
+      <edge id="308" source="294" target="296" weight="0.030303030303" />
+    </edges>
+  </graph>
+</gexf>

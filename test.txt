@@ -1,0 +1,1690 @@
+13OM Optomechatronics Group, Aurel Vlaicu University of Arad, 77 Revolutiei Ave., Arad, Romania
+3OM Optomechatronics Group, Aurel Vlaicu University of Arad, 77 Revolutiei Ave., Arad, Romania
+3OM Optomechatronics Group, Faculty of Engineering, Aurel Vlaicu University of Arad, 7 Revolutiei Ave., 310130 Arad, Romania
+3OM Optomechatronics Group, Faculty of Engineering, Aurel Vlaicu University of Arad, 77 Revolutiei Ave., 310130 Arad, Romania
+618 Escondido Circle, Livermore, CA, United States
+A.F.Ioffe Physical Technical Institute, Politechnicheskaya str., 26, St. Petersburg, 194021, Russian Federation
+AMOLF, Science Park 104, Amsterdam, Netherlands
+ARC Centre for Engineered Quantum Systems, Macquarie UniversityNSW, Australia
+ARC Centre for Engineered Quantum Systems, School of Mathematics and Physics, University of Queensland, Brisbane, QLD, Australia
+ARC Centre for Engineered Quantum Systems, School of Mathematics and Physics, University of Queensland, St Lucia, QLD, Australia
+ASTRON, Oude Hoogeveensedijk 4, Dwingeloo, Netherlands
+AT & T Bell Laboratories, Naperville IL 60566 USA, United States
+AT&T Bell Laboratories, Naperville, IL, 60566, United States
+Abdus Salam International Centre for Theoretical Physics, Miramare, Trieste, Italy
+Acacia Communications, Inc., 3 Clock Tower Place, Maynard, MA 01754, United States
+Advanced Photon Source, Argonne National Laboratory, Argonne, IL 60439, United States
+Agency for Defense Development, P.O. Box 35, Daejon 305-600, South Korea
+Air Force Research Laboratory, Materials and Manufacturing Directorate, Wright Patterson AFBOH, United States
+Air Force Research Laboratory, Sensors Directorate, Wright-Patterson AFBOH, United States
+Airbus Defence and Space GmbH, Claude-Dornier-Straße, 88090 Immenstaad, Germany
+Aix Marseille University, CNRS, Centrale Marseille, Institut Fresnel, Marseille, France
+Albert Einstein Institute, Leibniz Universität Hannover, Hannover, Germany
+AlphaNOV, Talence, France
+Ames Laboratory - U.S. DOE, Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, United States
+Amplitude Systèmes, Pessac, France
+Analog Devices, Woburn, MA, United States
+Applied Optics Group, School of Physical Sciences, University of Kent, Canterbury, United Kingdom
+Applied Physics Graduate Program, Laboratory for Nanophotonics, Rice University, Houston, TX, United States
+Applied Physics Research Group, Vrije Universiteit Brussel, Pleinlaan 2, B-1050 Brussel, Belgium
+Applied Physics, California Institute of Technology, MC 128-95, Pasadena, CA 91125, United States
+Arnold Sommerfeld Center for Theoretical Physics, Center for NanoScience and Department of Physics, Ludwig-Maximilians-Universität München, Theresienstrasse 37, 80333 München, Germany
+Astronomisches Recheninst Heidelberg, Heidelberg, Germany
+Astronomy Department, University of California, Berkeley, CA, United States
+Astronomy, Physics and Astronomy, University of Southampton, Southampton, United Kingdom
+Atomic and Molecular Group, Faculty of Physics, Yazd University, Yazd, Iran
+Attocube Systems AG, Königinstrasse11a, D-80539 München, Germany
+Australian Research Council Centre of Excellence for Engineered Quantum Systems (EQuS), School of Mathematics and Physics, University of Queensland, St Lucia, QLD, Australia
+Australian Research Council Centre of Excellence for Engineered Quantum Systems (EQuS), School of Mathematics and Physics, University of Queensland, St. Lucia, QLD, Australia
+B2 Institute, Department of Physics, University of Arizona, Tucson, AZ 85721, United States
+B2 Institute, Dept. of Physics, College of Optical Sciences, Tucson, AZ 85721, United States
+BAE Systems, IEWS, Adv. Tech., E/O Lasers Group, MER15-1813, PO Box 868, Nashua, NH 03061, United States
+Ball Aerospace, 1616 McCormick Drive, Upper Marlboro, MD 20774, United States
+Bandwidth10, Inc., San Jose, CA, United States
+Bangalore University, Department of Physics, Jnanabharathi, Bangalore, India
+Basic Course Department, Air Force Early Warning Academy, Wuhan, China
+Beijing Computational Science Research Center, Beijing, China
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing, China
+Bell Labs, Alcatel-Lucent, Holmdel, NJ, United States
+Biomedical Engineering, University of Michigan at Ann Arbor, Ann Arbor, MI, United States
+Biomedical Engineering, University of Michigan, 1101 Beal Avenue, Ann Arbor, MI, United States
+Biomedical Engineering, University of Michigan, United States
+Biomedical Engineering, University of Michigan.
+Birck Nanotechnology Center, Purdue University, West Lafayette, IN, United States
+Blackett Laboratory, London, United Kingdom
+Booz Allen Hamilton, United States
+Brookhaven National Laboratory, Upton, NY, United States
+C.N.R., I.E.N.I., Lecco, Italy
+CAS Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing, China
+CD6, Technical University of Catalonia, Rambla Sant Nebridi 10, Terrassa 08222, Spain
+CEA, LETI, MINATEC Campus, Grenoble, France
+CEMS, RIKEN, Saitama 351-0198, Japan
+CEMS, RIKEN, Saitama, Japan
+CEMS, RIKEN, Wako-shi, Saitama, Japan
+CFE Services, 5147 Pacifica Dr., San Diego, CA 92109, United States
+CGS S.p.A., Italy
+CIBER-BBN Networking Center on Bioengineering, Biomaterials and Nanomedicine, Madrid, Spain
+CNR INO, LENS, Via Nello Carrara, 1, Sesto Fiorentino, Italy
+CNR INO, LENS, Via Nello Carrara,1, Sesto Fiorentino, Italy
+CNR, Istituto Dei Sistemi Complessi, Via Madonna del Piano 10, I-50019 Sesto Fiorentino (FI), Italy
+CNR, Istituto per i Processi Chimico-Fisici, Messina, Salita Sperone C. da Papardo, Faro Superiore, I-98158 Messina, Italy
+CNR-INO, Istituto Nazionale di Ottica, LENS, Via Carrara 1, Sesto Fiorentino (FI), Italy
+CNR-INO, L.go Enrico Fermi 6, Firenze, Italy
+CNR-IPCF, Istituto Per i Processi Chimico-Fisici, 98158 Messina, Italy
+CNR-IPCF, Istituto per i Processi Chimico-Fisici, Messina, Italy
+CNR-IPCF, UOS Cosenza, Ponte P. Bucci, Cubo 33B, 87036 Rende (CS), Italy
+CNR-IPCF, UOS Cosenza, Rende (CS), Italy
+CNR-Istituto Nazionale di Ottica, Via Carrara 1, Sesto Fiorentino (FI), Italy
+CNR-Nanotec, LiCryL Lab, Rende, CS, Italy
+CNRS UMR 7225, France
+CREST, Japan-Science and Technology Agency, 4-1-8 Honcho, Kawaguchi, Saitama 332-0012, Japan
+CSEM Suisse d’Electronique et de Microtechnique, Technoparkstrasse 1, Zurich, Switzerland
+CUDOS, School of Physics, University of Sydney, NSW 2006, Australia
+California Institute of Technology, 1200 E California Blvd, Pasadena, CA, United States
+California Institute of Technology, Pasadena, CA 91125, United States
+California Institute of Technology, Pasadena, United States
+California Institute of Technology, Pasasdena, CA 91125, United States
+Call/Recall Corporation, San Diego, CA 92121 USA, United States
+Canadian Institute for Advanced Research, Toronto, ON, Canada
+Catalan Institute of Nanoscience and Nanotechnology (ICN2), CSIC and The Barcelona Institute of Science and Technology, Campus UAB, Bellaterra, Barcelona, Spain
+Catalan Institute of Nanoscience and Nanotechnology (ICN2), CSIC, Barcelona Institute of Science and Technology, Campus UAB, Bellaterra, Barcelona, Spain
+Catalan Institute of Nanoscience and Nanotechnology (ICN2), CSIS and the Barcelona Institute of Science and Technology, Campus UAB, Bellaterra, Spain
+CeNS, Ludwig-Maximilians Universität, Geschwister Scholl Platz 1, 80539 München, Germany
+Celemics Inc., 371-17 Gasan-dong, Geumcheongu, Seoul, South Korea
+Center for Coherence and Quantum Optics, University of Rochester, Rochester, NY, United States
+Center for Computational Science and Engineering, National University of Singapore, Singapore 117542, Singapore
+Center for Computational Science and Engineering, National University of Singapore, Singapore, Singapore
+Center for Emergent Matter Science, RIKEN, Wako-shi, Saitama 351-0198, Japan
+Center for Emergent Matter Science, RIKEN, Wako-shi, Saitama, Japan
+Center for Emergent Matter Science, RIKEN,Wako-shi, Saitama, Japan
+Center for Field Theory and Particle Physics, Department of Physics, Fudan University, Shanghai, China
+Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY 11973, United States
+Center for Interdisciplinary Studies, Key Laboratory for Magnetism and Magnetic Materials of the MoE, Lanzhou University, Lanzhou, China
+Center for Macroscopic Quantum Control, Department of Physics and Astronomy, Seoul National University, Seoul, South Korea
+Center for Micro and Nano Structures, Vienna University of Technology, Austria
+Center for Microscopy and Image Analysis, University of Zurich, Winterthurerstrasse 190, Zurich, Switzerland
+Center for Nano Science and Fakultät für Physik, Ludwig-Maximilians-Universität München, Geschwister-Scholl-Platz 1, 80539 München, Germany
+Center for Nano- and Biophotonics, Ghent University, Sint-Pietersnieuwstraat 41, Gent, Belgium
+Center for NanoScience, Ludwig-Maximilians-Universitat, Schellingstrabe 4, Munchen, Germany
+Center for Nanoparticle Research, Institute for Basic Science, Seoul National University, Seoul, South Korea
+Center for Nanophotonics, FOM Institute AMOLF, Science Park 104, 1098XG Amsterdam, Netherlands
+Center for Nanophotonics, FOM Institute AMOLF, Science Park 104, Amsterdam, Netherlands
+Center for Nanophotonics, FOM Institute AMOLF, Science Park 104, Netherlands
+Center for Nanoscale Materials, Argonne National Laboratory, Argonne, IL, United States
+Center for Nanoscale Science and Technology, National Institute of Standards and Technology, 100 Bureau Dr, Gaithersburg, MD 20899, United States
+Center for Nanoscale Science and Technology, National Institute of Standards and Technology, Gaithersburg, MD 20899, United States
+Center for Nanoscale Science and Technology, National Institute of Standards and Technology, Gaithersburg, MD 20899-6203, United States
+Center for Nanoscale Science and Technology, National Institute of Standards and Technology, Gaithersburg, MD, United States
+Center for Nanoscience and Fakultät für Physik, Ludwig-Maximilians-Universität, Geschwister-Scholl-Platz 1, 80539 München, Germany
+Center for Nonlinear Studies and Los Alamos National Laboratory, Theoretical Division, Los Alamos, NM 87545, United States
+Center for Opto-Electronic Materials and Devices Research, Korea Institute of Science and Technology, Seoul, South Korea
+Center for Phononics and Thermal Energy Science, School of Physics Science and Engineering, Tongji University, Shanghai, China
+Center for Quantum Devices, Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark
+Center for Quantum Information Science and Technology, Tsinghua National Laboratory for Information Science and Technology (TNList), Beijing 100084, PR China
+Center for Quantum Information and Control, University of New Mexico, Albuquerque, NM, United States
+Center for Quantum Information, Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing 100084, China
+Center for Quantum Information, Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, China
+Center for Quantum Information, Institute of Interdisciplinary Information Sciences, Tsinghua University, Beijing, China
+Center for Quantum Measurement Science, Korea Research Institute of Standards and Science, Daejeon, South Korea
+Center for Quantum Science and Engineering, National Center for Theoretical Sciences, National Taiwan University, Taipei, Taiwan
+Center for Quantum Sciences, Northeast Normal University, Changchun, China
+Center for Quantum Sciences, School of Physics, Northeast Normal University, ChangChun 130024, China
+Center for Quantum Sciences, School of Physics, Northeast Normal University, Changchun, China
+Center for Research and Exploration in Space Science and Technology, NASA Goddard Space Flight Center
+Center for Solid State Physics and New Materials, Institute of Physics Belgrade, University of Belgrade, Pregrevica 118, Belgrade, Serbia
+Center for Space Optics, Korea Research Institute of Standards and Science, 1 Doryong-dong, Yuseong-gu, Daejeon 305-340, South Korea
+Center for the Physics of Information, California Institute of Technology, Pasadena, CA 91125, United States
+Center of Theoretical Physics, Department of Physics, Capital Normal University, Beijing 100048, China
+Center of Theoretical and Computational Physics, Department of Physics, University of Malaya, Kuala Lumpur, Malaysia
+Centre Suisse d'Electronique et Microtechnique (CSEM), Neuchâtel, Switzerland
+Centre de Nanosciences et de Nanotechnologies, Centre National de la Recherche Scientifique, Université Paris-Sud, Université Paris-Saclay, C2N Marcoussis, Marcoussis, France
+Centre de Physique Optique Moléculaire et Hertzienne, Université Bordeaux 1, CNRS, 351 Cours de la Libération, 33405 Talence Cedex, France
+Centre for Engineered Quantum Systems, School of Mathematics and Physics, University of Queensland, Australia
+Centre for Engineered Quantum Systems, School of Physical Sciences, The University of Queensland, Saint Lucia, QLD 4072, Australia
+Centre for Engineered Quantum Systems, School of Physical Sciences, University of Queensland, Saint-Lucia, QLD 4072, Australia
+Centre for Engineered Quantum Systems, University of Queensland, Brisbane QLD 4072, Australia
+Centre for Engineered Quantum Systems, University of Queensland, Brisbane, QLD 4072, Australia
+Centre for Engineered Quantum Systems, University of Queensland, St Lucia QLD 4072, Australia
+Centre for Engineered Quantum Systems, University of Queensland, St Lucia, Australia
+Centre for Engineered Quantum Systems, University of Queensland, St Lucia, QLD 4072, Australia
+Centre for Engineered Quantum Systems, University of Queensland, St Lucia, QLD, Australia
+Centre for Engineered Quantum Systems, University of Queensland, St. Lucia, QLD 4072, Australia
+Centre for Engineered Quantum Systems, University of Sydney, Sydney, Australia
+Centre for Gravitational Physics, The Australian National University, Canberra, Australia
+Centre for Materials and Microsystems, Fondazione Bruno Kessler, Via Sommarive 18, Povo (TN), Italy
+Centre for Nanoscience and Quantum Information, University of Bristol, Bristol, United Kingdom
+Centre for Optical and Electromagnetic Research, Zhejiang University, Hangzhou 310058, China
+Centre for Quantum Atom Optics, Swinburne University of Technology, Melbourne, Australia
+Centre for Quantum Computation and Communication Technology, Australian Research Council, Canberra, ACT, Australia
+Centre for Quantum Computation and Communication Technology, Research School of Physics and Engineering, Australian National University, Canberra ACT 0200, Australia
+Centre for Quantum Computer Technology, School of Mathematics and Physics, The University of Queensland, St Lucia, QLD 4072, Australia
+Centre for Quantum Technologies, Singapore
+Centre for Quantum and Optical Science, Swinburne University of Technology, Melbourne, Australia
+Centre for Research and Education in Science and Technology, Indian Institute of Astrophysics, Shidlaghatta Road, Hosakote 562 114, India
+Centre for Sustainable Energy Systems, Research School of Engineering, Australian National University, Canberra, ACT 0200, Australia
+Centre for Theoretical Atomic, Molecular and Optical Physics, School of Mathematics and Physics, Queen's University Belfast, Belfast BT7 1NN, United Kingdom
+Centre for Theoretical Atomic, Molecular and Optical Physics, School of Mathematics and Physics, Queen's University Belfast, Belfast, United Kingdom
+Centre for Theoretical Atomic, Molecular and Optical Physics, School of Mathematics and Physics, Queen's University, Belfast, United Kingdom
+Centre for Ultra-high bandwidth Devices for Optical Systems (CUDOS), Australian National University, Canberra, ACT 0200, Australia
+Centre for Ultrahigh-bandwidth Devices for Optical Systems, Research School of Physics and Engineering, Australian National University, Canberra, ACT 0200, Australia
+Centre of Excellence in Engineered Quantum Systems, University of Queensland, St Lucia, QLD, Australia
+Centre of Excellence in Engineered Quantum Systems, University of Queensland, St. Lucia, QLD 4072, Australia
+Centre of Excellence in Engineered Quantum Systems, University of Queensland, St. Lucia, Queensland 4072, Australia
+Centre of Physics and Mathematics (CPM), Mohammed V University of Rabat, Rabat, Morocco
+Centro Atomico Bariloche and Instituto Balseiro, C.N.E.A., S.C. de Bariloche, R.N., Argentina
+Centro Atómico Bariloche and Instituto Balseiro, C.N.E.A., S.C. de Bariloche, R.N., Argentina
+Centro Atómico Bariloche and Instituto Balseiro, CONICET, CNEA, de Bariloche, Bariloche, Argentina
+Centro Interdisciplinare 'B. Segre' dell'Accademia Nazionale dei Lincei, 00165 Roma, Italy
+Changchun University of Science and Technology, Changchun 130022, China
+Changchun University, Changchun 130022, China
+Charles University in Prague, Faculty of Mathematics and Physics, Department of Macromolecular Physics, V Holešovičkách 2, Praha 8, Czech Republic
+Christiansen Research Group, Max Planck Institute for the Science of Light, Erlangen, Germany
+Chungnam National University, Daejeon 305-764, South Korea
+Clarendon Laboratory, Department of Physics, University of Oxford, Oxford, United Kingdom
+Clarendon Laboratory, Department of Physics, University of Oxford, United Kingdom
+Clarendon Laboratory, University of Oxford, Oxford, United Kingdom
+Cluster of Excellence Engineering of Advanced Materials, University of Erlangen-Nuremberg, Staudtst.2, Erlangen, Germany
+Collaborative Innovation Center of Advanced Microstructures, Nanjing University, Nanjing, China
+Collaborative Innovation Center of Extreme Optics, Shanxi University, Taiyuan, China
+Collaborative Innovation Center of Extreme Optics, Shanxi University, Taiyuan, Shanxi, China
+Collaborative Innovation Center of Quantum Matter, Beijing, China
+College of Electronic Science, Northeast Petroleum University, Daqing 163318, China
+College of Electronic Science, Northeast Petroleum University, Daqing, China
+College of Electronics and Information Engineering, Sichuan University, Chengdu 610064, China
+College of JinShan, Fujian Agriculture and Forestry University, Fuzhou, China
+College of Optical Sciences, Department of Physics, University of Arizona, Tucson, AZ 85721, United States
+College of Optical Sciences, University of Arizona, 1630 E. University Blvd., Tucson, AZ, United States
+College of Optical and Electronical Information, Changchun University of Science and Technology, Changchun, China
+College of Physics and Electronic Engineering, Shanxi University, Taiyuan, China
+College of Physics and Electronic Information, Dezhou University, Dezhou, China
+College of Physics and Optoelectronics, Taiyuan University of Technology, Shanxi, Taiyuan 030024, China
+College of Physics, Jilin University, Changchun 130012, China
+College of Physics, Jilin University, Changchun, China
+College of Physics, Optoelectronics, Energy of Soochow University, Collaborative Innovation Center of Suzhou Nano Science and Technology, Soochow University, Suzhou, China
+College of Physics, Tonghua Normal University, Tonghua 134000, People's Republic of China
+College of Physics, Tonghua Normal University, Tonghua, China
+Consiglio Nazionale Delle Ricerche, Istituto Nazionale di Ottica (INO), Largo E. Fermi 6, Firenze, Italy
+Consiglio Nazionale Delle Ricerche, Istituto Nazionale di Ottica (INO), via Campi Flegrei 34, Complesso "A. Olivetti", Pozzuoli (Napoli), Italy
+Cornell NanoScale Science and Technology Facility (CNF), Ithaca, NY 14853, United States
+Cornell NanoScale Science and Technology Facility, Cornell University, Ithaca, NY 14853, United States
+Coventor, Inc, 3 Avenue de Quebec, Courtaboeuf 02142, France
+Coventor, Inc, C215 Firat Street, Cambridge MA, 02142, United States
+Coventor, Inc, bLJ�fl Weston Parkway, Cary NC, 27606, United States
+Crystalline Mirror Solutions GmbH, Vienna, Austria
+Crystalline Mirror Solutions LLC, Santa Barbara, CA, United States
+Ctro. de Ing./Desarrollo Industrial, Av. Pie de la Cuesta No. 702, C.P. 76130 Santiago Queretaro, Qro., Mexico
+DICIEAMA, University of Messina, Italy
+DIMES Technology Center-TU Delft, Feldmannweg 17, CT Delft, Netherlands
+DTU Fotonik, Department of Photonics Engineering, Technical University of Denmark, Ørsteds Plads 343, DK-2800 Kgs. Lyngby, Denmark
+DTU Fotonik, Department of Photonics Engineering, Technical University of Denmark, ørsteds Plads 343, DK-2800 Kgs. Lyngby, Denmark
+Danish National Research Foundation Center for Quantum Optics, Department of Physics and Astronomy, University of Aarhus, 8000 Aarhus C, Denmark
+Data Storage Institute, DSI Building, 5 Engineering Drive 1, Singapore, Singapore
+Delft University of Technology, Lorentzweg 1, Delft, Netherlands
+Deparment of Mechanical Engineering, University of Rochester, 233 Hopeman Eng. Building, Rochester, NY 14627-0132, United States
+Departamento de Astrofísica, Universidad de La Laguna (Tenerife), Spain
+Departamento de Astrofísica, Universidad de La Laguna, Tenerife, Spain
+Departamento de Astrofísica, Universidad de la Laguna (Tenerife), Spain
+Departamento de Física Teórica de la Materia Condensada, Condensed Matter Physics Center (IFIMAC), Universidad Autónoma de Madrid, Madrid, Spain
+Departamento de Física, Universitat Autonoma de Barcelona, Bellaterra, Spain
+Departement Physik, Universität Basel, Klingelbergstrasse 82, 4056 Basel, Switzerland
+Departement Physik, Universität Basel, Klingelbergstrasse 82, CH-4056 Basel, Switzerland
+Department of Aerospace Engineering Sciences, University of Colorado Boulder, Boulder, CO 80309-0429, United States
+Department of Aerospace Engineering Sciences, University of Colorado Boulder, Boulder, CO, United States
+Department of Applied Physic, California Institute of Technology, Pasadena, CA, 91125, United States
+Department of Applied Physics East China Jiaotong University, Nanchang, China
+Department of Applied Physics, Aalto University School of Science, P.O. Box 11100, FI-00076 Aalto, Finland
+Department of Applied Physics, Aalto University, FI-00076 Aalto, Finland
+Department of Applied Physics, Aalto University, P.O. Box 11100, FI-00076 Aalto, Finland
+Department of Applied Physics, Aalto University, PO Box 11100, Aalto, Finland
+Department of Applied Physics, Aalto University, PO Box 11100, FI-00076 Aalto, Finland
+Department of Applied Physics, California Institute of Technology, 1200 E. California Blvd., Pasadena, CA 91125, United States
+Department of Applied Physics, California Institute of Technology, Pasadena CA, United States
+Department of Applied Physics, California Institute of Technology, Pasadena, CA 91125, United States
+Department of Applied Physics, California Institute of Technology, Pasadena, United States
+Department of Applied Physics, Chalmers University, SE-412 96 Göteborg, Sweden
+Department of Applied Physics, East China Jiaotong University, Nanchang, China
+Department of Applied Physics, Low Temperature Laboratory, Aalto University, PO Box 15100, Aalto, Finland
+Department of Applied Physics, School of Engineering, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan
+Department of Applied Physics, Yale University, 15 Prospect St., New Haven, Connecticut, United States
+Department of Applied Physics, Yale University, 15 Prospect Street, New Haven, CT 06511, United States
+Department of Applied Physics, Yale University, New Haven, CT 06520, United States
+Department of Applied Physics, Yale University, New Haven, CT, United States
+Department of Astronomy and McDonald Observatory, University of Texas at Austin, 2515 Speedway, Austin, TX, United States
+Department of Astronomy and Space Sciences, Ege University, Bornova, Izmir, Turkey
+Department of Astronomy, Peking University, Beijing, China
+Department of Astronomy, University of Texas, Austin, TX 78712, United States
+Department of Automation, Tsinghua University, Beijing 100084, PR China
+Department of Bioengineering, Rice University, 6100 Main Street, Houston, TX 77005, United States
+Department of Bioengineering, Rice University, Houston, TX 77005, United States
+Department of Biomedical Engineering, University of Michigan, 1101 Beal Ave, Ann Arbor, MI, 48109, United States
+Department of Biomedical Engineering, University of Michigan, 1101 Beal Ave., Ann Arbor, MI, 48109, United States
+Department of Biomedical Engineering, University of Michigan, 1101 Beal Ave., Ann Arbor, MI, United States
+Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI 48109, United States
+Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, United States
+Department of Biomedical Engineering, Yale University, New Haven, CT, United States
+Department of Chemical Engineering, Stanford University, Stanford, CA 94305, United States
+Department of Chemical Engineering, University of Michigan, Ann Arbor, MI, United States
+Department of Chemical Physics, Weizmann Institute of Science, Rehovot, Israel
+Department of Chemistry and Biochemistry, Liquid Crystal Materials Research Center, University of Colorado, Boulder, CO 80309, United States
+Department of Chemistry and Biochemistry, University of California, Los Angeles, CA, United States
+Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, MA, United States
+Department of Chemistry, Laboratory for Nanophotonics, Rice University, Houston, TX, United States
+Department of Chemistry, National Tsing Hua University, Hsinchu 30013, Taiwan
+Department of Chemistry, University of California Davis, One Shields Ave, Davis, CA, United States
+Department of Chemistry, University of California, Berkeley, Berkeley, CA 94720, United States
+Department of Chemistry, Yonsei University, Seoul, South Korea
+Department of Civil Engineering, University of Siegen, Siegen, D-57068, Germany
+Department of Civil Engineering, University of Siegen, Siegen, Germany
+Department of Earth and Environmental Sciences, University of Waterloo, 200 University Avenue West, Waterloo, ON N2L 3G1, Canada
+Department of Electrical Engineering and Computer Science, Case Western Reserve University, Cleveland, OH44106, United States
+Department of Electrical Engineering and Computer Science, Seoul National University, Seoul, South Korea
+Department of Electrical Engineering and Computer Science, University of Michigan, 1301 Beal Ave, Ann Arbor, MI, 48109, United States
+Department of Electrical Engineering and Computer Science, University of Michigan, 1301 Beal Ave., Ann Arbor, MI 48109, United States
+Department of Electrical Engineering and Computer Science, University of Michigan, 1301 Beal Ave., Ann Arbor, MI, 48109, United States
+Department of Electrical Engineering and Computer Science, University of Michigan, 1301 Beal Ave., Ann Arbor, MI, United States
+Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, CA, United States
+Department of Electrical Engineering, California Institute of Technology, Pasadena, CA, United States
+Department of Electrical Engineering, Columbia University, New York, NY 10027, United States
+Department of Electrical Engineering, Ginzton Laboratory, Stanford University, Stanford, CA, United States
+Department of Electrical Engineering, Johns Hopkins University, Baltimore, MD, United States
+Department of Electrical Engineering, McGill University, 3480 University Street, Montréal, QC, H3A 2A7, Canada
+Department of Electrical Engineering, McGill University, Hamilton, ON, L8S 4M1, Canada
+Department of Electrical Engineering, McGill University, Montreal, H3A 2A7, Canada
+Department of Electrical Engineering, McGill University, Montreal, PQ H3A 2A7, Canada
+Department of Electrical Engineering, McGill University, Montreal, QC, H3A 2A7, Canada
+Department of Electrical Engineering, Princeton University, Princeton, NJ, United States
+Department of Electrical Engineering, University of California, Riverside, CA, United States
+Department of Electrical Engineering, Yale University, 15 Prospect St., New Haven, CT 06511, United States
+Department of Electrical Engineering, Yale University, New Haven, CT 06511, United States
+Department of Electrical Engineering, Yale University, New Haven, CT 06520, United States
+Department of Electrical Engineering, Yale University, New Haven, CT, United States
+Department of Electrical and Computer Engineering and IREAP, University of Maryland, College Park, MD, United States
+Department of Electrical and Computer Engineering, Boston University, Boston, MA 02215, United States
+Department of Electrical and Computer Engineering, Carnegie Mellon University, 333 Roberts Engineering Hall, Pittsburgh, PA 15213, United States
+Department of Electrical and Computer Engineering, Department of Physics, National University of Singapore, Singapore 117583, Singapore
+Department of Electrical and Computer Engineering, Duke University, 101 Science Drive, Durham NC 27708, United States
+Department of Electrical and Computer Engineering, Laboratory for Nanophotonics, Rice University, Houston, TX, United States
+Department of Electrical and Computer Engineering, Microelectronics Research Center, University of Texas, Austin, TX, United States
+Department of Electrical and Computer Engineering, National University of Singapore, 4 Engineering Drive 3, Singapore, Singapore
+Department of Electrical and Computer Engineering, University of California San Diego, San Diego, CA, United States
+Department of Electrical and Computer Engineering, University of Colorado, Boulder, CO 80309, United States
+Department of Electrical and Computer Engineering, University of Colorado, Boulder, CO, 80302, United States
+Department of Electrical and Computer Engineering, University of Colorado, Boulder, CO, 80309, United States
+Department of Electrical and Computer Engineering, University of Colorado, Boulder, CO, United States
+Department of Electrical and Computer Engineering, University of Maryland, College Park, MD 20742, United States
+Department of Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI, United States
+Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN, United States
+Department of Electrical and Computer Engineering, University of Rochester, NY 14627, United States
+Department of Electrical and Computer Engineering, University of Rochester, Rochester, NY, United States
+Department of Electrical and Computer Engineering, University of Texas at Austin, Austin, TX, United States
+Department of Electrical and Computer Engineering, University of Texas, Austin, United States
+Department of Electrical and Systems Engineering, University of Pennsylvania, 203 Moore Building, 200 South 33rd Street, Philadelphia, PA 19104, United States
+Department of Electrical and Systems Engineering, Washington University in St. LouisMO, United States
+Department of Electrical and Systems Engineering, Washington University, St. Louis, MO, United States
+Department of Electromagnetic Engineering, Royal Institute of Technology, S-100 44 Stockholm, Sweden
+Department of Electronic Engineering, Shanghai Jiao Tong University, Shanghai, China
+Department of Electronic Information Engineering, Nanchang University, Nanchang, China
+Department of Electronics, Quaid-i-Azam University, Islamabad, Pakistan
+Department of Energy, Environmental, and Chemical Engineering, Washington University in St. Louis, St. Louis, MO, United States
+Department of Engineering, University of Cambridge, Cambridge, CB3 0FA, United Kingdom
+Department of Interconnect Technology, Nortel, P.O. Box 3511, Station C, Ottawa, ON, K1Y 4H7, Canada
+Department of Materials Science and Engineering, Aalto University, PO Box 16200, FI-00076 Aalto, Finland
+Department of Materials Science and Engineering, Cornell University, Ithaca, NY 14853, United States
+Department of Materials Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+Department of Materials Science and Engineering, University of Pennsylvania, Philadelphia, PA, United States
+Department of Materials Science, Fudan University, Handen Rd. 220, 200433, Shanghai, China
+Department of Mathematics and Statistics, University of Helsinki, FI-00014 Helsinki, Finland
+Department of Mathematics, Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+Department of Mathematics, Massachusetts Institute of Technology, Cambridge, MA, United States
+Department of Mechanical Engineering, Boston University, Boston, MA 02215, United States
+Department of Mechanical Engineering, Columbia University U.S.A, 116th and Broadway, New York, NY 10027, United States
+Department of Mechanical Engineering, Columbia University, New York, NY 10027, United States
+Department of Mechanical Engineering, Division of Materials Science and Engineering, Photonics Center, Boston University, Boston, MA, United States
+Department of Mechanical Engineering, KAIST, Daejeon 305-701, South Korea
+Department of Mechanical Engineering, KAIST, Daejon 305-701, South Korea
+Department of Mechanical Engineering, National Chaio Tung University, Hsinchu 300, Taiwan
+Department of Mechanical Engineering, National Nanotechnology Research Center (UNAM), Bilkent University, Ankara, Turkey
+Department of Mechanical Engineering, National University of Singapore, 9 Engineering Drive 1, Singapore117576, Singapore
+Department of Mechanical Engineering, National Yunlin University of Science and Technology, Douliou, Yunlin 64002, Taiwan
+Department of Mechanical Engineering, Stanford University, Stanford, CA 94305, United States
+Department of Mechanical Engineering, Technion, Haifa, Israel
+Department of Mechanical Engineering, University of Colorado at Boulder, Boulder, CO 80309, United States
+Department of Mechanical Engineering, University of New Mexico, Albuquerque, NM 87131, United States
+Department of Mechanical Engineering, University of New Mexico, Albuquerque, NM, United States
+Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester, MA, United States
+Department of Mechanical and Mechatronic Engineering, National Taiwan Ocean University, Keelung 20224, Taiwan
+Department of Mechatronics, Energy, and Aerospace Engineering, National Defense University, Taoyuan 335, Taiwan
+Department of Micro- and Nanoelectronic Systems, University of Technology, Ilmenau, Germany
+Department of Micro- and Nanotechnology, Technical University of Denmark, 2800 Kongens, Lyngby, Denmark
+Department of Micro- and Nanotechnology, Technical University of Denmark, DTU Nanotech, 2800 Kongens Lyngby, Denmark
+Department of Micro-and Nanotechnology, Technical University of Denmark, DTU Nanotech, 2800 Kongens Lyngby, Denmark
+Department of Micro-and Nanotechnology, Technical University of Denmark, DTU Nanotech, Kongens Lyngby, Denmark
+Department of Molecular Spectroscopy, Max Planck Institute for Polymer Research, 55128 Mainz, Germany
+Department of Nanoengineering, University of California San Diego, San Diego, CA, United States
+Department of Neurosurgery, Eberhard-Karls-University, Hoppe-Seyler-Strasse 3, 72076 Tuebingen, Germany
+Department of Ophthalmology and Visual Sciences, Washington University in St. Louis, St. Louis, MO, United States
+Department of Ophthalmology, RWTH Aachen University, Pauwelsstraße 30, Aachen, Germany
+Department of Optical Engineering, Chongju University, Chongju 360-764, South Korea
+Department of Optical Engineering, Kongju National University, Kongju 314-701, South Korea
+Department of Optics, Palacký University, 17. listopadu 1192/12, Olomouc, Czech Republic
+Department of Optics, Palacký University, Olomouc, Czech Republic
+Department of Physic, University of Arkansas, Fayetteville, AR, United States
+Department of Physics Education, Kongju National University, Gongju, South Korea
+Department of Physics and Astronomy and Institute for Quantum Science and Technology, University of Calgary, Calgary, AB, Canada
+Department of Physics and Astronomy and School of Electrical and Computer Engineering, Purdue University, West Lafayette, IN, United States
+Department of Physics and Astronomy, 6127 Wilder Laboratory, Dartmouth College, Hanover, NH 03755, United States
+Department of Physics and Astronomy, Aarhus University, Ny Munkegade 120, Aarhus C, Denmark
+Department of Physics and Astronomy, Dartmouth College, Hanover, NH, United States
+Department of Physics and Astronomy, Institute for Quantum Science and Technology, University of Calgary, 2500 University Drive NW, Calgary, AB, Canada
+Department of Physics and Astronomy, Institute for Quantum Science and Technology, University of Calgary, Calgary, AB, Canada
+Department of Physics and Astronomy, Louisiana State University, Baton Rouge, LA 70803, United States
+Department of Physics and Astronomy, Macquarie UniversityNSW, Australia
+Department of Physics and Astronomy, McMaster University, 1280 Main St. W., Hamilton, ON, Canada
+Department of Physics and Astronomy, Middle Tennessee State University, Murfreesboro, TN, 37130, United States
+Department of Physics and Astronomy, Ministry of EducationKey Laboratory of Artificial Structures and Quantum Control, Shanghai Jiao Tong University, Shanghai, China
+Department of Physics and Astronomy, Purdue University, West Lafayette, IN, United States
+Department of Physics and Astronomy, Seoul National University, Seoul, South Korea
+Department of Physics and Astronomy, University College London, Gower Street, London, United Kingdom
+Department of Physics and Astronomy, University College London, Gower Street, WC1E 6BT London, United Kingdom
+Department of Physics and Astronomy, University College London, London, United Kingdom
+Department of Physics and Astronomy, University of Aarhus, Aarhus C, Denmark
+Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, PA, United States
+Department of Physics and Astronomy, University of Rochester, Rochester, NY, United States
+Department of Physics and Astronomy, University of Southampton, Southampton, United Kingdom
+Department of Physics and Astronomy, University of Waterloo, Waterloo, ON, Canada
+Department of Physics and Astrophysics, University of Delhi, Delhi 110007, India
+Department of Physics and Astrophysics, University of Delhi, Delhi, 110007, India
+Department of Physics and Astrophysics, University of Delhi, Delhi-110007, India
+Department of Physics and Chemistry of Materials, CNR-IDASC Sensor Lab, Brescia University, Brescia, Italy
+Department of Physics and Chemistry, Materials CNR-IDASC Sensor Laboratory, Brescia University, Brescia 25133, Italy
+Department of Physics and Engineering Physics, Stevens Institute of Technology, Castle Point on the Hudson, Hoboken, New Jersey, United States
+Department of Physics and Engineering Physics, Stevens Institute of Technology, Hoboken, NJ 07030, United States
+Department of Physics and Engineering Physics, University of Tulsa, Tulsa, OK, United States
+Department of Physics and Institute of Theoretical Physics, Chinese University of Hong Kong, Hong Kong Special Administrative Region, Shatin, China
+Department of Physics and Nanoscience Center, University of Jyväskylä, P.O. Box 35 (YFL), FI-40014 Jyväskylä, Finland
+Department of Physics and Optical Science, Center for Optoelectronics and Optical Communications, University of North Carolina at Charlotte, Charlotte, NC, United States
+Department of Physics and Optical Sciences, University of Arizona, Tucson, United States
+Department of Physics and Oregon Center for Optics, University of Oregon, Eugene, OR, United States
+Department of Physics and Research Center OPTIMAS, Technische Universität Kaiserslautern, Kaiserslautern, Germany
+Department of Physics of Complex Systems, Weizmann Institute of Science, Rehovot, Israel
+Department of Physics, A.R.S.D College, University of Delhi (South Campus), New Delhi 110021, India
+Department of Physics, ARSD College, University of Delhi (South Campus), New Delhi 110021, India
+Department of Physics, ARSD College, University of Delhi (South Campus), New Delhi, 110021, India
+Department of Physics, ARSD College, University of Delhi (South Campus), New Delhi-110021, India
+Department of Physics, ARSD College, University of Delhi, New Delhi-110021, India
+Department of Physics, Arizona State University, Tempe, AR, United States
+Department of Physics, Arnold Sommerfeld Center for Theoretical Physics, Ludwig-Maximilians-Universität München, Theresienstr. 37, D-80333 München, Germany
+Department of Physics, Arnold-Sommerfeld-Center for Theoretical Physics, Center for Nanoscience, München, Germany
+Department of Physics, Arnold-Sommerfeld-Center for Theoretical Physics, Ludwig-Maximilians-Universität München, Theresienstrasse 37, 80333 Munich, Germany
+Department of Physics, B2 Institute, University of Arizona, Tucson, AZ 85721, United States
+Department of Physics, Balochistan University of Information Technology, Engineering and Management Sciences, Quetta, Pakistan
+Department of Physics, COMSATS Institute of Information Technology, Islamabad, Pakistan
+Department of Physics, California Institute of Technology, Pasadena, CA, United States
+Department of Physics, Capital Normal University, Beijing 100048, China
+Department of Physics, Center for Computational Science and Engineering, National University of Singapore, Singapore, Singapore
+Department of Physics, Center for Micro and Nano Sciences and Technologies, Radmile Matejcic 2, HR-51000 Rijeka, Croatia
+Department of Physics, Center for NanoScience and Arnold-Sommerfeld Center for Theoretical Physics, Ludwig-Maximilians-Universitat Munchen, Munchen, Germany
+Department of Physics, Center for Theoretical Sciences, National Taiwan University, Taipei, Taiwan
+Department of Physics, Centre for Micro and Nano Sciences and Technologies, University of Rijeka, 51000 Rijeka, Croatia
+Department of Physics, College of Optical Sciences, B2 Institute, University of Arizona, Tucson, AZ, United States
+Department of Physics, College of Optical Sciences, University of Arizona, Tucson, AZ 85721, United States
+Department of Physics, College of Optical Sciences, University of Arizona, Tucson, AZ, United States
+Department of Physics, College of Science, National University of Defense Technology, Changsha, China
+Department of Physics, College of Science, Yanbian University, Yanji, Jilin 133002, People's Republic of China
+Department of Physics, Columbia University, NY 100027-5255, United States
+Department of Physics, Cornell University, Ithaca, NY 14853, United States
+Department of Physics, Cornell University, Ithaca, NY, United States
+Department of Physics, EHSRC, University of Ulsan, Ulsan, South Korea
+Department of Physics, East China University of Science and Technology, Shanghai, China
+Department of Physics, Faculty of Science, Taibah University, P.O. Box 30002, Madinah, Saudi Arabia
+Department of Physics, Faculty of Science, University of Hormozgan, Bandar-Abbas, Iran
+Department of Physics, Faculty of Science, University of Isfahan, Hezar Jerib, 81746-73441 Isfahan, Iran
+Department of Physics, Faculty of Science, University of Isfahan, Hezar Jerib, Isfahan, Iran
+Department of Physics, Faculty of Science, University of Isfahan, Isfahan, Iran
+Department of Physics, Faculty of Sciences, University Hassan II, Casablanca, Morocco
+Department of Physics, Fuzhou University, Fuzhou 350002, China
+Department of Physics, Hangzhou Normal University, Hangzhou, Zhejiang, China
+Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA, United States
+Department of Physics, Harvard University, Cambridge, MA 02138, United States
+Department of Physics, Harvard University, Cambridge, MA, United States
+Department of Physics, Henan Normal University, Xinxiang 453007, China
+Department of Physics, Henan Normal University, Xinxiang, China
+Department of Physics, Henes Center for Quantum Phenomena, Michigan Technological University, Houghton, MI, United States
+Department of Physics, Heriot-Watt University, Edinburgh, EH14 4A5, United Kingdom
+Department of Physics, Heriot-Watt University, Edinburgh, EH14 4AS, United Kingdom
+Department of Physics, Huazhong Normal University, Wuhan 430079, China
+Department of Physics, Huazhong Normal University, Wuhan, China
+Department of Physics, Institute of Theoretical Physics, Chinese University of Hong Kong, Shatin, Hong Kong
+Department of Physics, Institute of Theoretical Physics, Shanxi University, Taiyuan,030006, China
+Department of Physics, Jiangxi Normal University, Nanchang, China
+Department of Physics, King's College London, Strand, London WC2R 2LS, United Kingdom
+Department of Physics, Kookmin University, Seoul, South Korea
+Department of Physics, Korea University, Anam-dong 5, Seongbuk-gu, Seoul, South Korea
+Department of Physics, Korea University, Seoul 136-713, South Korea
+Department of Physics, Korea University, Seoul, South Korea
+Department of Physics, Laboratory for Nanophotonics, Rice University, Houston, TX, United States
+Department of Physics, Louisiana State University, Baton Rouge, LA, United States
+Department of Physics, MIT, Cambridge, MA 02139, United States
+Department of Physics, MIT-Harvard Center for Ultracold Atoms, and Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+Department of Physics, Material Science and Engineering Program, Liquid Crystal Materials Research Center, University of Colorado, Boulder, CO 80309, United States
+Department of Physics, McGill University, 3600 Rue University, Montreal, Canada
+Department of Physics, McGill University, 3600 Rue University, Montreal, QC, Canada
+Department of Physics, McGill University, 3600 rue University, Montreal, QC H3A2T8, Canada
+Department of Physics, McGill University, 3600 rue University, Montreal, QC, Canada
+Department of Physics, McGill University, 3600 rue University, Montréal, QC, Canada
+Department of Physics, McGill University, 3600 rue University, Montréal, QUE, Canada
+Department of Physics, McGill University, Montreal, Canada
+Department of Physics, McGill University, Montreal, QC H3A 2T8, Canada
+Department of Physics, McGill University, Montreal, QC, Canada
+Department of Physics, McGill University, Montreal, QC, H3A 2T8, Canada
+Department of Physics, McGill University, Montréal, Canada
+Department of Physics, McGill University, Montréal, QC H3A 2T8, Canada
+Department of Physics, McGill University, Montréal, QC, H3A 2T8, Canada
+Department of Physics, Middle Tennessee State University, Murfeesboro, TN, 37132, United States
+Department of Physics, Moscow State University, Moscow RU-119899, Russian Federation
+Department of Physics, Nanoscience Center, University of Jyväskylä, Jyväskylä, Finland
+Department of Physics, National Changhua University of Education, Changhua, Taiwan
+Department of Physics, National Dong Hwa University, Hua-Lien, 974, Taiwan
+Department of Physics, National University of Singapore, 2 Science Drive 3, Singapore, Singapore
+Department of Physics, National University of Singapore, Singapore 117542, Singapore
+Department of Physics, National University of Singapore, Singapore 117551, Singapore
+Department of Physics, National University of Singapore, Singapore, Singapore
+Department of Physics, Oklahoma State University, Stillwater, OK 74078, United States
+Department of Physics, Oklahoma State University, Stillwater, OK, United States
+Department of Physics, Oregon Center for Optics, University of Oregon, Eugene, OR, United States
+Department of Physics, Pusan National University, Busan, South Korea
+Department of Physics, School of Electrical and Information Engineering, Yunnan Minzu University, Kunming, China
+Department of Physics, School of Mathematics and Physics, Bohai University, Jinzhou, China
+Department of Physics, Science Laboratories, University of Durham, South Road, Durham, United Kingdom
+Department of Physics, Shanghai Normal University, Shanghai, China
+Department of Physics, Sharif University of Technology, Tehran, Iran
+Department of Physics, Stockholm University, AlbaNova University Center, Stockholm, Sweden
+Department of Physics, Swansea University, Swansea, United Kingdom
+Department of Physics, Synergetic Innovation Center of Quantum Effects and Applications, Hunan Normal University, Changsha, China
+Department of Physics, Technical University Munich, Germany
+Department of Physics, Technical University of Denmark, Building 309, 2800 Lyngby, Denmark
+Department of Physics, Technical University of Denmark, Building 309, Kongens Lyngby, Denmark
+Department of Physics, Technical University of Denmark, Fysikvej Bld. 309, Lyngby 2800 Kgs., Denmark
+Department of Physics, Technical University of Denmark, Fysikvej bld. 309, 2800 Kgs. Lyngby, Denmark
+Department of Physics, Technical University of Denmark, Fysikvej bld. 309, 2800 Kgs., Lyngby, Denmark
+Department of Physics, Tohoku University, Sendai, Miyagi, Japan
+Department of Physics, Tongji University, Shanghai 200092, China
+Department of Physics, Tsinghua University, Beijing, China
+Department of Physics, Universitat Autònoma de Barcelona, 08193 Barcelona, Spain
+Department of Physics, University Sapienza, Piazzale Aldo Moro 5, 00185 Rome, Italy
+Department of Physics, University of Alberta and the National Institute for Nanotechnology, Edmonton, Canada
+Department of Physics, University of Alberta, 11322-89 Ave., Edmonton, AB, Canada
+Department of Physics, University of Alberta, Edmonton, AB T6G 2E1, Canada
+Department of Physics, University of Alberta, Edmonton, AB T6G 2E9, Canada
+Department of Physics, University of Alberta, Edmonton, AB, Canada
+Department of Physics, University of Arkansas, Fayetteville, AR, United States
+Department of Physics, University of Basel, Klingelbergstrasse 82, Basel, Switzerland
+Department of Physics, University of Basel, Klingelbergstrasse 82, CH-4056 Basel, Switzerland
+Department of Physics, University of California Santa Barbara, Santa Barbara, CA, United States
+Department of Physics, University of California, Berkeley, CA 94720, United States
+Department of Physics, University of California, Berkeley, CA, United States
+Department of Physics, University of California, Santa Barbara, CA, United States
+Department of Physics, University of Colorado, Boulder, CO 80309, United States
+Department of Physics, University of Colorado, Boulder, CO, United States
+Department of Physics, University of Erlangen-Nuremberg, Staudtstr. 7, Erlangen, Germany
+Department of Physics, University of Kashan, Kashan, Iran
+Department of Physics, University of Konstanz, Universitätsstr. 10, Konstanz, Germany
+Department of Physics, University of Malaya, Kuala Lumpur, Malaysia
+Department of Physics, University of Malta, Msida MSD 2080, Malta
+Department of Physics, University of Malta, Msida MSD, Malta
+Department of Physics, University of Malta, Msida, Malta
+Department of Physics, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, United States
+Department of Physics, University of Massachusetts at Boston, Boston, MA 02125, USA
+Department of Physics, University of Massachusetts at Boston, Boston, MA, United States
+Department of Physics, University of Massachussets at Boston, Boston, MA 02125, United States
+Department of Physics, University of Michigan, Ann Arbor, MI 48109-1040, United States
+Department of Physics, University of Michigan, Ann Arbor, MI, United States
+Department of Physics, University of Nevada, Reno, NV 89557, United States
+Department of Physics, University of Oregon, Eugene, OR 97403, United States
+Department of Physics, University of Oregon, Eugene, OR, United States
+Department of Physics, University of Ottawa, 150 Louis Pasteur, Ottawa, ON K1N 6N5, Canada
+Department of Physics, University of Ottawa, Ottawa, ON, Canada
+Department of Physics, University of Oulu, Oulu, Finland
+Department of Physics, University of Oulu, P.O. Box 3000, FI-90014 Oulu, Finland
+Department of Physics, University of Trieste, Strada Costiera 11, 34151 Trieste, Italy
+Department of Physics, University of Vienna, Austria
+Department of Physics, University of York, Heslington, York YO10 5DD, United Kingdom
+Department of Physics, Yale University, 217 Prospect Street, New Haven, CT 06511, United States
+Department of Physics, Yale University, New Haven, CT 06520, United States
+Department of Physics, Yale University, New Haven, CT, United States
+Department of Quantum Science, Research School of Physics and Engineering, Australian National University, Canberra ACT 0200, Australia
+Department of Radiophysics, University of Nizhny Novgorod, Nizhny Novgorod, Russian Federation
+Department of Theoretical Physics and Astrophysics, Belarusian State University, Nezavisimosti Avenue 4, Minsk, Belarus
+Department of Veterans Affairs Medical Center JC, St. Louis, MO, United States
+Department of Veterans Affairs Medical Center, St. Louis, MO, United States
+Departments of Physics and Applied Physics, Yale University, New Haven, CT 06520, United States
+Departments of Physics, Sharif California Santa Barbara, Santa Barbara, CA 93106, United States
+Departments of Physics, Sharif University of Technology, Tehran, Iran
+Dept. Of Plastics Engineering, University Massachusetts, Lowell, MA, United States
+Dept. of Astronomy, Univ. of California/Berkeley, B-20 Hearst Field Annex #3411, Berkeley, CA, 94720, United States
+Dept. of Astronomy, Univ. of Maryland/College Park, CSS Bldg., Rm. 1204, Stadium Dr., College Park, MD, 20742, United States
+Dept. of Astronomy, Univ. of Maryland/College Park, CSS Bldg., Stadium Dr., College Park, MD, United States
+Dept. of Electrical and Computer Engineering, University of Maryland, College Park, MD, United States
+Dept. of Mathematics and Computer Sciences, Faculty of Exact Sciences, Aurel Vlaicu University of Arad, 77 Revolutiei Ave., 310130 Arad, Romania
+Dept. of Microelectronics and Computer Engineering /ECTM/DIMES, Delft University of Technology, Feldmanweg 17, Delft, Netherlands
+Dept. of Microelectronics and Computer, Engineering/ECTM/DIMES, Delft University of Technology, Feldmanweg 17, Delft, Netherlands
+Dept. of Physics, Universitat Autònoma de Barcelona, 08193 Bellaterra Barcelona, Spain
+Deptartment of Physical Electronics and Informatics, Graduate School of Engineering, Osaka City University, Osaka 558-8585, Japan
+Dip. Astronomia, Univ. Firenze, L.go E. Fermi 5, 1-50125, Firenze, Italy
+Dipartimento di Energetica, Università di Firenze, Via Santa Marta 3, I-50139 Firenze, Italy
+Dipartimento di Fisica 'E. Fermi', Università di Pisa, Largo Pontecorvo 3, Pisa, Italy
+Dipartimento di Fisica and CNISM, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy
+Dipartimento di Fisica e Astronomia, Università di Firenze, Via Sansone 1, Sesto Fiorentino (FI), Italy
+Dipartimento di Fisica e Astronomia, Università di Firenze, Via Sansone 1, Sesto Fiorentino, (FI), Italy
+Dipartimento di Fisica e Chimica, Group of Interdisciplinary Physics, Università di Palermo, Viale delle Scienze, Palermo, Italy
+Dipartimento di Fisica e Scienze Della Terra, Università di Messina, 98166 Messina, Italy
+Dipartimento di Fisica e Scienze della Terra, Università di Messina, Messina, Italy
+Dipartimento di Fisica e di Scienze Terra Terra, Università di Messina, Viale F. Stagno d'Alcontres 31, Messina, Italy
+Dipartimento di Fisica, E. Fermi Università di Pisa, Largo Bruno Pontecorvo 3, Pisa, Italy
+Dipartimento di Fisica, Largo B. Pontecorvo 3, Pisa, Italy
+Dipartimento di Fisica, Università La Sapienza, P. A. Moro 2, Roma, Italy
+Dipartimento di Fisica, Università di Firenze, Via Sansone 1, I-50019 Sesto Fiorentino (FI), Italy
+Dipartimento di Fisica, Università di Trento, I-38123 Povo (TN), Italy
+Dipartimento di Fisica, Università di Trento, Povo (TN), Italy
+Dipartimento di Fisica, Università di Trento, Povo, Italy
+Dipartimento di Fisica, Universià di Trento, Povo, Trento, Italy
+Dipartimento di Matematica e Fisica Ennio de Giorgi, Universitá del Salento, via Arnesano, Lecce, Italy
+Distant Focus Corporation, 4114B Fieldstone Road, Champaign, IL, United States
+Distant Focus Corporation, Distant Focus-4114B Fieldstone Road, Champaign, IL 61822, United States
+Division for Biomedical Physics, Innsbruck Medical University, Müllerstraße 44, A-6020 Innsbruck, Austria
+Division for Biomedical Physics, Innsbruck Medical University, Müllerstraße 44, A-6020 Innsbruck, EU, Austria
+Division of Advanced Sciences, Ochadai Academic Production, Ochanomizu University, Bunkyo-ku, Tokyo 112-8610, Japan
+Division of Physics and Applied Physics, Nanyang Technological University, Singapore 637371, Singapore
+Doctoral School, Polytechnics University of Timisoara, 1 Mihai Viteazu Ave., Timisoara, Romania
+Donostia International Physics Center (DIPC), Donostia/San Sebastian, Spain
+Donostia International Physics Center, Paseo M. De Lardizabal 4, San Sebastian, Spain
+Département Mesures Physiques, ONERA, Châtillon, France
+Département de Physique, ENS, Paris, France
+Département de Physique, Université de Sherbrooke, Sherbrooke, QC, J1K 2R1, Canada
+Départment de Physique, Université de Sherbrooke, 2500 Boulevard de l'Université, Sherbrooke, QC, Canada
+EADS Astrium Friedrichshafen, Immenstaad, Germany
+EADS Astrium, Toulouse, France
+ECE Department, University of Alberta, 9107-116 St. NW, Edmonton, AB, Canada
+ECM - Engineered Ceramic Materials GmbH, Am Bleichbach 12, Moosinning, Germany
+EOS Technologies, Inc., United States
+ESA-ESTEC, Noordwijk, Netherlands
+ESIEE, ESYCOM, Cité Descartes, 2 Bd Biaise Pascal, F93162 Noisy le Grand Cedex, France
+ETH Zürich, Switzerland
+Ecole Normale Supérieure, ENS, 24, rue Lhomond, Paris, France
+Ecole Polytechnique Fédérale de Lausanne (EPFL), 1015 Lausanne, Switzerland
+Ecole Polytechnique Fédérale de Lausanne (EPFL), CH 1015, Lausanne, Switzerland
+Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland
+Ecole Polytechnique Fédérale de Lausanne (EPFL), Institute of Condensed Matter Physics, Lausanne, Switzerland
+Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne 1015, Switzerland
+Ecole Polytechnique Fédérale de Lausanne, CH-1015, Lausanne, Switzerland
+Ecole Polytechnique Fédérale de Lausanne, EPFL, 1015 Lausanne, Switzerland
+Ecole Polytechnique Fédérale de Lausanne, EPFL, Lausanne, Switzerland
+Edward L. Ginzton Laboratory, Stanford University, Stanford, CA, United States
+Electrical Engineering Department, University of Alberta, Edmonton, Canada
+Electrical Engineering and Computer Science, University of Michigan
+Electrical Engineering and Computer Science, University of Michigan at Ann Arbor, Ann Arbor, MI, United States
+Electrical Engineering and Computer Science, University of Michigan, 2200 Bonisteel Boulevard, Ann Arbor, MI, United States
+Electrical Engineering and Computer Science, University of Michigan, United States
+Electrical Engineering and Computer Science, University of Michigan.
+Electrical and Computer Engineering Department, Duke University, Duke-129 Hudson Hall, Durham, NC 27708, United States
+Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, La Jolla, CA, United States
+Electro Optic Systems Pty Ltd., Australia
+Electromagnetic and Acoustic Materials Group, Department of Physics and Astronomy, University of Exeter, Stocker Road, Exeter, EX4 4QL, United Kingdom
+Element Six Innovation, Fermi Avenue, Harwell Oxford, Didcot, Oxfordshire, United Kingdom
+Energy Frontier Research Center, Columbia University, New York, NY 10027, United States
+Energy, Environmental, and Chemical Engineering, Washington University in St. Louis, St. Louis, MO, United States
+Engine Research Center, University of Wisconsin-Madison, Madison, WI 53706, United States
+European Laboratory for Non-Linear Spectroscopy (LENS), Via Carrara 1, I-50019 Sesto Fiorentino (FI), Italy
+European Laboratory for Non-Linear Spectroscopy (LENS), Via Carrara 1, Sesto Fiorentino (FI), Italy
+European Laboratory for Nonlinear Spectroscopy, Sesto Fiorentino 50019, Italy
+European Laboratory for Nonlinear Spectroscopy, Sesto Fiorentino, Italy
+European Southern Observatory, Karl Schwarzschild Str. 2, Garching, Germany
+European Southern Observatory, Karl-Schwarzschild-Str.2, 85748 Garching bei Munchen, Germany
+European Southern Observatory, Karl-Schwarzschild-Straße 2, 85748 Garching-bei-München, Germany
+European Southern Observatory, Paranal, Chile
+European Southern Observatory, ave. Alonso de Córdova 3107, Vitacura - Santiago, Chile
+FMD Instrument Shop, Washington University in St. Louis, St. Louis, MO, United States
+FOM Institute AMOLF, Science Park 104, Amsterdam, Netherlands
+Fachbereich Physik und Forschungszentrum OPTIMAS, Technische Universität Kaiserslautern, Germany
+Fachbereich Physik, Technische Universität Kaiserslautern, Kaiserslautern, Germany
+Faculty of Dental Medicine, Victor Babes Medicine and Pharmacy University of Timisoara, 2A Eftimie Murgu Place, Timisoara, Romania
+Faculty of Dentistry, Victor Babes Medicine and Pharmacy University of Timisoara, 2A Eftimie Murgu Place, Timisoara, Romania
+Faculty of Dentistry, Victor Babes Medicine and Pharmacy, University of Timisoara, 2A Eftimie Murgu Place, Timisoara, Romania
+Faculty of Engineering, Aurel Vlaicu University of Arad, Romania
+Faculty of Physics, Lomonosov Moscow State University, Moscow, Russian Federation
+Faculty of Physics, Moscow State University, Moscow, Russian Federation
+Faculty of Physics, St Kliment Ohridski University of Sofia, James Bourchier 5 blvd, Sofia, Bulgaria
+Faculty of Physics, University of Vienna, Austria
+Faculty of Physics, University of Vienna, Boltzmanngasse 5, A-1090 Vienna, Austria
+Faculty of Physics, University of Vienna, Boltzmanngasse 5, Vienna, Austria
+Faculty of Physics, University of Vienna, Vienna Center for Quantum Science and Technology (VCQ), Vienna, Austria
+Faculty of Physics, VCQ, University of Vienna, Boltzmanngasse 5, Vienna, Austria
+Faculty of Physics, West University of Timisoara, 4 Vasile Parvan Ave., Timisoara, Romania
+Faculty of Science, Kyoto Sangyo University, Motoyama, Kamigamo Kita-ku, Kyoto, Japan
+Fakultat fur Physik, Ludwig-Maximilians-Universitat, Schellingstrabe 4, Munchen, Germany
+Fakultät für Physik and Center for NanoScience (CeNS), Ludwig-Maximilians-Universität (LMU), Geschwister-Scholl-Platz 1, 80539 München, Germany
+Fakultät für Physik and Center for NanoScience (CeNS), Ludwig-Maximilians-Universität (LMU), Geschwister-Scholl-Platz 1, D-80539 München, Germany
+Fakultät für Physik and Center for NanoScience (CeNS), Ludwig-Maximilians-Universität (LMU), Geschwister-SchollPlatz 1, 80539 München, Germany
+Fakultät für Physik, Center for NanoScience (CENS), Ludwig-Maximilians-Universität, Geschwister-Scholl-Platz 1, 80539 München, Germany
+Fakultät für Physik, Center for NanoScience (CeNS), Ludwig-Maximilians-Universität (LMU), Geschwister-Scholl-Platz 1, 80539 München, Germany
+Fakultät für Physik, Center for NanoScience (CeNS), Ludwig-Maximilians-Universität, Geschwister Scholl-Platz 1, 80539 München, Germany
+Fakultät für Physik, Ludwig-Maximilians-Universität, Schellingstraße 4, 80799 München, Germany
+Ferdinand-Braun-Institute, Berlin, Germany
+Florey Instittue, University of Melbourne, 30 Royal Parade, Melbourne, VIC, Australia
+Franche-Comté Electronique Mécanique Thermique et Optique, Université de Technologie de Belfort-Montbéliard, Belfort Cedex, France
+Fraunhofer Institute for Applied Solid State Physics, Tullastr. 72, 79108 Freiburg, Germany
+Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, Basel, Switzerland
+Friedrich-Alexander University Erlangen-Nürnberg (FAU), Department of Physics, Staudtstr. 7, Erlangen, Germany
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Staudtstr. 7, D-91058 Erlangen, Germany
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Staudtstraße 7, D-91058 Erlangen, Germany
+Fujian Prov. Collaborative Innovation Center for Optoelectronic Semiconductors and Efficient Devices, Xiamen, China
+Fujian Provincial Key Laboratory of Quantum Manipulation and New Energy Materials, College of Physics and Energy, Fujian Normal University, Fuzhou, China
+Física Teórica de la Materia Condensada, Universidad Autónoma de Madrid, Madrid, Spain
+G.W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA, United States
+GEC-Marconi Avionics, Ltd, Edinburgh, United Kingdom
+GMTO Corporation, 465 N. Halstead Street, Pasadena, CA, United States
+GRANTECAN S.A., Cuesta de San José s/n, Breña Baja, La Palma, Spain
+GTC Project, Instituto de Astrofis. de Canarias, 38200 La Laguna, (S/C Tenerife), Spain
+Gemini Observatory, 670 North A'ohoku Place, Hilo, HI, United States
+Gemini Observatory, 950 N. Cherry Avenue, Tucson, AZ, United States
+Ginzton Laboratory, Department of Applied Physics, Stanford University, United States
+Global Science Technology, Inc., 7855 Walker Drive, Greenbelt, MD, United States
+Global Science and Technology, Inc., 7855 Walker Drive, Suite 200, Greenbelt, MD, 20770, United States
+GlobalFoundries Inc., Wilschdorfer Landstrasse 101, 01109 Dresden, Germany
+Goddard Space Flight Center, NASA, United States
+Graduate School of Engineering Science, Osaka University, Toyonaka, Osaka, Japan
+Group of Applied Physics, University of Geneva, CH-1211 Geneva 4, Switzerland
+Group of Applied Physics, University of Geneva, CH-1211 Genève 4, Switzerland
+Groupe d'Optique de Champ Proche, Laboratoire Interdisciplinaire Carnot de Bourgogne, Université de Bourgogne, 9, Avenue A. Savary, F-21078 Dijon, France
+Grupo de Fenómenos Ondulatorios, Departamento de Ingenieria Electrónica, Universitat Politècnica de València, Camino de vera s/n, Valencia, Spain
+Gurdon Institute, University of Cambridge, Tennis Court Road, Cambridge CB2 1QN, United Kingdom
+H. H. Wills Physics Laboratory, University of Bristol, Bristol, United Kingdom
+H.H.Wills Physics Laboratory, University of Bristol, Bristol, United Kingdom
+HT Micro, 3817 Academy Parkway South, NE, Albuquerque, NM 87109, United States
+HT Micro, Albuquerque, NM 87109, United States
+Harvard John A. Paulson School of Engineering and Applied Sciences, Cambridge, MA, United States
+Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, United States
+Hearne Institute for Theoretical Physics, Louisiana State University, Baton Rouge, LA 70803, USA
+Hearne Institute for Theoretical Physics, Louisiana State University, Baton Rouge, LA, United States
+Heriot-Watt University, Physics Department, Riccarton, Edinburgh, EHI4 4AS, United Kingdom, United Kingdom
+Heriot-Watt University, United Kingdom
+High Energy Physics Theory, Physics and Astronomy, University of Southampton, Southampton, United Kingdom
+Hohenzollern Gymnasium, Sigmaringen, Germany
+Honda R and D Co., Ltd., Automobile R and D Center, Department 1, Technology Research Division 2, Tochigi 321-3393, Japan
+Hunan Key Laboratory for Micro-Nano Energy Materials and Devices, Xiangtan University, Xiangtan, China
+Huygens-Kamerlingh Onnes Laboratorium, Universiteit Leiden, Leiden, Netherlands
+Huygens-Kamerlingh Onnes Laboratory, Universiteit Leiden, PO Box 9504, Leiden, Netherlands
+I.I. Mechnikov National University, Odessa, Ukraine
+I.N.A.F., Osservatorio Astronomico di Brera, Italy
+IBERESPACIO Tecnologia Aerospacial, Glorieta de Quevedo 9, 28015 Madrid, Spain
+IBM Research - Zürich, Säumerstrasse 4, Rüschlikon, Switzerland
+IBM T.J. Watson Research Center, Yorktown Heights, NY, United States
+IBM Watson Research Center, 1101 Kitchawan Rd. Route 134, Yorktown Heights, NY 10598, United States
+ICFO, Av. Carl Friedrich Gauss 3, Castelldefels, Spain
+ICFO-Institut de Ciencies Fotoniques, Barcelona Institute of Science and Technology, Castelldefels Barcelona, Spain
+ICFO-Institut de Ciencies Fotoniques, Barcelona Institute of Science and Technology, Castelldefels, Barcelona, Spain
+ICFO-Institut de Ciències Fotòniques, Barcelona Institute of Science and Technology, Castelldefels (Barcelona), Spain
+ICN2 - Institut Catala de Nanociencia i Nanotecnologia, Campus UAB, 08193 Bellaterra Barcelona, Spain
+ICN2-Institut Catala de Nanociencia i Nanotecnologia, Campus UAB, 08193 Barcelona, Spain
+ICREA - Institucio Catalana de Recerca i Estudis Avançats, 08010 Barcelona, Spain
+ICREA - Institució Catalana de Recerca i Estudis Avançats, Barcelona, Spain
+ICREA Institució Catalana de Recerça i Estudis Avancats, Barcelona, Spain
+ICREA, Catalan Institute for Research and Advanced Studies, Barcelona, Spain
+ICREA-Institucio Catalana de Recerca i Estudis Avançats, 08010 Barcelona, Spain
+ICREA-Instució Catalana de Recerca i Estudis Avançats, Barcelona, Spain
+IDOM, 23 Av. Zarandoa, 48015 Bilbao, Bizkaia, Spain
+IEEE, United States
+IEMN, Universite de Lille 1, Villeneuve d'Ascq, France
+ILM, Université Claude Bernard Lyon 1, CNRS ILM, 43 Boulevard du 11 Novembre 1918, Villeurbanne, France
+INAF - Osservatorio Astronomico di Padova, Vicolo dell'Osservatorio 5, Padova, Italy
+INAF, Osservatorio Astrofisico di Arcetri, Largo E. Fermi 5, I-50125 Firenze, Italy
+INAF, Osservatorio Astrofisico di Arcetri, Largo E. Fermi 5, I-50125, Firenze, Italy
+INAF, Osservatorio Astrofisico di Bologna, Via Ranzani 1, I-40127, Italy
+INAF, Osservatorio Astronomico di Bologna, Via Ranzani 1 - I-40127, Bologna, Italy
+INAF, Osservatorio Astronomico di Bologna, Via Ranzani 1, I-40127, Bologna, Italy
+INAF, Osservatorio Astronomico di Capodimonte, Via Moiariello 16, 80131, Napoli, Italy
+INAF, Osservatorio Astronomico di Padova, Vicolo dell'Osservatorio 5, I-35122 Padova, Italy
+INAF, Osservatorio Astronomico di Padova, Vicolo dell'Osservatorio 5, I-35122, Padova, Italy
+INAF, Osservatorio Astronomico di Roma, Via di Frascati 33, I-00040, Monte Porzio Catone, Italy
+INAF, Osservatorio Astronomico di Trieste, Via Tiepolo 11, I-34131 Trieste, Italy
+INAF-Osservatorio Astrofisico di Arcetri, Largo E. Fermi 5, I-50125 Firenze, Italy
+INAF-Osservatorio Astrofisico di Bologna, Via Ranzani 1, I-40127, Italy
+INAF-Osservatorio Astronomico di Padova, Vicolo Osservatorio 5, I-35122 Padova, Italy
+INAF-Osservatroio Astronomico Monte Porzio, Via di Frascati 33, I-00040 Roma, Italy
+INFN, Sezione di Firenze, Italy
+INFN, Sezione di Firenze, Sesto Fiorentino, (FI), Italy
+INFN, Sezione di Firenze, Via Sansone 1, I-50019 Sesto Fiorentino (FI), Italy
+INFN, Sezione di Firenze, via Sansone 1, Sesto Fiorentino (FI), Italy
+INFN, Sezione di Perugia, Italy
+INFN, Sezione di Perugia, Perugia, Italy
+INFN, Trento Institute for Fundamental Physics and Application, Povo, (TN), Italy
+INFN-LNF, Via Enrico Fermi, 40, Frascati, Rome, Italy
+INO, 2740 Einstein St., Quebec, QC, Canada
+INO-CNR, Via G. Moruzzi 1, Pisa, Italy
+INO-CNR, via G. Moruzzi 1, Pisa, Italy
+INSP, Paris 6 Jussieu, Paris, France
+IPCMS (UMR 7504) and ISIS (UMR 7006), University of Strasbourg, CNRS (UMR 7006), Strasbourg, France
+ISIS (UMR 7006) and IPCMS (UMR 7504), Université de Strasbourg, CNRS, Strasbourg, France
+ISIS (UMR 7006), IPCMS (UMR 7504), Université de Strasbourg, Strasbourg 67083, France
+ITAMP, Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, United States
+ITAMP, Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, United States
+ITCG Professional Products Business Planning Division, Canon USA, Melville, NY, United States
+ITHES Research Group, RIKEN, Wako-shi, Saitama, Japan
+ITHES, RIKEN, Saitama, Japan
+ITMO University, Saint Petersburg, Russian Federation
+ITMO University, St.-Petersburg, Russian Federation
+ITT Communications, Fort Wayne, IA 46801, United States
+IZKF Aachen, RWTH Aachen University, Pauwelsstraße 30, Aachen, Germany
+Ikerbasque, Basque Foundation for Science, Bilbao, Spain
+Ilmenau University of Technology, Ilmenau, Germany
+Image Communications and Product Development Center, Canon Inc., Japan
+Imaging Communications and Technologies Group, Canon USA, Melville, NY, United States
+Imec Center for Nano- and Biophotonics, Ghent University, Belgium
+Indian Institute of Astrophysics, Koramangala, Bangalore 560 034, India
+Industrial Technology Research Institute, Chutung, Hsinchu 310, Taiwan
+Inserm UMRS 1127, France
+Insitute for Complex Systems, National Research Council (ISC-CNR), U.O.S. Sapienza c/o P.A. Moro 5, Rome (IT), Italy
+Inst. Astrofísico de Canarias, GTC Project, C/Vía Láctea s/n, 38200 La Laguna, Tenerife, Spain
+Inst. de Astrofis. de Canarias, 38200 La Laguna (Tenerife), Spain
+Inst. de Astrofis. de Canarias, 38200-La Laguna (S/C Tenerife), Spain
+Inst. de Astrofis. de Canarias, La Laguna, Tenerife, Spain
+Inst. de Astrofis. de Canarias, c/ Vía Láctea s/n, La Laguna, Tenerife, 38200, Spain
+Institut Curie, Centre de Recherche, Université Pierre et Marie Curie, 75248 Paris Cedex 05, France
+Institut D'Electronique, de Microélectronique et de Nanotechnologie, CNRS UMR 8520, Lille, France
+Institut FEMTO-ST, CNRS UMR 6174, Université de Franche-Comté, Besançon, France
+Institut FEMTO-ST, Université de Franche Comté, CNRS, Besançon 25410, France
+Institut FEMTO-ST, Université de Franche Comté, UMR CNRS 6174, Besançon, France
+Institut Fü R Laser-Physik, Universität Hamburg, Hamburg, Germany
+Institut Für Theoretische Physik, Nichtlineare Optik und Quantenelektronik, Technische Universität Berlin, Hardenbergstr. 36, Berlin, Germany
+Institut Jean Lamour, Université de Lorraine, F-54500 Vandoeuvre-lès-Nancy, France
+Institut Lumiere Matiere, UMR5306, CNRS - Universit́e Claude Bernard Lyon 1, 69622 Villeurbanne, France
+Institut Lumière Matière, UMR5306, CNRS, Université Claude Bernard Lyon 1, Villeurbanne, France
+Institut Lumière Matière, UMR5306, Université Claude Bernard Lyon 1, Villeurbanne, France
+Institut National d'Optique (INO), 2740 rue Einstein, Sainte Foy, QC G1P 4S4, Canada
+Institut National d'Optique, 2740 Rue Einstein, Québec, QC, Canada
+Institut Non Linéaire de Nice, UMR 7335 CNRS, 1361 route des Lucioles, 06560 Valbonne, France
+Institut Néel (CNRS, UJF), 25 rue des Martyrs, 38 042 Grenoble Cedex 09, France
+Institut Néel, 38042 Grenoble, France
+Institut Néel, CNRS, Université Joseph Fourier, 38042 Grenoble, France
+Institut Néel, CNRS/UJS, 25 rue des Martyrs, 38042 Grenoble cedex 9, France
+Institut Néel, Université Grenoble Alpes, CNRS:UPR2940, Grenoble, France
+Institut d'Electronique, De Microélectronique et Nanotechnologie, UMR CNRS, 8520 Université Lille 1, Villeneuve d'Ascq, France
+Institut d'Electronique, de Microélectronique et Nanotechnologie, UMR CNRS 8520, Université Lille 1, Villeneuve d'Ascq 59653, France
+Institut d'Electronique, de Microélectronique et de Nanotechnologie, UMR CNRS 8520, Université Lille 1, 59652 Villeneuve d'Ascq, France
+Institut des Molécules et Matériaux du Mans, UMR CNRS 6283, Université du Maine, Le Mans, France
+Institut des NanoSciences de Paris, UMR 7588 C.N.R.S., Université Pierre et Marie Curie, Paris, France
+Institut des NanoSciences de Paris, UMR 7588, Centre National de la Recherche Scientifique, Université Pierre et Marie Curie, Paris, France
+Institut des Nanosciences de Paris, CNRS UMR 7588, Université Pierre et Marie Curie (UPMC), Paris, France
+Institut des Sciences et Technologies Industrielles, Swiss University of Applied Sciences, Geneva CH, Switzerland
+Institut des Sciences et Technologies Industrielles, hepia, HES-SO University of Applied Sciences, Western Switzerland, 4, rue de la Prairie, Genève, Switzerland
+Institut du Cerveau et de la Moelle Épinière (ICM), Paris, France
+Institut for Theoretische Physik, Universitat of Innsbruck, Technikerstraße 25, A-6020 Innsbruck, Austria
+Institut for Theoretische Physik, Universitat of Innsbruck, Technikerstraße 25, Innsbruck, Austria
+Institut für Astronomie und Astrophysik, Sand 1, 72076 Tübingen, Germany
+Institut für Gravitationsphysik, Leibniz Universitat Hannover and Max-Planck-Inst. fur Gravitationsphysik (Albert-Einstein-Institut), Callinstraße 38, 30167 Hannover, Germany
+Institut für Gravitationsphysik, Leibniz Universität Hannover, Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut), Callinstraße 38, D-30167 Hannover, Germany
+Institut für Gravitationsphysik, Leibniz Universität Hannover, Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut), Callinstraße 38, Hannover, Germany
+Institut für Optik, Information und Photonik, Universität Erlangen-Nürnberg, Erlangen, Germany
+Institut für Physik, Johannes Gutenberg Universität Mainz, Staudingerweg 7, Mainz, Germany
+Institut für Theoretische Physik II, Friedrich-Alexander Universität Erlangen-Nürnberg, Staudtstr. 7, Erlangen, Germany
+Institut für Theoretische Physik, Freie Universität, Arnimallee 14, 14195, Berlin, Germany
+Institut für Theoretische Physik, Leibniz Universität Hannover, Appelstraße 2, 30167 Hannover, Germany
+Institut für Theoretische Physik, Leibniz Universität Hannover, Appelstraße 2, D-30167 Hannover, Germany
+Institut für Theoretische Physik, Leibniz Universität Hannover, Appelstraße 2, Hannover, Germany
+Institut für Theoretische Physik, Liebniz Universität at Hannover, Appelstr. 2, D-30167, Hannover, Germany
+Institut für Theoretische Physik, Universität Erlangen-Nürnberg, Staudtstr. 7, 91058 Erlangen, Germany
+Institut für Theoretische Physik, Universität Innsbruck, Technikerstrasse 25, A-6020 Innsbruck, Austria
+Institut für Theoretische Physik, Universität Zu, Köln, Köln, Germany
+Institut Ńeel, Universit́e Grenoble Alpes - CNRS:UPR2940, 38042 Grenoble, France
+Institute Nano-Architectures for Energy Conversion, Helmholtz-Zentrum Berlin für Materialien und Energie GmbH, Berlin, Germany
+Institute de Astronomía, UNAM, Cd. Universitaria, Apdo. Postal 70-264, Coyoacan, CP 04510, Mexico D.F., Mexico
+Institute for Advanced Engineering, Yongin-si, Gyeonggi-do, South Korea
+Institute for Advanced Study and Department of Physics, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+Institute for Analytical Sciences, Albert-Einstein-Str. 9, 12484 Berlin, Germany
+Institute for Complex Systems and Mathematical Biology, King's College, University of Aberdeen, Aberdeen, United Kingdom
+Institute for Complex Systems, National Research Council (ISC-CNR), Via dei Taurini 19, Rome, Italy
+Institute for Computational Medicine, Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, United States
+Institute for Design Problems in Microelectronics of RAS, Moscow, Russian Federation
+Institute for Integrative Nanosciences, IFW Dresden, Helmholtzstr. 20, 01069 Dresden, Germany
+Institute for Molecular Engineering, University of Chicago, Chicago, IL, United States
+Institute for Nano Quantum Information Electronics, University of Tokyo, 4-6-1, Komaba, Meguro-ku, Tokyo, 153-8505, Japan
+Institute for Nano Quantum Information Electronics, University of Tokyo, Tokyo 153-8505, Japan
+Institute for Neuropathology, RWTH Aachen University, Pauwelsstraße 30, Aachen, Germany
+Institute for Quantum Computing, Department of Applied Mathematics, University of Waterloo, Waterloo, ON, Canada
+Institute for Quantum Electronics, ETH Zurich, Zurich, Switzerland
+Institute for Quantum Electronics, ETH Zürich, CH-8093 Zürich, Switzerland
+Institute for Quantum Information Science, Department of Physics and Astronomy, University of Calgary, Calgary T2N 1N4, AB, Australia
+Institute for Quantum Information Science, Department of Physics and Astronomy, University of Calgary, Calgary, AB T2N 1N4, Canada
+Institute for Quantum Information Science, University of Calgary, 2500 University Drive NW, Calgary, AB, T2N 1N4, Canada
+Institute for Quantum Information and Matter and Thomas J. Watson, Sr., Laboratory of Applied Physics, California Institute of Technology, Pasadena, CA, United States
+Institute for Quantum Information and Matter, California Institute of Technology, Pasadena, CA 91125, United States
+Institute for Quantum Information and Matter, California Institute of Technology, Pasadena, CA, United States
+Institute for Quantum Information and Matter, Thomas J. Watson Senior Laboratory of Applied Physics, California Institute of Technology, Pasadena, CA, United States
+Institute for Quantum Information, California Institute of Technology, Pasadena, CA 91125, United States
+Institute for Quantum Optics and Quantum Information (IQOQI) of the Austrian Academy of Sciences, A-1090 Vienna, Austria
+Institute for Quantum Optics and Quantum Information (IQOQI) of the Austrian Academy of Sciences, A-6020 Innsbruck, Austria
+Institute for Quantum Optics and Quantum Information (IQOQI), Austrian Academy of Sciences, Boltzmanngasse 3, Vienna, Austria
+Institute for Quantum Optics and Quantum Information (IQQOI), Austrian Academy of Sciences, Technikerstraße 21a, A-6020 Innsbruck, Austria
+Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences, 6020 Innsbruck, Austria
+Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences, Austria
+Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences, Innsbruck, Austria
+Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences, Technikerstrasse 21a, Innsbruck, Austria
+Institute for Quantum Optics and Quantum Information, Boltzmanngasse 3, Vienna, Austria
+Institute for Quantum Science and Technology, University of Calgary, 2500 University Drive NW, Calgary, AB, Canada
+Institute for Quantum Science and Technology, University of Calgary, 2500 University Drive NW, Calgary, AB, T2N 1N4, Canada
+Institute for Quantum Science and Technology, University of Calgary, Calgary, AB T2N 1N3, Canada
+Institute for Quantum Science and Technology, University of Calgary, Calgary, AB T2N 1N4, Canada
+Institute for Quantum Science and Technology, University of Calgary, Calgary, AB, Canada
+Institute for Sensor and Actuator Systems, Vienna University of Technology, Vienna, Austria
+Institute for Solid State Physics and Optics, Wigner Research Centre for Physics, H-1525 Budapest, PO Box 49, Hungary
+Institute for Space Sciences, P.O. Box MG-23, RO-077125 Bucharest-Magurele, Romania
+Institute for Theoretical Physics II, Friedrich Alexander University Erlangen-Nuremberg, Germany and Max Planck Institute for the Science of Light, Erlangen, Germany
+Institute for Theoretical Physics II, University Erlangen-Nürnberg, Erlangen, Germany
+Institute for Theoretical Physics, Albert Einstein Institute, University of Hannover, Callinstrasse 38, D-30167 Hannover, Germany
+Institute for Theoretical Physics, Department of Physics, Universität Erlangen-Nürnberg, Erlangen, Germany
+Institute for Theoretical Physics, Friedrich-Alexander-Universität Erlangen-Nürnberg, Staudtstraße 7, Erlangen, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics (Albert Einstein Institute), Leibniz University Hannover, Callinstraße 38, Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics (Albert Einstein Institute), Leibniz University Hannover, Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics (Albert Einstein Institute), Leibniz Universität Hannover, Callinstraße 38, Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics (Albert-Einstein-Institute), Leibniz-University-Hannover, Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics, Callinstrasse 38, 30167 Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics, Leibniz University Hannover, Callinstrasse 38, Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics, Leibniz University Hannover, Callinstraße 38, 30167 Hannover, Germany
+Institute for Theoretical Physics, Institute for Gravitational Physics, Leibniz University Hanover, Callinstrasse 38, 30167 Hanover, Germany
+Institute for Theoretical Physics, University Erlangen-Nürnberg, Staudtstr. 7, 91058 Erlangen, Germany
+Institute for Theoretical Physics, University Erlangen-Nürnberg, Staudtstraße 7, Erlangen, Germany
+Institute for Theoretical Physics, University of Erlangen-Nürnberg, Erlangen, Germany
+Institute for Theoretical Physics, University of Erlangen-Nürnberg, Staudtstraße 7, 91058 Erlangen, Germany
+Institute for Theoretical Physics, University of Innsbruck, 6020 Innsbruck, Austria
+Institute for Theoretical Physics, University of Innsbruck, Innsbruck, Austria
+Institute for Theoretical Physics, University of Innsbruck, Technikerstrasse 25, Innsbruck, Austria
+Institute for Theoretical Physics, University of Innsbruck, Technikerstraße 25, A-6020 Innsbruck, Austria
+Institute for Theoretical Physics, University of Innsbruck, Technikerstraße 25, A-6020 Innsbruck, EU, Austria
+Institute for Theoretical Physics, Universität Erlangen-Nürnberg, D-91058 Erlangen, Germany
+Institute for Theoretical Physics, Universität Erlangen-Nürnberg, Staudtstr 7, 91058 Erlangen, Germany
+Institute for Theoretical Physics, Universität Erlangen-Nürnberg, Staudtstr. 7, 91058 Erlangen, Germany
+Institute for Theoretical Physics, Universität Erlangen-Nürnberg, Staudtstraße 7, 91058 Erlangen, Germany
+Institute of Advanced Materials, Physicochemical Processes, Nanotechnology and Microsystems, Department of Microelectronics, NCSR demokritos, Athens, Greece
+Institute of Anatomy, Eberhard-Karls-University, Tuebingen, Germany
+Institute of Anatomy, University of Zurich, Winterthurerstrasse 190, Zurich, Switzerland
+Institute of Applied Physics and Computational Mathematics, Beijing, China
+Institute of Applied Physics, Darmstadt University of Technology, Hochschulstr., 6, Darmstadt, 64289, Germany
+Institute of Applied Sciences, Amity University, Noida, U.P., India
+Institute of Astronomy, RAS, Pyatnistskaya str. 48, 119017 Moscow, Russian Federation
+Institute of Atomic and Subatomic Physics, TU Wien, Stadionallee 2, 1020 Wien, Austria
+Institute of Atomic and Subatomic Physics, TU Wien, Stadionallee 2, 1020, Austria
+Institute of Atomic and Subatomic Physics, TU Wien, Stadionallee 2, Wien, Austria
+Institute of Electronic Structure and Lasers (IESL), FORTH, 71110 Heraklion, Crete, Greece
+Institute of Engineering Mechanics, Beijing Jiaotong University, Beijing 100044, China
+Institute of Engineering Mechanics, Beijing Jiaotong University, Beijing, China
+Institute of Industrial Science, University of Tokyo, 4-6-1, Komaba, Meguro-ku, Tokyo, 153-8505, Japan
+Institute of Industrial Science, University of Tokyo, Tokyo 153-8505, Japan
+Institute of Information Optics, Zhejiang Normal University, Jinhua 321004, China
+Institute of Life Sciences, Scuola Superiore sant'Anna, Piazza Martiri della Libertà 33, Pisa, Italy
+Institute of Materials Research and Engineering, A STAR (Agency for Science, Technology and Research), 3 Research Link, Singapore 117602, Singapore
+Institute of Materials Research and Engineering, A STAR (Agency for Science, Technology and Research), 3 Research Link, Singapore, Singapore
+Institute of Materials Research and Engineering, ASTAR (Agency for Science, Technology and Research), 3 Research Link, Singapore, Singapore
+Institute of Materials Research and Engineering, ASTAR (Agency for Science, Technology, and Research), 3 Research Link, Singapore 117602, Singapore
+Institute of Materials and Research and Engineering, ASTAR, Singapore
+Institute of Materials for Electronics and Magnetism, Nanoscience-Trento-FBK Division, I-38123 Povo (TN), Italy
+Institute of Materials for Electronics and Magnetism, Nanoscience-Trento-FBK Division, Povo (TN), Italy
+Institute of Materials for Electronics and Magnetism, Nanoscience-Trento-FBK Division, Povo, (TN), Italy
+Institute of Materials for Electronics and Magnetism, Nanoscience-Trento-FBK Division, Povo, Trento, Italy
+Institute of Mathematical Sciences, CIT Campus, IV Cross Road, Taramani, Chennai 600 113, India
+Institute of Microelectronics, A - STAR, Singapore, Singapore
+Institute of Microelectronics, ASTAR (Agency for Science Technology and Research), 11 Science Park Road, Singapore 117685, Singapore
+Institute of Microelectronics, ASTAR (Agency for Science, Technology and Research), 11 Science Park Road, Singapore Science Park II, Singapore 117685, Singapore
+Institute of Microelectronics, ASTAR, Singapore, Singapore
+Institute of Microelectronics, Tsinghua University, Beijing 100084, PR China
+Institute of Nanotechnology, Karlsruhe Institute of Technology, 76344 Eggenstein-Leopoldshafen, Germany
+Institute of Nuclear Sciences, Hacettepe University, Ankara, Turkey
+Institute of Optics, University of Rochester, 275 Hutchison Rd., Rochester, NY, United States
+Institute of Optics, University of Rochester, Rochester, NY 14627, United States
+Institute of Optics, University of Rochester, Rochester, NY, United States
+Institute of Optics, University of Rochester, Wilmot Building, 275 Hutchison Rd., Rochester, NY 14627-0186, United States
+Institute of Optics, University of RochesterNY, United States
+Institute of Opto-Electronics, Shanxi University, Taiyuan, China
+Institute of Optoelectronic Sciences, National Taiwan Ocean University, Keelung 20224, Taiwan
+Institute of Pharmacology and Toxicology, University of Zurich, Winterthurerstrasse 190, Zürich, Switzerland
+Institute of Photonics and Quantum Sciences, Heriot-Watt University, Edinburgh EH14 4AS, United Kingdom
+Institute of Photonics and Quantum Sciences, Heriot-Watt University, Edinburgh, United Kingdom
+Institute of Physics, Humboldt University, Berlin, Germany
+Institute of Physics, University of Amsterdam, P.O. Box 94485, Amsterdam, Netherlands
+Institute of Quantum Electronics, ETH Zürich, Wolfgang-Pauli-Strasse 16, CH-8093 Zürich, Switzerland
+Institute of Quantum Optics and Information Photonics, School of Physics and Optoelectronic Engineering, Yangtze University, Jingzhou, China
+Institute of Quantum Science and Technology, University of Calgary, Calgary, Canada
+Institute of Scientific Instruments of CAS, Czech Academy of Sciences, Královopolská 147, Brno, Czech Republic
+Institute of Scientific Instruments of the ASCR, Brno, Czech Republic
+Institute of Scientific Instruments of the CAS, V.v.i., Czech Academy of Sciences, Brno, Czech Republic
+Institute of Scientific Instruments of the Czech Academy of Sciences, Královopolská 147, Brno, Czech Republic
+Institute of Theoretical Physics and Collaborative Innovation Center of Extreme Optics, Shanxi University, Shanxi, China
+Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China
+Institutes of Entrepreneurial BioConvergence, Seoul National University, Seoul, South Korea
+Instituto de Astrofí Sica de Canarias (IAC), C/Vía lá Ctea, s/n E-38200, La Laguna, Tenerife, Spain
+Instituto de Astrofísica de Andalucía (IAA-CSIC), Glorieta de la Astronomía s/n, Granada, Spain
+Instituto de Astrofísica de Canarias (IAC), 38200 La Laguna (Tenerife), Spain
+Instituto de Astronomía, Observatorio Astronómico Nacional, Universidad Nacional Autónoma de México (UNAM), Km. 130 Carretera Tijuana-Ensenada, 22860, Ensenada, B.C., Mexico
+Instituto de Astronomía, UNAM, Apdo. Postal 70-264, 04510 México D.F., Mexico
+Instituto de Astronomía, Univ. Nac. Auton. de Mexico, Apartado Postal 70-264, México, D.F., 04510, Mexico
+Instituto de Astronomía, Universidad Nacional Autónoma de Mexico, Mexico
+Instituto de Astronomía, Universidad Nacional Autónoma de México (UNAM), Cd. Universitaria, Apdo. Postal 70-264, 04510 Mexico, D.F., Mexico
+Instituto de Ciencia de Materiales, CSIC, Cantoblanco, Madrid, Spain
+Instituto de Física Gleb Wataghin, Universidade Estadual de Campinas, Campinas, São Paulo, Brazil
+Instituto de Física Gleb Wataghin, Universidade Estadual de Campinas, UNICAMP, 13083-859, Campinas, SP, Brazil
+Instituto de Física, Universidade Federal Fluminense, Boa Viagem, Niterói, Rio de Janeiro, Brazil
+Instituto de Microelectrónica de Barcelona, CSIC, Campus UAB, Bellaterra 08193, Barcelona, Spain
+Instituto de Microelectrónica de Madrid, CSIC, Isaac Newton 8 (PTM), Tres Cantos, 28760 Madrid, Spain
+Instrument Technology Research Center, National Applied Research Laboratories, 20, R and D Rd. VI, Hsinchu 300, Taiwan
+Interdisciplinary Laboratory for Computational Science (LISC), FBK-University of Trento, I-38123 Povo (TN), Italy
+Interdisciplinary Laboratory for Computational Science (LISC), FBK-University of Trento, Povo, (TN), Italy
+Interdisciplinary Program for Bioengineering, Seoul National University, Seoul, South Korea
+International Center for Materials Nanoarchitectonics (MANA), National Institute for Materials Science (NIMS), Tsukuba, Ibaraki, Japan
+International Center for Quantum Materials, Peking University, Beijing 100871, China
+Ioffe Institute, St. Petersburg, Russian Federation
+Irmato, Hereweg 120-5, Groningen, Netherlands
+Ist. Naz. di Astron. e Astrofisica, Osservatorio Astronomico di Torino, Str. Osservatorio 20, I-10025 Pino T.se (TO), Italy
+Istanbul Bilgi University, Dept. of Electrical and Electronics Eng, Istanbul, Turkey
+Istanbul Technical University, Dept. of Electronics and Communication Eng, Istanbul, Turkey
+Istituto Nanoscienze-CNR, Euromediterranean Center for Nanomaterial Modelling and Technology (ECMT), via Arnesano, Lecce, Italy
+Istituto Nazionale di Fisica Nucleare (INFN), Gruppo Collegato di Trento, I-38123 Povo (TN), Italy
+Istituto Nazionale di Fisica Nucleare (INFN), Trento Institute for Fundamental Physics and Application, Povo, Trento, Italy
+Istituto Nazionale di Fisica Nucleare, Trieste Section, Via Valerio 2, 34127 Trieste, Italy
+Istituto Nazionale di Ottica, CNR, Via Nello Carrara 1, Sesto Fiorentino (FI), Italy
+JILA, National Institute of Standards and Technology, University of Colorado, Boulder, CO 80309, United States
+JILA, University of Colorado and NIST, 440 UCB Boulder, CO 80309-0440, United States
+JILA, University of Colorado and NIST, 440 UCB, Boulder, CO 80309, United States
+JILA, University of Colorado and NIST, Boulder, CO, United States
+JILA, University of Colorado and National Institute of Standards and Technology, University of Colorado, Boulder, Colorado 80309, United States
+JILA, University of Colorado, Boulder, CO 80309, United States
+JILA, University of Colorado, Department of Physics, Boulder, CO 80309, United States
+JILA, University of Colorado, National Institute of Standards and Technology, Boulder, CO 80309, United States
+JILA, University of Colorado, National Institute of Standards and Technology, Boulder, CO, United States
+Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, United States
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, United States
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91125, United States
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, United States
+Jiangsu Key Laboratory of Modern Measurement Technology and Intelligent Systems, Huaiyin Normal University, Huai’an, China
+Jiangsu Key Laboratory of Thin Films, Soochow University, Suzhou, China
+Jinan Institute of Quantum Technology, Shandong Academy of Information and Communication Technology, Jinan, China
+Jodrell Bank Centre for Astrophysics, School of Physics and Astronomy, University of Manchester, Oxford Road, Manchester, United Kingdom
+John A. Paulson School of Engineering and Applied Sciences, Harvard University, 29 Oxford Street, Cambridge, MA, United States
+Johns Hopkins Applied Physics Laboratory, Laurel, MD, United States
+Joint Center for Quantum Information and Computer Science, National Institute of Standards and Technology, College Park, MD, United States
+Joint Center for Quantum Information and Computer Science, University of Maryland, College Park, MD, United States
+Joint Quantum Institute, Department of Physics, University of Maryland, College Park, MD 20742, United States
+Joint Quantum Institute, Maryland Center for Fundamental Physics, University of Maryland, College Park, MD 20742, United States
+Joint Quantum Institute, Maryland Center for Fundamental Physics, University of Maryland, College Park, MD, United States
+Joint Quantum Institute, NIST, College Park, MD 20742, United States
+Joint Quantum Institute, NIST, University of Maryland, College Park, MD, United States
+Joint Quantum Institute, University of Maryland and NIST, College Park, MD 20742, United States
+Joint Quantum Institute, University of Maryland, College Park, MD 20742, United States
+Joint Quantum Institute, University of Maryland, College Park, MD, United States
+Joint Quantum Institute, University of Maryland, NIST, College Park, MD, United States
+Joint Quantum Institute, University of Maryland, United States
+Joint Quantum Institute/NIST, College Park, MD 20899, United States
+Kavli Institute at Cornell for Nanoscale Science, Cornell University, Ithaca, NY 14853, United States
+Kavli Institute at Cornell, Cornell University, Ithaca, NY, United States
+Kavli Institute at Cornell, Cornell University, Ithaca, New YY 14853, United States
+Kavli Institute for Astronomy and Astrophysics, Peking University, Yi He Yuan Lu 5, Haidian Qu, Beijing, China
+Kavli Institute for Theoretical Physics, University of California, Santa Barbara, United States
+Kavli Institute of Nanoscience, Delft University of Technology, Lorentzweg 1, CJ Delft, Netherlands
+Kavli Institute of Nanoscience, Delft University of Technology, Lorentzweg 1, Delft, Netherlands
+Kavli Institute of Nanoscience, Delft University of Technology, P. O. B. 5046, 2600GA Delft, Netherlands
+Kavli Institute, Cornell for Nanoscale Science, Ithaca, NY, United States
+Kavli Nanoscience Institute and Thomas J. Watson, Sr, Laboratory of Applied Physics, California Institute of Technology, Pasadena, CA 91125, United States
+Kavli Nanoscience Institute, California Institute of Technology, Pasadena, CA, United States
+Kavli Nanoscience Institute, Institute for Quantum Information and Matter and Thomas J. Watson, Sr., Laboratory of Applied Physics, California Institute of Technology, Pasadena, CA, United States
+Kayser Threde GmbH, Wolfratshauserstr. 48, 81545 Munich, Germany
+Kayser-Threde GmbH, Munich, Germany
+Key Lab of Coherent Light, Atomic and Molecular Spectroscopy, Ministry of Education, and College of Physics, Jilin University, Changchun 130012, People's Republic of China
+Key Lab of Quantum Information, University of Science and Technology of China, Hefei 230026, Anhui, China
+Key Lab of Quantum Information, University of Science and Technology of China, Hefei, Anhui 230026, China
+Key Laboratory for Quantum Optics, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai, China
+Key Laboratory of Low-Dimensional Quantum Structures and Quantum Control, Ministry of Education, Department of Physics, Synergetic Innovation Center for Quantum Effects and Applications, Hunan Normal University, Changsha, China
+Key Laboratory of Low-Dimensional Quantum Structures, Quantum Control of Ministry of Education, Department of Physics, Hunan Normal University, Changsha, China
+Key Laboratory of Materials Design and Quantum Simulation, Changchun University, Changchun, China
+Key Laboratory of Micro-systems and Micro-structures Manufacturing, Ministry of Education, Harbin Institute of Technology, Harbin, China
+Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing, China
+Key Laboratory of Optoelectronics Information, College of Precision Instrument and Opto-electronics Engineering, Tianjin University, Tianjin 300072, China
+Key Laboratory of Quantum Information, Chinese Academy of Sciences, University of Science and Technology of China, Hefei, China
+Key Laboratory of Quantum Information, University of Science and Technology of China, Hefei, Anhui 230026, China
+Key Laboratory of Quantum Information, University of Science and Technology of China, Hefei, China
+Key Laboratory of Space Astronomy and Technology, National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing, China
+Konkoly Thege Miklós Astronomical Institute, MTA Research Centre for Astronomy and Earth Sciences, PO Box 67, Budapest, Hungary
+Korea Astronomy and Space Science Institute, 776 Daedeokdae-Ro, Yuseong-Gu, Daejeon, South Korea
+Korea Astronomy and Space Science Institute, Daejeon 305-348, South Korea
+Korea Astronomy and Space Science Institute, Daejeon, South Korea
+Korea Basic Science Institute, Daejeon, South Korea
+Korea Institute of Advanced Study, Seoul, South Korea
+Korea Research Institute of Standards and Science, Daejeon 305-340, South Korea
+Korea Research Institute of Standards and Science, Daejeon, South Korea
+Kotel'nikov Institute of Radio Engineering and Electronics, Russian Academy of Sciences (Ulyanovsk branch), Goncharov str., 48, Ulyanovsk 432011, Russian Federation
+Koyama Astronomical Observatory, Kyoto Sangyo University, Motoyama, Kamigamo Kita-ku, Kyoto, Japan
+Kunming Institute of Physics, Kunming 650223, China
+L-3 Communications Integrated Optical Systems - Wilmington, 65 Jonspin Road, Wilmington, MA 01887, United States
+L-3 Communications Integrated Optical Systems - Wilmington, United States
+LENS, Via Carrara 1, Sesto Fiorentino, (FI), Italy
+LIGO Laboratory, California Institute of Technology, Pasadena, CA 91125, United States
+LIGO Laboratory, Masachusetts Institute of Technology, Cambridge, MA, United States
+LIGO Laboratory, Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+LIGO, California Institute of Technology, Pasadena, CA, United States
+LINAC Project, PINSTECH, Nilore, Islamabad, Pakistan
+LKB, UPMC, 4 place Jussieu, Case 74, Paris Cedex 05, France
+LPHE-MS, Faculty of Sciences, Mohammed V University of Rabat, Rabat, Morocco
+LSRO, Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+Laboratoire Charles Fabry de l'Institut d'Optique, CNRS, Université de Paris-Sud, RD 128, F-91127 Palaiseau, France
+Laboratoire Charles Fabry, Institut d'Optique, Campus Polytechnique, RD 128, 91127 Palaiseau cedex, France
+Laboratoire Energétique Mécanique Electromagnétisme, Université Paris Ouest Nanterre la Défense, 50 rue de Sèvres, Ville d'Avray, France
+Laboratoire Kastler Brossel, ENS, CNRS, Case 74, 4 Place Jussieu, 75005 Paris, France
+Laboratoire Kastler Brossel, ENS, CNRS, Paris, France
+Laboratoire Kastler Brossel, ENS, UPMC, 4 Place Jussieu, 75005 Paris, France
+Laboratoire Kastler Brossel, ENS, UPMC, Case 74, 4 place Jussieu, F75252 Paris Cedex 05, France
+Laboratoire Kastler Brossel, ENS-PSL Research University, CNRS, UPMC-Sorbonne Universités, Collège de France, Paris, France
+Laboratoire Kastler Brossel, ENS/UPMC-Paris 6/CNRS, 24 rue Lhomond, F-75005 Paris, France
+Laboratoire Kastler Brossel, ENS/UPMC-Paris 6/CNRS, Paris, France
+Laboratoire Kastler Brossel, ENS/UPMC-Paris, 6/CNRS, 24 rue Lhomond, F-75005 Paris, France
+Laboratoire Kastler Brossel, Ecole Normale Supérieure, Université Pierre et Marie Curie, 24 rue Lhomond, 75005 Paris, France
+Laboratoire Kastler Brossel, Ecole Normale Supérieure, Université Pierre et Marie Curie, CNRS, 24 rue Lhomond, 75005 Paris, France
+Laboratoire Kastler Brossel, UPMC, CNRS, Case 74, 4 Place Jussieu, F75252 Paris Cedex 05, France
+Laboratoire Kastler Brossel, UPMC, Case 74, 13-23 2eme étage, 4 place Jussieu, Paris 05, France
+Laboratoire Kastler Brossel, UPMC-ENS-CNRS, Case 74, 4 place Jussieu, F-75252 Paris Cedex 05, France
+Laboratoire Kastler Brossel, UPMC-ENS-CNRS, Case 74, 4 place Jussieu, F75252 Paris Cedex 05, France
+Laboratoire Kastler Brossel, UPMC-ENS-CNRS, Case 74, 4 place Jussieu, Paris Cedex 05, France
+Laboratoire Kastler Brossel, UPMC-ENS-CNRS, Paris, France
+Laboratoire Kastler Brossel, UPMC-Sorbonne Universités, CNRS, ENS-PSL Research University, Collège de France, 4 place Jussieu, Case 74, Paris, France
+Laboratoire Lasers Plasmas et Procédés Photoniques (LP3), CNRS, Université de la Méditerranée, 163 Avenue de Luminy, Marseille FR-13288, France
+Laboratoire Matériaux et Phénomnes Qantiques, Université Paris Diderot, CNRS UMR 7162, 10 rue Alice Domont et Léonie Duquet, Paris 75013, France
+Laboratoire Matériaux et Phénomènes Quantiques, Université Paris Diderot, CNRS, 10 Rue Alice Domon et Léonie Duquet, 75013 Paris, France
+Laboratoire Matériaux et Phénomènes Quantiques, Université Paris Diderot, UMR 7162, 75205 Paris Cedex 13, France
+Laboratoire Matériaux et Phénomènes Quantiques, Université Paris-Diderot, CNRS, 10 rue Alice Domon et Léonie Duquet, 75013 Paris, France
+Laboratoire Matériaux et Phénomènes Quantiques, Université Paris-Diderot, CNRS, UMR 7162, 10 Rue Alice Domon et Léonie Duquet, 75013 Paris, France
+Laboratoire Matériaux et Phénomènes Quantiques, Université Paris-Diderot, CNRS, UMR7162, 10 rue Alice Domon et Léonie Duquet, 75013 Paris, France
+Laboratoire Photonique et Nanostructures, CNRS, Route de Nozay, Marcoussis, France
+Laboratoire de Photonique et Nanostructures (LPN-CNRS), Route de Nozay, 91460 Marcoussis, France
+Laboratoire de Photonique et Nanostructures CNRS, UPR 20, Route de Nozay, 91460 Marcoussis, France
+Laboratoire de Photonique et Nanostructures LPN, CNRS UPR20, Route de Nozay, Marcoussis, France
+Laboratoire de Photonique et Nanostructures LPN-CNRS UPR20, Route de Nozay, 91460 Marcoussis, France
+Laboratoire de Photonique et Nanostructures LPN-CNRS, UPR-20, Route de Nozay, Marcoussis, France
+Laboratoire de Photonique et Nanostructures, LPN-CNRS UPR20, Route de Nozay, Marcoussis, France
+Laboratoire de Photonique et de Nanostructures LPN-CNRS, CNRS, Route de Nozay, Marcoussis, France
+Laboratoire de Photonique et de Nanostructures LPN-CNRS, UPR-20, Route de Nozay, 91460 Marcoussis, France
+Laboratoire de Photonique et de Nanostructures, C.N.R.S., Marcoussis, France
+Laboratoire de Photonique et de Nanostructures, CNRS UPR 20, Marcoussis, France
+Laboratoire de Photonique et de Nanostructures, CNRS UPR 20, Route de Nozay, Marcoussis, France
+Laboratoire de Photonique et de Nanostructures, CNRS, route de Nozay, Marcoussis, France
+Laboratoire de Photonique et de Nanostructures, Route de Nozay, 91460 Marcoussis, France
+Laboratoire de Phyique des Solides, Université Paris-Sud, Centre Scientifique d' Orsay, 91405 Orsay Cedex, France
+Laboratoire de physique des solides, Université Paris-Sud, CNRS UMR 8502, Orsay, France
+Laboratoire des Materiaux Avances, CNRS, IN2P3, 7 Avenue Pierre de Coubertin, 69622 Villeurbanne, France
+Laboratoire des Matériaux Avancés, CNRS, IN2P3, Bâtiment Virgo, 7 Avenue Pierre de Coubertin, 69622 Villeurbanne, France
+Laboratoire des Matériaux Avancés, CNRS, IN2P3, Villeurbanne, France
+Laboratoire des Matériaux Avancés, IN2P3-CNRS, Lyon, France
+Laboratoire des Matériaux Avancés, Université Claude Bernard, Bâtiment VIRGO, 22 Bd Niels Bohr, F69622 Villeurbanne Cedex, France
+Laboratoire des Technologies de la Microélectronique, CNRS, 17 rue des Martyrs, F-38054 Grenoble, France
+Laboratoire d’Acoustique, UMR CNRS 6613, Université du Maine, Le Mans, France
+Laboratoire d’Energétique Moléculaire et Macroscopique, Combustion, CNRS, CentraleSupelec, Grande Voie des Vignes, Chatenay-Malabry, France
+Laboratoire matériaux et phénomènes quantiques, Université Paris Diderot, CNRS UMR 7162, 10, rue Alice-Domon-et-Léonie-Duquet, 75013 Paris, France
+Laboratory Kastler Brossel, 4 place Jusssieu, Paris, France
+Laboratory for Photonics and Nanostructures, Route de Nozay, Marcoussis, France
+Laboratory for Quantum Engineering and Micro-Nano Energy Technology, School of Physics and Optoelectronics, Xiangtan University, Xiangtan, China
+Laboratory for Vision System and Machine Intelligence, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology, Taejon 305-701, South Korea
+Laboratory of Atomic and Solid State Physics, Cornell University, Ithaca, NY, United States
+Laboratory of Atomic and Solid State Physics, Ithaca, New YY 14853, United States
+Laboratory of Modelling and Simulation in Engineering, Biomimetics and Prototypes, Faculty of Science, University of Yaoundé i, Cameroon
+Laboratory of Nanophotonics and Biosensing, Max Planck Institute for the Science of Light, Erlangen, Germany
+Laboratory of Optical Physics, Institute of Physics, Chinese Academy of Sciences, Beijing, China
+Laboratory of Photonics, Faculty of Science, University of Ngaoundéré, Cameroon
+Landessternwarte Heidelberg, Heidelberg, Germany
+Large Binocular Telescope Observatory, University of Arizona, 933 N. Cherry Ave., Tucson, AZ 85721- 0065, United States
+Laser and Plasma Research Institute, Shahid Beheshti University, G. C., Evin, Tehran, Iran
+Lavochkin Company, 24 Leningradsky prosp., 141400 Khimki Moscow reg., Russian Federation
+Lawrence Berkeley National Laboratory, Berkeley, CA, United States
+Lawrence Berkeley National Laboratory, Materials Sciences Division, Berkeley, CA 94720, United States
+Lemoptix SA, Ecublens CH, Switzerland
+Lemoptix SA, Switzerland
+Light-Matter Interactions Unit, OIST Graduate University, Onna-son, Okinawa 904-0495, Japan
+Light-Matter Interactions Unit, Okinawa Institute of Science and Technology Graduate University, Okinawa 904-0411, Japan
+Light-Matter Interactions Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, Japan
+Light-Matter Interactions Unit, Okinawa Institute of Science and Technology Graduate University, Onna-son, Okinawa, Japan
+LightSquared, Reston, VA, United States
+Low Temperature Laboratory, Aalto University School of Science, P.O. Box 15100, FI-00076 Espoo, Finland
+Low Temperature Laboratory, Aalto University, P.O. Box 15100, FI-00076 Aalto, Finland
+Ludwig-Maximilians-Universität München, D-80799 Munich, Germany
+Ludwig-Maximilians-Universität München, Schellingstr. 4, 80799 München, Germany
+Luminart Labs LLC, 21819 NE 1st St., Sammamish, WA 98074, United States
+M.S. Ramaiah Institute of Technology, Department of Physics, M.S.R. Nagara, Bangalore, India
+MATIS CNR-IMM, Dipartimento di Fisica e Astronomia, Università di Catania, Catania, Italy
+MIT Lincoln Laboratory, Lexington, MA 02420, United States
+MIT Lincoln Laboratory, United States
+MOE Key Laboratory for Multifunctional Materials and Structures, Xi’an Jiaotong University, Xi’an, China
+MOE Key Laboratory of Fundamental Physical Quantities Measurement, Huazhong University of Science and Technology, Wuhan, China
+MPB Communications Inc., 151 Hymus Blvd., Pointe Claire, QC H9R 1E9, Canada
+Macquarie University, Department of Physics and Astronomy, Sydney, NSW, Australia
+Maryland NanoCenter, University of Maryland, College Park, MD, United States
+Maryland Nanocenter, University of Maryland, College Park, MD 20742, United States
+Maryland Nanocenter, University of Maryland, College Park, MD, United States
+Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139, United States
+Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, 02139, United States
+Material Systems for Nanoelectronics, Chemnitz University of Technology, Reichenhainer Str. 70, 09107 Chemnitz, Germany
+Materials Physics Center CSIC-UPV/EHU, Donostia International Physics Center, Donostia-San Sebastián, Spain
+Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, United States
+Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, United States
+Materiaux et Phenomenes Quantiques, Universite Paris Diderot-CNRS, 10 rue Alice Domon et Leonie Duquet, 75013 Paris, France
+Matériaux et Phénomnes Quantiques, Université Paris Diderot-CNRS, 10 rue Alice Domon et Léonie Duquet, 75013 Paris, France
+Matériaux et Phénomènes Quantiques, Université Paris Diderot, CNRS, 10 rue Alice Domon et Léonie Duquet, Paris, France
+Matériaux et Phénomènes Quantiques, Université Paris Diderot, CNRS, Paris, France
+Matériaux et Phénomènes Quantiques, Université Paris Diderot, CNRS, Sorbonne Paris Cité, UMR 7162, 10 rue Alice Domon et Léonie Duquet, Paris, France
+Matériaux et Phénomènes Quantiques, Université Paris Diderot-CNRS, 10 rue Alice Domon et Léonie Duquet, 75013 Paris, France
+Max Planck Institut für Quantenoptik, D-85748 Garching, Germany
+Max Planck Institut für Quantenoptik, Garching, Germany
+Max Planck Institut für Quantenoptik, Hans-Kopfermann-Str. 1, Garching, Germany
+Max Planck Institute for Polymer Research, Ackermannweg 10, Mainz, Germany
+Max Planck Institute for Quantum Optics, D-85748 Garching, Germany
+Max Planck Institute for the Physics of Complex Systems, Dresden, Germany
+Max Planck Institute for the Physics of Complex Systems, Nöthnitzer Strasse 38, Dresden, Germany
+Max Planck Institute for the Physics of Complex Systems, Nöthnitzer Straße 38, D-01187 Dresden, Germany
+Max Planck Institute for the Science of Light, 91058 Erlangen, Germany
+Max Planck Institute for the Science of Light, Erlangen, Germany
+Max Planck Institute for the Science of Light, Günter-Scharowsky-Str. 1/Bau 24, 91058 Erlangen, Germany
+Max Planck Institute for the Science of Light, Günter-Scharowsky-Strasse 1/Bau 24, 91058 Erlangen, Germany
+Max Planck Institute for the Science of Light, Günther-Scharowsky-Strae 1/Bau 24, Erlangen, Germany
+Max Planck Institute for the Science of Light, Günther-Scharowsky-Straße 1, Erlangen, Germany
+Max Planck Institute for the Science of Light, Günther-Scharowsky-Straße 1/Bau 24, 91058 Erlangen, Germany
+Max Planck Institute for the Science of Light, Günther-Scharowsky-Straße 1/Bau 24, D-91058 Erlangen, Germany
+Max Planck Institute for the Science of Light, Günther-Scharowsky-Straße 1/Bau 24, Erlangen, Germany
+Max Planck Institute for the Science of Light, Günther-Scharowsky-Straße 1/Bldg. 24, D-91058 Erlangen, Germany
+Max Planck Institute for the Science of Light, Staudtst.2, Erlangen, Germany
+Max Planck Institute for the Science of Light, Staudtstr. 2, Erlangen, Germany
+Max Planck Institute for the Science of Light, Staudtstraße 2, Erlangen, Germany
+Max Planck Institute for the Science of Light, Staudtstraße 2., Erlangen, Germany
+Max Planck Institute für Quantenoptik, 85748 Garching, Germany
+Max Planck Institute of Quantum Optics, Hans-Kopfermann-Strasse 1, 85748 Garching, Germany
+Max Planck-Institute für Physik Komplexer Systeme, Nöthnitzer Str. 38, 01187 Dresden, Germany
+Max-Planck-Inst. Für Astronomie, Königstuhl 17, D-69117, Heidelberg, Germany
+Max-Planck-Inst. für Astronomie, Königstuhl 17, D-69117 Heidelberg, Germany
+Max-Planck-Institut fuer Radioastronomie, Auf dem Huegel 69, Bonn, Germany
+Max-Planck-Institut fur Quantenoptik, Hans-Kopfermann-Straβe 1, Garching, Germany
+Max-Planck-Institut für Astronomie (MPIA), Heidelberg, Germany
+Max-Planck-Institut für Physik (Werner-Heisenberg-Institut), Föhringer Ring 6, München, Germany
+Max-Planck-Institut für Quantenoptik, 85748 Garching, Germany
+Max-Planck-Institut für Quantenoptik, D-85478 Garching, Germany
+Max-Planck-Institut für Quantenoptik, Garching, 85748, Germany
+Max-Planck-Institut für Quantenoptik, Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-Str. 1, 85748 Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-Str.1, 85748 Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-Strasse 1, D-85748, Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-Strasse, 85748 Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-Straße 1, 85748 Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-Straße 1, D-85748 Garching, Germany
+Max-Planck-Institut für Quantenoptik, Hans-Kopfermann-strasse 1, Garching, Germany
+Max-Planck-Instiut für Quantenoptik, 85748 Garching, Germany
+McDonald Observatory, University of Texas, Austin, TX 78712, United States
+Mecartex, Losone, Switzerland
+Mechanical Engineering Department, Eindhoven University of Technology, Eindhoven, Netherlands
+Mechanical Engineering Department, Photonics Center, Boston University, Boston, MA 02215, United States
+Mechanical Engineering, Technion, Israel Institute of Technology, Israel
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, 1206 W. Green St, Urbana, IL 60801, United States
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, 1206 W. Green St., Urbana, IL 60801, United States
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, 1206 West Green Street, Urbana, IL, United States
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, United States
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Urbana, IL 60801, United States
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, United States
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign.
+Mechanical Science and Engineering, University of Illinois at Urbana-Champaign;
+Mechanical Science and Engineering, University of Illinois, 1206 W. Green St., Urbana, IL 60801, United States
+Melbourne Materials Institute School of Physics, University of Melbourne, Parkville, VIC, Australia
+Mesoscopic Optics and Quantum Electronics Laboratory, University of California, Los Angeles, CA, United States
+Micro and Nano Systems Initiative, Department of Mechanical Engineering, National University of Singapore, 9 Engineering Drive 1, Singapore 117576, Singapore
+Micro and Nano Systems Initiative, Department of Mechanical Engineering, National University of Singapore, 9 Engineering Drive 1, Singapore, Singapore
+Microelectronics Institute of Barcelona (IMB-CNM), CSIC, Barcelona, Spain
+Microelectronics Research Center, Cockrell School of Engineering, University of Texas at Austin, Austin, TX, United States
+Microphotonics Center, Department of Materials Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+Microtechnology Laboratory FBK-CMM, Povo, (TN), Italy
+Ming Hsieh Department of Electrical Engineering, University of Southern California, Los Angeles, CA, United States
+Mirea Technology, Daejeon 302-150, South Korea
+Monash University, Clayton Campus, Melbourne, VIC, Australia
+Mork Family Department of Chemical Engineering and Material Science, University of Southern California, Los Angeles, CA, United States
+NASA Goddard Space Flight Center, Greenbelt, MD 20771, United States
+NASA's Goddard Space Flight Center, 8800 Greenbelt Rd., Greenbelt, MD, 20771, United States
+NASA's Goddard Space Flight Center, 8800 Greenbelt Rd., Greenbelt, MD, United States
+NEC Research, Princeton, NJ, 08540, United States
+NEST, CNR Istituto Nanoscienze and Scuola Normale Superiore, Piazza San Silvestro 12, Pisa, Italy
+NEST, Istituto Nanoscienze, CNR, P.za S. Silvestro 12, Pisa, Italy
+NEST, Istituto Nanoscienze, Scuola Normale Superiore, Piazza San Silvestro 12, Pisa, I-56127, Italy
+NOVA Optical and Infrared Instrumentation Division at ASTRON, Oude Hoogeveensedijk 4, Dwingeloo, Netherlands
+NRC Herzberg Institute of Astrophysics, 5071 West Saanich Road, Victoria, BC, Canada
+NRC-National Institute for Nanotechnology, 11421 Saskatchewan Drive NW, Edmonton, AB T6G 2M9, Canada
+NRC-National Institute for Nanotechnology, 11421 Saskatchewan Drive NW, Edmonton, AB, Canada
+NRC-National Institute for Nanotechnology, 11421 Saskatchewan Drive NW, Edmonton, AB, T6G 2M9, Canada
+NSF Nanoscale Science and Engineering Center, 3112 Etcheverry Hall, University of California, Berkeley, California 94720, CA, United States
+NTT Basic Research Laboratories, NTT Corporation, 3-1, Morinosato Wakamiya Atsugi, Kanagawa 243-0198, Japan
+NTT Basic Research Laboratories, NTT Corporation, 3-1, Morinosato Wakamiya, Atsugi, Kanagawa, Japan
+NTT Basic Research Laboratories, Nippon Telegraph and Telephone Corporation, Atsugi, Japan
+NTT Nanophotonics Center, NTT Corporation, 3-1, Morinosato Wakamiya, Atsugi, Kanagawa, Japan
+NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore, Singapore 117542, Singapore
+NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore, Singapore, Singapore
+Nanjing Institute of Astronomical Optics & Technology, National Astronomical Observatories, Chinese Academy of Sciences, 188 Bancang Street, Nanjing, China
+Nano-Optics and Biophotonics Group, Experimental Physics 5, Wilhelm Conrad Röntgen-Center for Complex Material Systems (RCCM), University of Würzburg, Am Hubland, Germany
+Nano-Optics and Biophotonics Group, Experimentelle Physik 5, Universität Würzburg, Am Hubland, D-97074 Würzburg, Germany
+Nano-Optik, Institut für Physik, Humboldt Universität Zu Berlin, 10117 Berlin, Germany
+NanoFAB Facility, University of Alberta, Edmonton, AB, Canada
+NanoFab Facility, University of Alberta, Edmonton, Canada
+NanoPhotonics Centre, Cavendish Laboratory, Department of Physics, University of Cambridge, Cambridge, United Kingdom
+NanoPhotonics Centre, Cavendish Laboratory, University of Cambridge, JJ Thompson Ave, Cambridge, United Kingdom
+NanoPhotonics Centre, University of Cambridge, Cavendish Laboratory, Cambridge, United Kingdom
+Nanobiosensors and Bioanalytical Applications Group, Institut Catala de Nanociencia i Nanotecnologia (ICN2), CSIC, Bellaterra, Barcelona, Spain
+Nanocenter, University of Maryland, College Park, MD 20742, United States
+Nanophotonics Technology Center, Universitat Politècnica de València, Valencia 46022, Spain
+Nanophotonics Technology Center, Universitat Politècnica de València, Valencia, Spain
+NanophotonicsTechnology Center, Universitat Politècnica de València, Camino de Vera s/n, Valencia, Spain
+Nanosens, Berkelkade 11, NL 7201 JE Zutphen, Netherlands
+National Creative Research Center for Active Plasmonics Application Systems Inter, University Semiconductor Research Center and School of Electrical Engineering, Seoul National University, Gwanak-Gu Gwanakro 599, Seoul 151-744, South Korea
+National Engineering Laboratory for Fiber Optics Sensing Technology, Wuhan University of Technology, Wuhan, China
+National Institute for Nanotechnology, 11421 Saskatchewan Dr. NW, Edmonton, AB T6G 2M9, Canada
+National Institute for Nanotechnology, 11421 Saskatchewan Dr. NW, Edmonton, AB, Canada
+National Institute for Nanotechnology, 11421 Saskatchewan Drive Northwest, Edmonton, AB, Canada
+National Institute for Nanotechnology, Edmonton, AB T6G 2M9, Canada
+National Institute for Nanotechnology, Edmonton, AB, Canada
+National Institute of Standards and Tech., 325 Broadway, Boulder, CO, 80305-3337, United States
+National Institute of Standards and Technology (NIST), Boulder, CO, United States
+National Institute of Standards and Technology (NIST), Gaithersburg, MD 20899, United States
+National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899, United States
+National Institute of Standards and Technology, 325 Broadway, Boulder, CO, 80305, United States
+National Institute of Standards and Technology, Boulder, CO 80303, United States
+National Institute of Standards and Technology, Boulder, CO 80305, United States
+National Institute of Standards and Technology, Boulder, CO, United States
+National Institute of Standards and Technology, Center for Nanoscale Science and Technology, Gaithersburg, MD, United States
+National Institute of Standards and Technology, Gaithersburg, MD, United States
+National Laboratory of Solid State Microstructures and College of Engineering and Applied Sciences, Nanjing University, Nanjing, China
+National Laboratory of Solid State Microstructures, College of Engineering and Applied Sciences, Nanjing University, Nanjing, China
+National Laboratory of Solid State Microstructures, School of Physics, Nanjing University, Nanjing, China
+National Optical Astronomy Observatory, 950 N. Cherry Ave., Tucson, AZ, United States
+National Optical Astronomy Observatory, Tucson, AZ, United States
+National Renewable Energy Laboratory, Golden, Colorado, United States
+National Research Council of Canada, 5071 West Saanich Road, Victoria, BC, Canada
+National Research Council of Canada, Institute for Information Technology, Ottawa, Canada
+National Solar Observatory, 3665 Discovery Drive, Boulder, CO, United States
+National Solar Observatory, 950 Cherry Ave., Tucson, AZ, United States
+National Tsing Hua University, No. 101, Guangfu Road, East District, Hsinchu City, Taiwan
+National University for Information Technology, Mechanics and Optics (ITMO), Kronverkskiy, 49, St. Petersburg 197101, Russian Federation
+National University of Singapore, Singapore, Singapore
+Natl. Key Lab. of Science and Technology on Micro/Nanofabrication Institute of Microelectronics, Peking University, Beijing, China
+Naval Research Laboratory, NPOI, 10391 West Observatory Road, Flagstaff, AZ, United States
+Naval Research Laboratory, Washington, DC, United States
+Netherlands Organization for Applied Scientific Research, TNO, Stieltjesweg 1, Delft, Netherlands
+Neuroscience Center Zurich, Winterthurerstrasse 190, Zurich, Switzerland
+Neuroscience Research Center, Charité-Universitätsmedizin Berlin, Charitéplatz 1, Berlin, Germany
+Niels Bohr Institute, Copenhagen University, Blegdamsvej 17, 2100 Copenhagen, Denmark
+Niels Bohr Institute, Danish Quantum Optics Center QUANTOP, Copenhagen University, Blegdamsvej 17, 2100 Copenhagen, Denmark
+Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark
+Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, DK-2100 Copenhagen, Denmark
+Nishimura Co., Ltd, 10, Shirikiri-cho, Kamitoba, Minami-ku, Kyoto, Japan
+Nokia Mobile Phones, Elektroniikkatie 3, 90571 Oulu, Finland
+Nokia Mobile Phones, Visiokatu 3, 33721 Tampere, Finland
+Nokia, P.O. Box 86, 24101 Salo, Finland
+Nonlinear Physics Center, Australian National University, Canberra ACT 0200, Australia
+Nonlinear Physics Centre, RSPE, Australian National University, Canberra ACT 0200, Australia
+Nonlinear Physics Centre, Research School of Physics and Engineering, Australian National University, Canberra, ACT, Australia
+North China Research Institute of Electro-Optics, Beijing 100015, China
+Northern Arizona University, Department of Mechanical Engineering, NAU Engineering Building 69, 15600 South McConnell Drive, Flagstaff, AZ, United States
+Northrop Grumman Corporation, Mission Systems, Aurora, CO, United States
+Néel Institute, F-38042 Grenoble, France
+O v Lounasmaa Laboratory, Aalto University, PO Box 15100, FI-00076 Aalto, Finland
+O. V. Lounasmaa Laboratory, Aalto University, Finland
+O. V. Lounasmaa Laboratory, Low Temperature Laboratory, Aalto University, P.O. Box 15100, FI-00076 Aalto, Finland
+OIP Sensor Systems, Oudenaarde, Belgium
+OMP, 215 Rue Caron, Office #4, Quebec, QC, Canada
+ONERA, Physics Department, 29 Avenue de la Division Leclerc, 92322 Chtillon, France
+ONERA, Physics Department, 29 Avenue de la Division Leclerc, 92322 Châtillon, France
+ONERA, Physics and Instrumentation Department, Châtillon, France
+OOO Aéroékologiya, St. Petersburg, Russian Federation
+Onera-The French Aerospace Lab, Chemin de la Hunière, 91761 Palaiseau, France
+Optical Nanostructures Laboratory, Columbia University, NY 10027, United States
+Optical Nanostructures Laboratory, Columbia University, New York, NY 10027, United States
+Optical Nanostructures Laboratory, Columbia University, New York, NY, United States
+Optical Research Associates, 1800 West Park Drive, Westborough, MA, United States
+Optical Research Associates, Westborough, MA, United States
+Optical Science and Technology Center, Department of Physics and Astronomy, University of Iowa, Iowa City, IA, United States
+Optics Chair and Coating Cognizant Scientist for the Laser Interferometer Gravitational Wave Observatory (LIGO), American University, Washington, DC, United States
+Optivision Inc, Palo Alto, CA, 94304, United States
+Optoelectronics Research Center (ORC), University of Southampton, Southampton, United Kingdom
+Optoelectronics Research Centre, University of Southampton, Southampton SO17 1BJ, United Kingdom
+OxideMEMS Lab, Cornell University, Ithaca, NY, United States
+PRILM, Université Moulay Ismail, Faculté des Sciences, Meknes, Morocco
+PRILM, Université Moulay Ismail, Faculté des sciences, B.P 11201, Zitoun Meknès, Morocco
+Perimeter Institute for Theoretical Physics, 31 Caroline St. N, Waterloo, ON, Canada
+Pharmaceutical Sciences Laboratory, Faculty of Science and Engineering, Åbo Akademi University, BioCity, Tykistökatu 6A, Turku, Finland
+Photocoding, 460-102, Iwakura-Nakamachi, Sakyo-ku, Kyoto, Japan
+Photonic Research Group, Engineering Research Center, Yazd University, Yazd, Iran
+Photonics Center, Boston University, Boston, MA 02215, United States
+Photonics Centre, Tyndall National Institute, University College Cork, Cork, Ireland
+Photonics Laboratory, ETH Zurich, Zurich, Switzerland
+Photonics Laboratory, ETH Zürich, Zürich, Switzerland
+Photonics Research Corporation, 1493 Anchor Place, San Marcos, CA 92078, United States
+Photonics Research Group, Department of Information Technology, Ghent University, Belgium
+Photonics Research Group, Ghent University-imec, Sint-Pietersnieuwstraat 41, Gent, Belgium
+Photonics Research Group, INTEC, Ghent University, IMEC, Belgium
+Photonics and Optical Nanoscopy Laboratory, Department of Physics, Center for Energy Science, Indian Institute of Science Education and Research, Pune, India
+Photothera, 2260 Rutherford Rd., Ste. 101, Carlsbad, CA 92008, United States
+Physical Measurement Laboratory, National Institute of Standards and Technology (NIST), 100 Bureau Dr., Gaithersburg, MD, United States
+Physics Department, College of Science, Imam Muhammad ibn Saud Islamic University (IMSIU), P.O. Box 90950, Riyadh, Saudi Arabia
+Physics Department, Harvard University, Cambridge, MA 02138, United States
+Physics Department, Harvard University, Cambridge, MA, United States
+Physics Department, Massachusetts Institute of Technology, United States
+Physics Department, The University of Michigan, Ann Arbor, MI 48109-1040, USA
+Physics Department, University College Cork, Cork, Ireland
+Physics Department, University of Calabria, Ponte P. Bucci, Cubo 33B, 87036 Rende (CS), Italy
+Physics Department, University of Calabria, Rende (CS), Italy
+Physics Department, University of Calabria, Rende, CS, Italy
+Physics Department, University of Michigan, Ann Arbor, MI, United States
+Physik Department, Technische Universität München, James Franck Straße, Garching, Germany
+Physik-Department, TU Muenchen, 85748 Garching, Germany
+Physikalisches Institut, Röntgen Research Center for Complex Materials (RCCM), Universität Würzburg, Am Hubland, D-97074 Würzburg, Germany
+Physique du Rayonnement et l'Interaction Laser Matière, Université Moulay Ismail, Faculté des Sciences, Meknès, Morocco
+Playa pie de la cuesta # 702, CP 72030, Querétaro, Mexico
+Pohang University of Science and Technology, South Korea
+Post-Silicon Semiconductor Institute, Korea Institute of Science and Technology, Seoul, South Korea
+Purdue Quantum Center and Birck Nanotechnology Center, Purdue University, West Lafayette, IN, United States
+Purdue Quantum Center, Purdue University, West Lafayette, IN, United States
+QOLS (Quantum Optics and Laser Science Group), Blackett Laboratory, Imperial College London, London SW7 2BW, United Kingdom
+QOLS Blackett Laboratory, Imperial College London London SW7 2BW United Kingdom
+QOLS, Blackett Laboratory, Imperial College London, London SW7 2AZ, United Kingdom
+QOLS, Blackett Laboratory, Imperial College London, London, United Kingdom
+QUANTOP - Danish National Research Foundation Center for Quantum Optics, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, DK-2100 Copenhagen, Denmark
+QUANTOP, Department of Physics and Astronomy, University of Aarhus, DK-8000 Aarhus C, Denmark
+QUANTOP, Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark
+Qinetiq Space, Kruibeke 9150, Belgium
+Quantum Institute for Light and Atoms, Department of Physics, East China Normal University, Shanghai, China
+Quantum Optics Group, Department of Physics, Faculty of Science, University of Isfahan, Hezar Jerib, Isfahan, Iran
+Quantum Optics Group, Department of Physics, Faculty of Science, University of Isfahan, Isfahan, Iran
+Quantum Optoelectronics Laboratory, School of Physical Science and Technology, Southwest Jiaotong University, Chengdu, China
+Quantum Physics and Quantum Information Division, Beijing Computational Science Research Center, Beijing, China
+Quantum, Light and Matter, Physics and Astronomy, University of Southampton, Southampton, United Kingdom
+Quantum-functional Semiconductor Research Center, Dongguk University, Seoul, South Korea
+Quintenz Hybridtechnik, Neuried bei München, Germany
+RPC Photonics Inc., 330 Clay Road, Rochester NY 14623, United States
+RPC Photonics, Inc., RPC-330 Clay Road, Rochester, NY 14623, United States
+Raman Research Institute, Soft Matter Division, C.V. Raman Avenue, Bangalore, India
+Renewable and Sustainable Energy Institute, National Renewable Energy Laboratory, University of Colorado, Boulder, CO 80309, United States
+Research Laboratory of Electronics, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139, United States
+Research School of Engineering, College of Engineering and Computer Science, Australian National University, North Road, Canberra, ACT, Australia
+Rochester Institute of TechnologyNY, United States
+Rockwell Collins, Cedar Rapids, IA 52498, United States
+Rowland Institute at Harvard, Harvard University, 100 Edwin H. Land Boulevard, Cambridge, MA, United States
+SALT Foundation, P.O. Box 9, Observatory 7935, Cape Town, South Africa
+SALT Foundation, PO Box 9, Observatory 7935, Cape Town, South Africa
+SAO RAS, Karachaevo-Cherkessia, 369167 Nyzhny Arkhyz, Russian Federation
+SGT, Inc., 7701 Greenbelt Road, Greenbelt, MD 20770, United States
+SUPA and Department of Physics, University of Strathclyde, 107 Rottenrow East, Glasgow, United Kingdom
+SUPA and Department of Physics, University of Strathclyde, Glasgow G4 0NG, United Kingdom
+SUPA, Department of Physics, University of Strathclyde, Glasgow, United Kingdom
+SUPA, School of Physics and Astronomy, The University of Glasgow, Glasgow, United Kingdom
+SUPA, University of St. Andrews, School of Physics and Astronomy, St.Andrews, United Kingdom
+Saint Petersburg State University, Saint Petersburg, Russian Federation
+Samsung-SKKU Graphene Center (SSGC), Suwon, Gyeonggi 440-746, South Korea
+Sandia National Laboratories, Albuquerque, NM, United States
+Sandia National Laboratories, P.O. Box 5800, Albuquerque, NM, 87185-1082, United States
+Sandia National Laboratories, PO Box 5800 MS/1082, Albuquerque, NM, United States
+Sandia National Laboratories, PO Box 5800 MS1082, Albuquerque, NM 87185, United States
+Sandia National Laboratories, PO Box 5800, Albquerque, NM 87185-1082, United States
+Sandia National Laboratories, PO Box 5800, Albuquerque, NM 87185, United States
+Sandia National Laboratories, PO Box 5800, Albuquerque, NM 87185-1082, United States
+Sandia National Laboratories, PO Box 5800, Albuquerque, NM, United States
+School of Aerospace Engineering, Beijing Institute of Technology, Beijing, China
+School of Applied and Engineering Physics, Cornell University, Ithaca, NY 14853, United States
+School of Applied and Engineering Physics, Cornell University, Ithaca, NY, United States
+School of Chemistry and Material Science, Guizhou Normal University, Guiyang 550001, China
+School of Chemistry, Tel-Aviv University, Ramat-Aviv, Israel
+School of Chemistry, University of Bristol, Bristol, United Kingdom
+School of Communication and Information Engineering, University of Electronic Science and Technology of China, China
+School of Electric and Information Engineering, Xuchang University, Xuchang, China
+School of Electrical and Computer Engineering, Cornell University, Ithaca, NY, United States
+School of Electrical and Computer Engineering, Ithaca, New YY 14853, United States
+School of Electrical and Computer Engineering, Purdue University, West Lafayette, IN, United States
+School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798, Singapore
+School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Singapore
+School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe, AR, United States
+School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing 100044, China
+School of Engineering and Applied Science, Harvard University, Cambridge, MA 02138, United States
+School of Engineering and Applied Sciences, Harvard University, 29 Oxford Street, Cambridge, MA, United States
+School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, United States
+School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, United States
+School of Engineering and Information Technology, UNSW Canberra, Canberra, ACT 2600, Australia
+School of Engineering and Information Technology, UNSW, Canberra, ACT 2600, Australia
+School of Engineering and Information Technology, University of New South Wales CanberraACT, Australia
+School of Ethnic Minority Education, Beijing University of Posts and Telecommunications, Beijing, China
+School of Information Engineering, Guangdong Medical University, Dongguan, China
+School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China
+School of International and Public Affairs, Shanghai Jiao Tong University, Shanghai, China
+School of Mathematical Sciences, Rochester Institute of Technology, 85 Lomb Memorial Drive, Rochester, NY 14623, United States
+School of Mathematical Sciences, University of Nottingham, Nottingham, United Kingdom
+School of Mathematical and Physical Sciences, Xuzhou Institute of Technology, Xuzhou, China
+School of Mathematics and Computer Science, Guizhou Normal University, Guiyang 550001, China
+School of Mathematics and Physics The University of Queensland Brisbane, Queensland 4072 Australia
+School of Mathematics and Physics, Queen's University Belfast, Belfast, United Kingdom
+School of Mathematics and Physics, The University of Queensland, St Lucia, QLD 4072, Australia
+School of Mathematics and Physics, University of Queensland, Brisbane, QLD, Australia
+School of Mathematics and Physics, University of Queensland, QLD 4072, Australia
+School of Mathematics and Physics, University of Queensland, Saint Lucia, QLD 4072, Australia
+School of Mathematics and Physics, University of Queensland, St Lucia, QLD 4072, Australia
+School of Mathematics and Statistics, University of Melbourne, Melbourne, VIC, Australia
+School of Mechanical Engineering, Sungkyunkwan University, 2066, Seobu-ro., Jangan-gu, Suwon, Gyeonggi 440-746, South Korea
+School of Mechanical Engineering, Xi'An Jiaotong University, Xi'an, China
+School of Medical Devices, Shenyang Pharmaceutical University, Shengyang 110016, China
+School of Natural Sciences, University of California, Merced, CA, United States
+School of Optical and Electrical Information, Huazhong University of Science and Technology, 1037 Luoyu Road, Hongshan District, Wuhan, Hubei, China
+School of Optical and Electronic Information, Huazhong University of Science and Technology, Wuhan, China
+School of Optoelectronics, Beijing Institute of Technology, Beijing 100081, China
+School of Physical Sciences, Jawaharlal Nehru University, New Delhi 110067, India
+School of Physical Sciences, Jawaharlal Nehru University, New Delhi, India
+School of Physical Sciences, Jawaharlal Nehru University, New Delhi-110067, India
+School of Physical Sciences, University of Chinese Academy of Sciences, Beijing, China
+School of Physical Sciences, University of Chinese Academy of Sciences, No. 19A Yuquan Road, Beijing, China
+School of Physics and Advanced Materials, University of Technology Sydney, Ultimo, NSW, Australia
+School of Physics and Astronomy, Rochester Institute of Technology, 84 Lomb Memorial Drive, Rochester, NY 14623, United States
+School of Physics and Astronomy, SUPA, University of Glasgow, Glasgow G12 8QQ, United Kingdom
+School of Physics and Astronomy, Seoul National University, Seoul 151-742, South Korea
+School of Physics and Astronomy, University of Minnesota, Minneapolis, MN, United States
+School of Physics and Astronomy, University of Nottingham, Nottingham NG7 2RD, United Kingdom
+School of Physics and Astronomy, University of Southampton, Southampton SO17 1BJ, United Kingdom
+School of Physics and Astronomy, University of Southampton, Southampton, United Kingdom
+School of Physics and Astronomy, University of St Andrews, St Andrews, United Kingdom
+School of Physics and Astronomy, University of St. Andrews, North Haugh, St. Andrews, KY16 9SS, United Kingdom
+School of Physics and Astronomy, University of St. Andrews, St.Andrews, United Kingdom
+School of Physics and Electronic Electrical Engineering, Huaiyin Normal University, 111 West Chang Jiang Road, Huaian 223001, China
+School of Physics and Electronic Electrical Engineering, Huaiyin Normal University, Huaian, China
+School of Physics and Electronic Electrical Engineering, Huaiyin Normal University, Huai’an, China
+School of Physics and Electronics, Central South University, Changsha, China
+School of Physics and Optoelectronic Technology, Dalian University of Technology, Dalian 116024, China
+School of Physics and Optoelectronic Technology, Dalian University of Technology, Dalian, China
+School of Physics and Optoelectronics, Xiangtan University, Xiangtan, China
+School of Physics, Huazhong University of Science and Technology, Wuhan, China
+School of Physics, Northeast Normal University, Changchun 130024, China
+School of Physics, Northeast Normal University, Changchun, China
+School of Physics, Northeast Normal University, Changchun, Jilin 130024, China
+School of Physics, South China University of Technology, Guangzhou, China
+School of Physics, Sun Yat-Sen University, Guangzhou, China
+School of Physics, University of Melbourne, VIC 3010, Australia
+School of Physics, University of Sydney, NSW 2006, Australia
+School of Physics, University of Sydney, Sydney, NSW, Australia
+School of Physics, West University of Timisoara, 4 Vasile Parvan Ave., Timisoara 300223, Romania
+School of Physics, West University of Timisoara, 4 Vasile Parvan Ave., Timisoara, Romania
+School of Science and Technology, Physics Division, University of Camerino, Camerino (MC), Italy
+School of Science and Technology, Physics Division, University of Camerino, I-62032 Camerino (MC), Italy
+School of Science and Technology, Physics Division, University of Camerino, via Madonna delle Carceri, 9, Camerino (MC), Italy
+School of Science and Technology, Physics Division, University of Camerino, via Madonna delle Carceri, 9, I-62032 Camerino (MC), Italy
+School of Science and Technology, Physics Division, University of Camerino, via Madonna delle Carceri, Camerino (MC) 9, Italy
+School of Science, Anhui University of Science and Technology, Huainan, China
+School of Science, Beijing University of Posts and Telecommunications, Beijing, China
+School of Science, Changchun University, Changchun, China
+School of Science, Hubei Province Key Laboratory of Intelligent Robot, Wuhan Institute of Technology, Wuhan, China
+School of Science, Qingdao Technological University, Qingdao, China
+School of Space Research, Kyung Hee University, 1732, Deogyeong-Daero, Giheung-Gu, Yongin-Si, Gyeonggi-Do, South Korea
+Sci. Res. Ctr. of Ecological Safety, Russian Academy of Sciences, St. Petersburg, Russian Federation
+Science Drive 2, Singapore, Singapore
+Science Institute, University of Iceland, Dunhagi-3, IS-107 Reykjavik, Iceland
+Scuola Normale Superiore, CNISM, Pisa 56126, Italy
+Scuola Normale Superiore, CNISM, Pisa, Italy
+Scuola Normale Superiore, NEST, Istituto Nanoscienze - CNR, Pisa, Italy
+Scuola Normale Superiore, Pisa, Italy
+Scuola Superiore di Catania, Università di Catania, Catania, Italy
+Seoul National University Hospital, Biomedical Research Institute, 101 Daehakro Chungrogu, Seoul, South Korea
+Servicevision, C/ Rios Rosas 20, Cornella de Llobregat 08940, Spain
+Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, 390 Qinghe Street, Jiading District, Shanghai, 201800, China
+Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai, China
+SiNaPS-MINATEC, CEA Grenoble, 17 rue des Martyrs, F-38054 Grenoble, France
+Sigmadyne, 803 West Ave, Rochester, NY 14611, United States
+Sigmadyne, Inc., 803 West Avenue, Rochester, NY 14611, United States
+Sigmadyne, Inc., Rochester, NY, United States
+Singapore Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075, Singapore
+SnellOptics, Prat de la Riba, 35 local 3, Interior, Terrassa 08222, Spain
+Sorbonne Universités, UPMC Univ. Paris 06, CNRS-UMR 7588, Institut des NanoSciences de Paris, Paris, France
+South African Astronomical Observatory, Observatory 7935, Cape Town, South Africa
+South African Astronomical Observatory, P.O. Box 9, Observatory 7935, Cape Town, South Africa
+Space Science Institute, Macau University of Science and Technology, Avenida Wai Long, Macau
+Space Sciences Laboratory, University of California at Berkeley, Berkeley, CA, United States
+State Key Lab for Mesoscopic Physics, School of Physics, Peking University, Beijing 100871, China
+State Key Laboratory for Mesoscopic Physics and School of Physics, Peking University
+State Key Laboratory for Mesoscopic Physics, School of Physics, Peking University, Beijing 100871, China
+State Key Laboratory for Strength and Vibration of Mechanical Structures, Xi’an Jiaotong University, Xi’an, China
+State Key Laboratory of Information Photonics and Optical Communications, Beijing University of Posts and Telecommunications, Beijing, China
+State Key Laboratory of Low Dimensional Quantum Physics, Department of Physics, Tsinghua University, Beijing, China
+State Key Laboratory of Low-Dimensional Quantum Physics, Department of Physics, Tsinghua University, Beijing, China
+State Key Laboratory of Low-dimensional Quantum Physics and Department of Physics, Tsinghua University, Beijing, China
+State Key Laboratory of Low-dimensional Quantum Physics, Department of Physics, Tsinghua University, Beijing, China
+State Key Laboratory of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences, Wuhan, China
+State Key Laboratory of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institution of Physics and Mathematics, Chinese Academy of Sciences, Wuhan, China
+State Key Laboratory of Mesoscopic Physics and School of Physics, Collaborative Innovation Center of Quantum Matter, Peking University, Beijing, China
+State Key Laboratory of Mesoscopic Physics, School of Physics, Peking University, Beijing 100871, China
+State Key Laboratory of Modern Optical Instrumentation, Department of Optical Engineering, Zhejiang University, Hangzhou 310027, China
+State Key Laboratory of Modern Optical Instrumentation, Department of Optical Engineering, Zhejiang University, Hangzhou, China
+State Key Laboratory of Optoelectronic Materials and Technologies, Sun Yat-Sen University, Guangzhou, China
+State Key Laboratory of Precision Measuring Technology and Instruments, Tianjin University, Tianjin 300072, China
+State Key Laboratory of Precision Spectroscopy, Department of Physics, East China Normal University, Shanghai 200062, China
+State Key Laboratory of Precision Spectroscopy, Department of Physics, East China Normal University, Shanghai, China
+State Key Laboratory of Precision Spectroscopy, Dept. of Physics, East China Normal University, Shanghai, 200062, China
+State Key Laboratory of Precision Spectroscopy, East China Normal University, Shanghai, China
+State Key Laboratory of Quantum Optics and Quantum Optics Devices, Institute of Opto-Electronics, Shanxi University, Taiyuan, China
+State Key Laboratory of Quantum Optics and Quantum Optics Devices, Shanxi University, Taiyuan, China
+State Key Laboratory of Quantum Optics and Quantum Optics Devices, Shanxi University, Taiyuan,030006, China
+State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China
+Sterrewacht Leiden, Universiteit Leiden, Niels Bohrweg 2, Leiden, Netherlands
+Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ, United States
+Subaru Telescope, National Astronomical Observatory of Japan, 650 North A'ohoku Place, Hilo, HI, United States
+Sumitomo Electric Industries Ltd., Osaka, Japan
+Surface Mounting Technology Department, Mirae Corporation, Cheonan 330-220, South Korea
+Swiss Federal Institute of Technology (EPFL), CH-1015 Lausanne, Switzerland
+Swiss Federal Institute of Technology (EPFL), CH1015 Lausanne, Switzerland
+Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland
+Synergetic Innovation Center for Quantum Effects and Applications, Hunan Normal University, Changsha, China
+Synergetic Innovation Center of Quantum Information and Quantum Physics, University of Science and Technology of China, Hefei, Anhui, China
+Synergetic Innovation Center of Quantum Information and Quantum Physics, University of Science and Technology of China, Hefei, China
+TWI Ltd, Granta Park, Great Abington, Cambridge, United Kingdom
+Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400005, India
+Technische Physik, Universität Würzburg, Am Hubland, D-97074 Würzburg, Germany
+Technische Universität München, D-85748 Garching, Germany
+Technische Universität München, Physik Department, James Franck Strasse, 85748 Garching, Germany
+Technische Universität München, Physik Department, James Franck Straße, Garching, Germany
+Texas Tech. University, United States
+Theoretical Astrophysics 350-17, California Institute of Technology, Pasadena, CA 91125, United States
+Theoretical Astrophysics, California Institute of Technology, Pasadena, CA 91106, United States
+Theoretical Physics Institute, University of Alberta, Edmonton, AB, Canada
+Theoretische Physik, Universität des Saarlandes, Saarbrücken, Germany
+Thomas J. Watson Sr Laboratory of Applied Physics, California Institute of Technology, Pasadena, CA 91125, United States
+Thomas J. Watson, Sr. Laboratories of Applied Physics, California Institute of Technology, Pasadena, CA, United States
+Thomas J. Watson, Sr., Laboratory of Applied Physics, California Institute of Technology, Pasadena, CA 91125, United States
+Tsinghua National Laboratory for Information Science and Technology, Beijing, China
+Tsinghua National Laboratory of Information Science and Technology, Beijing, China
+U.S. Army Research Laboratory, Computational and Information Sciences Directorate, Adelphi, MD 20783, USA
+U.S. Army Research Laboratory, Computational and Information Sciences Directorate, Adelphi, MD, United States
+UK Astronomical Technology Centre, Royal Observatory Edinburgh, Blackford Hill, Edinburgh EH9 3HJ, United Kingdom
+UK Astronomy Technology Centre, Royal Observatory, Blackford Hill, Edinburgh, United Kingdom
+UPMC Univ Paris 06, Paris, France
+Ulyanovsk State University, L. Tolstoy-str., 42, Ulyanovsk 432017, Russian Federation
+United States Military Academy, Electrical Engineering and Computer Science, 646 Swift Road, West Point, NY 10996-1905, United States
+Univ. Grenoble Alpes, Grenoble, France
+University College London, United Kingdom
+University College, Dublin, Ireland
+University of Applied Sciences Giessen Friedberg, Wilhelm-Leuschner-Str 13, 61169 Friedberg, Germany
+University of Arizona, College of Optical Sciences, Department of Physics, Tucson, AZ 85721, United States
+University of Arizona, Tucson, AZ, United States
+University of Basel, Basel, Switzerland
+University of California at Berkeley Space Sciences Laboratory, Berkeley, CA, United States
+University of California, 15200 North Lake Road, Merced, CA 95343, United States
+University of California, 5200 North Lake Road, Merced, CA, United States
+University of California, Berkeley, CA, United States
+University of California, Berkeley, Department of Physics, CA 94720, United States
+University of California, Observatories, Lick, United States
+University of California, Santa Cruz, CA, United States
+University of Chinese Academy of Sciences, Beijing, China
+University of Chinese, Academy of Sciences, Beijing, China
+University of Colorado, Department of Electrical and Computer Engineering, Boulder. CO 80309–0425 USA, United States
+University of Duisburg-Essen, Lotharstraße 1, Duisburg, Germany
+University of Dundee, School of Engineering, Physics and Mathematics, Dundee, United Kingdom
+University of Durham, Durham, United Kingdom
+University of Erlangen-Nürnberg, Institute for Theoretical Physics, Staudtstr. 7, Erlangen, Germany
+University of Erlangen-Nürnberg, Institute for Theoretical Physics, Staudtstrasse 7, Erlangen, Germany
+University of Illinois at Chicago, Chicago, IL 60607, United States
+University of Jyväskylä, Department of Physics, Nanoscience Center, PO Box 35 (YFL), Jyväskylä, Finland
+University of Michigan, Electrical and Computer Engineering, 2600 Bonisteel Blvd., Ann Arbor, MI 48109, United States
+University of Neuchâtel, Institute of Microtechnology (IMT), Rue Breguet 2, CH-2000 Neuchâtel, Switzerland
+University of Neuchâtel, Institute of Microtechnology (IMT), Rue Jaquet Droz 1, CH-2007 Neuchâtel, Switzerland
+University of New Mexico, Albuquerque, NM, United States
+University of Oxford, Denys Wilkinson Building, Keble Road, Oxford, United Kingdom
+University of Rochester, New York, United States
+University of Science and Technology, 217 Gejeong-Ro, Yuseong-Gu, Daejeon, South Korea
+University of Science and Technology, Daejeon 305-348, South Korea
+University of Vienna Faculty of Physics, Vienna Center for Quantum Science and Technology (VCQ), Boltzmanngasse 5, A-1090 Vienna, Austria and Institute for Quantum Optics and Quantum Information (IQOQI) Austrian Academy of Sciences Boltzmanngasse 3 Vienna A-1090 Austria
+University of Vienna, Faculty of Physics, VCQ, Boltzmanngasse 5, Vienna, Austria
+University of Vienna, Faculty of Physics, Vienna Center for Quantum Science and Technology (VCQ), Boltzmanngasse 5, Vienna, Austria
+University of Waterloo, 200 University Avenue West, Waterloo, ON, Canada
+University of Western Australia, 35 Stirling Highway, Crawley, WA, Australia
+Università degli Studi di Padova, Dipartimento di Fisica e Astronomia, Vicolo dell'Osservatorio 3, Padova, Italy
+Università di Trieste, Dipartimento di Fisica, Via Valerio, 2, 34127 Trieste, Italy
+Universitá degli Studi del Sannio, Via Port'Arsa, 11, Benevento, Italy
+Universität Würzburg, Germany
+Université Paris Diderot, 10, rue Alice Domon et Léonie Duquet, Paris, Cedex 13, France
+Université Paris Diderot, F-75205 Paris Cedex 13, France
+Université Paris Diderot, Paris Cedex 13, France
+Université Paris Diderot, Sorbonne Paris Cité, Paris, France
+Université d'Angers, Département GMP, 2 boulevard du Ronceray, Angers, France
+VTT Electronics, Kaitoväylä 1, 90571 Oulu, Finland
+VTT Technical Research Centre of Finland, P.O. Box 1000, Espoo, Finland
+VTT, Kaitoväylä 1, 90570 Oulu, Finland
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, A-1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, A-1090 Wien, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Boltzmannagsse 5, 1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Boltzmanngasse 5, 1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Boltzmanngasse 5, A-1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Boltzmanngasse 5, Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Vienna, Austria
+Vienna Center for Quantum Science and Technology (VCQ), Faculty of Physics, University of Vienna, Wien, Austria
+Vienna Center for Quantum Science and Technology (VCQ), University of Vienna, Austria
+Vienna Center for Quantum Science and Technology, Faculty of Physics, University of Vienna, Boltzmanngasse 5, 1-1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology, Faculty of Physics, University of Vienna, Boltzmanngasse 5, 1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology, Faculty of Physics, University of Vienna, Boltzmanngasse 5, A-1090 Vienna, Austria
+Vienna Center for Quantum Science and Technology, Faculty of Physics, University of Vienna, Vienna, Austria
+Vienna Center for Quantum Science and Technology, Institute for Atomic and Subatomic Physics, Vienna University of Technology, Vienna, Austria
+Vienna Center of Quantum Science and Technology, Faculty of Physics, University of Vienna, Boltzmanngasse 5, Vienna, Austria
+Wavefront Optics, Edinburgh, United Kingdom
+Wigner Research Centre for Physics, Hungarian Academy of Sciences, P.O. Box 49, H-1525 Budapest, Hungary
+Wigner Research Centre for Physics, Institute for Solid State Physics and Optics, Budapest, Hungary
+Wilczek Quantum Center, Zhejiang University of Technology, Hangzhou, China
+Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China
+Wuhan National Laboratory for Optoelectronics, School of Physics, Huazhong University of Science and Technology, Wuhan, China
+Wyss Institute for Biologically Inspired Engineering, Harvard University, Cambridge, MA 02138, United States
+Yale Institute of Nanoscience and Quantum Engineering, 15 Prospect Street, New Haven, CT 06511, United States
+Yale University, Department of Applied Physics, 217 Prospect St, New Haven, CT 06520, United States
+Yale University, Department of Applied Physics, New Haven, CT 02515, United States
+Yale University, Department of Physics, New Haven, CT 06520, United States
+Yale University, New Haven, CT 06520, United States
+Zentrum Mathematik der Technische Universität München, Boltzmann-strasse 3, Garching, Germany
+École Polytechnique Fédérale de Lausanne (EPFL), 1015 CH, Lausanne, Switzerland
+École Polytechnique Fédérale de Lausanne (EPFL), 1015 Lausanne, Switzerland
+École Polytechnique Fédérale de Lausanne (EPFL), Ausanne, Switzerland
+École Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland
+École Polytechnique Fédérale de Lausanne (EPFL), CH1015 Lausanne, Switzerland
+École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+École polytechnique fédérale de Lausanne (EPFL), Ch-1015 Lausanne, Switzerland

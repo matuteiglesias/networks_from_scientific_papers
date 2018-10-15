@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lat" type="double" />
+      <attribute id="1" title="lng" type="double" />
+      <attribute id="2" title="cou" type="string" />
+      <attribute id="3" title="al1" type="string" />
+    </attributes>
+    <nodes>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="-23.0" />
+          <attvalue for="1" value="-51.0" />
+          <attvalue for="2" value="BR" />
+          <attvalue for="3" value="PR" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="-28.0" />
+          <attvalue for="1" value="-49.0" />
+          <attvalue for="2" value="BR" />
+          <attvalue for="3" value="SC" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="4" target="5" weight="0.0769230769231" />
+    </edges>
+  </graph>
+</gexf>
