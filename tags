@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/matias/repos/networks_from_scientific_papers/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+base	landrina_nw.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+cc	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://creativecommons.org/ns#
+clipPath4100	landrina_nw.svg	/^       id="clipPath4100">$/;"	d
+clipPath4100	landrina_nw.svg	/^       id="clipPath4100">$/;"	i
+clipPath4112	landrina_nw.svg	/^       id="clipPath4112">$/;"	d
+clipPath4112	landrina_nw.svg	/^       id="clipPath4112">$/;"	i
+dc	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+defs4	landrina_nw.svg	/^     id="defs4">$/;"	i
+g4116	landrina_nw.svg	/^       transform="matrix(0.65276486,0,0,0.65276486,-498.71665,203.21943)">$/;"	i
+image3063	landrina_nw.svg	/^         y="435.69638" \/>$/;"	i
+image3209	landrina_nw.svg	/^         y="-977.61273" \/>$/;"	i
+image3209-3	landrina_nw.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+image3302	landrina_nw.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+inkscape	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+layer1	landrina_nw.svg	/^     id="layer1">$/;"	i
+metadata7	landrina_nw.svg	/^     id="metadata7">$/;"	i
+ns6084f1500101	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://www.w3.org/2000/svg
+rdf	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rect3305	landrina_nw.svg	/^         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.12778091;stroke-miterl/;"	i
+rect4102	landrina_nw.svg	/^         y="-672.06934" \/>$/;"	i
+rect4114	landrina_nw.svg	/^         style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opac/;"	i
+sodipodi	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+svg	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://www.w3.org/2000/svg
+svg2	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	i
+xlink	landrina_nw.svg	/^   sodipodi:docname="New document 1">$/;"	n	uri:http://www.w3.org/1999/xlink
